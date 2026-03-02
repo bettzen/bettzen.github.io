@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bettzen</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on bettzen</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 27 Feb 2026 22:35:32 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于bettzen</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 27 Feb 2026 22:35:32 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;关于我&#34;&gt;关于我&lt;/h1&gt;&#xA;&lt;p&gt;欢迎来到我的视觉空间！我是一名热衷于用镜头和设计捕捉世界之美的创作者。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/my-desk.jpg&#34; alt=&#34;我的工作台&#34;&gt;&lt;br&gt;&#xA;&lt;em&gt;我的创意角落，灵感诞生之地。&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;我是谁&#34;&gt;我是谁&lt;/h2&gt;&#xA;&lt;p&gt;简单介绍一下您自己。可以包括您的背景、专业领域、创作理念，或者任何您想与访客分享的故事。例如：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;摄影&lt;/strong&gt;：专注于城市建筑与自然风光。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;设计&lt;/strong&gt;：致力于极简与功能性结合。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;信念&lt;/strong&gt;：相信好的视觉作品能跨越语言，直抵人心。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;联系与合作&#34;&gt;联系与合作&lt;/h2&gt;&#xA;&lt;p&gt;我始终对新的灵感碰撞和合作机会持开放态度。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;📧 邮箱&lt;/strong&gt;：bettzen@qq.com （请替换为您的真实邮箱）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;🌐 网站&lt;/strong&gt;：本网站即是我最新的作品集与日志。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;📷 社交媒体&lt;/strong&gt;：您也可以在 &lt;a href=&#34;#&#34;&gt;Instagram&lt;/a&gt; 或 &lt;a href=&#34;#&#34;&gt;微博&lt;/a&gt; 上找到我。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;本网站&#34;&gt;本网站&lt;/h2&gt;&#xA;&lt;p&gt;这个网站由 &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; 静态生成器驱动，使用 &lt;a href=&#34;https://github.com/vimux/mainroad&#34;&gt;Mainroad&lt;/a&gt; 主题。它是我分享作品、记录灵感的自留地。&lt;/p&gt;&#xA;&lt;p&gt;感谢您的驻足！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于我</title>
+      <link>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+      <pubDate>Fri, 27 Feb 2026 22:17:24 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>我的第二篇作品</title>
+      <link>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E4%BD%9C%E5%93%81/</link>
+      <pubDate>Fri, 27 Feb 2026 22:17:16 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E4%BD%9C%E5%93%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Showcase</title>
+      <link>http://localhost:1313/posts/my-first-showcase/</link>
+      <pubDate>Fri, 27 Feb 2026 21:28:57 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-showcase/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/1.jpg&#34; alt=&#34;图片描述&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
