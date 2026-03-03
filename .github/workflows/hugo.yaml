@@ -5,26 +5,37 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./  # 为所有步骤设置默认工作目录
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive
+
+      - name: Debug - List files
+        run: |
+          echo "Contents of root directory:"
+          ls -la
+          echo ""
+          echo "Contents of themes directory:"
+          ls -la themes/
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.108.0' # 一个非常稳定的旧版本
+          hugo-version: ‘0.157.0‘  # 使用与您本地匹配的稳定版本
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --verbose  # 添加 --verbose 获取更多信息
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }} # 改用自动令牌
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          force_orphan: true
