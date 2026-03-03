@@ -1,7 +1,7 @@
 baseURL = 'https://bettzen.github.io/' # 【重要】请将 `your-username` 替换为您实际的GitHub用户名
 languageCode = 'zh-CN'
 title = 'bettzen'                  # 【请修改】您网站的名称
-theme = "mainroad"  # 或者 "Mainroad"，必须与文件夹名一致
+theme = "Mainroad"
 
 [params]
   # 网站描述，用于搜索引擎显示
