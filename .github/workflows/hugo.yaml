@@ -13,7 +13,7 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}  # 添加这行
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
