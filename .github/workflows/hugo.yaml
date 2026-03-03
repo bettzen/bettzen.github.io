@@ -17,7 +17,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'      # 修改这里：使用 'latest' 替代具体版本号
+          hugo-version: 'latest'
           extended: true
 
       - name: Build with Hugo
@@ -26,5 +26,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
+          external_repository: bettzen/bettzen.github.io
+          publish_branch: main
