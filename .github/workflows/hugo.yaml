@@ -10,21 +10,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          submodules: false  # 我们不再依赖子模块，改为手动克隆
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.140.0'
           extended: true
-
-      # 【核心修复】手动克隆主题，确保其100%存在
-      - name: Clone Ananke Theme
-        run: |
-          rm -rf themes/ananke
-          git clone --depth 1 https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
-          ls -la themes/ananke/  # 验证克隆成功
 
       - name: Build
         run: hugo --minify
