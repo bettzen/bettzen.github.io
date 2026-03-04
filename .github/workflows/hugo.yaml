@@ -8,21 +8,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository and submodules
         uses: actions/checkout@v4
         with:
           submodules: recursive
+          fetch-depth: 0 # 获取所有历史，有助于子模块初始化
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.157.0'
+          hugo-version: ‘latest’ # 使用最新稳定版
           extended: true
 
       - name: Build
         run: hugo --minify
 
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
