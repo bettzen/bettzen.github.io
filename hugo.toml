@@ -1,4 +1,4 @@
 baseURL = 'https://bettzen.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'My Hugo Site'
+# 确保这里没有 theme = 'ananke' 或任何 theme 设置
