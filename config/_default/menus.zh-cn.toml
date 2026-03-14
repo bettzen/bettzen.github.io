@@ -1,0 +1,20 @@
+[[main]]
+  name = "首页"
+  url = "/"
+  weight = 10
+
+[[main]]
+  name = "关于我们"
+  url = "/about/"
+  weight = 20
+
+[[main]]
+  name = "所有产品"
+  url = "/posts/"
+  weight = 35
+
+
+[[main]]
+  name = "联系我们"
+  url = "/contact/"
+  weight = 50   # 确保顺序正确，比如前面优势是40，这里用50
