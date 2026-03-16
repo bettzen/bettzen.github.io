@@ -1,0 +1,17 @@
+{{- $tags := .Site.Taxonomies.tags -}}
+{{- if $tags -}}
+<div class="tag-cloud" style="margin-top: 2rem; text-align: center;">
+  {{- range $name, $taxonomy := $tags -}}
+    {{- $count := $taxonomy.Count -}}
+    {{- $weight := add (mul $count 0.3) 0.8 -}} <!-- 根据标签数量计算字体大小，范围约0.8~2.0 -->
+    <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" 
+       style="display: inline-block; margin: 0.5rem; padding: 0.3rem 0.8rem; 
+              background: #f0f0f0; border-radius: 20px; text-decoration: none; 
+              font-size: {{ $weight }}rem; color: #333;">
+      {{- $name -}} <span style="font-size: 0.8rem; color: #666;">({{ $count }})</span>
+    </a>
+  {{- end -}}
+</div>
+{{- else -}}
+<p>暂无标签</p>
+{{- end -}}

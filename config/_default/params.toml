@@ -1,0 +1,6 @@
+[list]
+  showAuthor = true
+[article]
+  showTaxonomies = true
+[security]
+  enableSRI = false

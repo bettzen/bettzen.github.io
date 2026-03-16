@@ -1,0 +1,15 @@
+title = "深圳百陈服装有限公司 | Bettzen"
+languageCode = "zh-CN"
+languageName = "中文"
+weight = 1
+
+[params]
+  [params.author]
+    name = "Bettzen"  # 可以留空或填你的品牌名
+    # image = "img/author.jpg" # 如果你有头像，可以取消注释并填上路径
+    # headline = "深圳女装源头厂家"
+    # bio = "18年深耕女装行业，值得信赖的供应商"
+    links = [
+      { twitter = "https://twitter.com/bettzen01" },  # 替换为你的实际链接
+      { instagram = "https://instagram.com/bcfuzhuang" } # 替换为你的实际链接
+    ]

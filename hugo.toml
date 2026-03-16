@@ -1,0 +1,10 @@
+baseURL = 'https://bettzen.github.io/'
+theme = "blowfish"
+title = "深圳百陈服装有限公司 | Bettzen"
+defaultContentLanguage = "zh-cn"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+publishDir = "docs"
+[params]
+  enableSRI = false
