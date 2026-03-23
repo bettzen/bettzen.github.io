@@ -10,8 +10,8 @@
 
 [[main]]
   name = "所有产品"
-  url = "/posts/"
-  weight = 35
+  url = "/products/"
+  weight = 30
 
 
 [[main]]
