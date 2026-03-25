@@ -10,7 +10,7 @@
 
 [[main]]
   name = "所有产品"
-  url = "/products/"
+  url = "/product-list/"
   weight = 30
 
 

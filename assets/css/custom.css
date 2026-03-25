@@ -1,0 +1,38 @@
+.product-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.product-item {
+  display: flex;
+  gap: 1.5rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1.5rem;
+}
+.product-thumb {
+  width: 150px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.product-info h3 {
+  margin: 0 0 0.5rem;
+}
+.product-meta {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #666;
+}
+.product-meta a {
+  margin-right: 0.5rem;
+}
+@media (max-width: 640px) {
+  .product-item {
+    flex-direction: column;
+  }
+  .product-thumb {
+    width: 100%;
+    max-width: 200px;
+  }
+}

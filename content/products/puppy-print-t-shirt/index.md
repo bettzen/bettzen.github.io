@@ -1,4 +1,5 @@
 ---
+image: "/images/products/puppy-print-t-shirt-1.jpg"
 title: "Wholesale Custom Print T-Shirts Puppy Digital Print Tee | Low MOQ"
 date: 2026-03-22
 draft: false

@@ -1,4 +1,5 @@
 ---
+image: "/images/products/khaki-tapered-pants-1.jpg"
 title: "Wholesale Women‘s Trousers Khaki Stretch Tapered Pants | Carrot Fit"
 date: 2026-03-22
 draft: false

@@ -1,4 +1,5 @@
 ---
+image: "/images/products/v-neck-knit-1.jpg"
 title: "Wholesale Knitwear V-Neck Top | 16-Gauge Anti-Pilling Premium Fabric"
 date: 2026-03-22
 draft: false

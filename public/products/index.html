@@ -15,8 +15,8 @@
 
   
   
-    <title>Products &middot; 深圳百陈服装有限公司 | Bettzen</title>
-    <meta name="title" content="Products &middot; 深圳百陈服装有限公司 | Bettzen">
+    <title>所有产品 | All Products &middot; 深圳百陈服装有限公司 | Bettzen</title>
+    <meta name="title" content="所有产品 | All Products &middot; 深圳百陈服装有限公司 | Bettzen">
   
 
   
@@ -53,13 +53,25 @@
   
   <meta property="og:url" content="http://localhost:1313/products/">
   <meta property="og:site_name" content="深圳百陈服装有限公司 | Bettzen">
-  <meta property="og:title" content="Products">
+  <meta property="og:title" content="所有产品 | All Products">
+  <meta property="og:description" content="欢迎光临深圳百陈服装
+Welcome to Shenzhen Bettzen
+我们每天为您带来最新的女装设计，从经典款到当季流行，一应俱全。点击任意产品查看详情，或按分类筛选。
+We bring you the latest women’s fashion designs every day, from classic staples to seasonal trends. Click any product for details or filter by category.
+产品列表 | Product List#{{ range .Pages }}
+[{{ .Title }}]({{ .RelPermalink }}) {{ end }}">
   <meta property="og:locale" content="zh_CN">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Products">
+  <meta name="twitter:title" content="所有产品 | All Products">
+  <meta name="twitter:description" content="欢迎光临深圳百陈服装
+Welcome to Shenzhen Bettzen
+我们每天为您带来最新的女装设计，从经典款到当季流行，一应俱全。点击任意产品查看详情，或按分类筛选。
+We bring you the latest women’s fashion designs every day, from classic staples to seasonal trends. Click any product for details or filter by category.
+产品列表 | Product List#{{ range .Pages }}
+[{{ .Title }}]({{ .RelPermalink }}) {{ end }}">
 
   
   
@@ -94,6 +106,8 @@
   
   
   
+  
+    
   
   
     
@@ -203,9 +217,9 @@
   [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "Products",
-    "name": "Products",
-    "headline": "Products",
+    "articleSection": "所有产品 | All Products",
+    "name": "所有产品 | All Products",
+    "headline": "所有产品 | All Products",
     
     "inLanguage": "zh-CN",
     "url" : "http://localhost:1313/products/",
@@ -214,15 +228,15 @@
       "name": "Bettzen"
     },
     "copyrightYear": "2026",
-    "dateCreated": "2026-03-22T00:00:00\u002b00:00",
-    "datePublished": "2026-03-22T00:00:00\u002b00:00",
+    "dateCreated": "2026-03-24T00:00:00\u002b00:00",
+    "datePublished": "2026-03-24T00:00:00\u002b00:00",
     
-    "dateModified": "2026-03-22T00:00:00\u002b00:00",
+    "dateModified": "2026-03-24T00:00:00\u002b00:00",
     
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "0"
+    "wordCount": "48"
   }]
   </script>
 
@@ -320,7 +334,7 @@
       
   
     <a
-      href="/posts/"
+      href="/product-list/"
       
       class="flex items-center bf-icon-color-hover"
       aria-label="所有产品"
@@ -482,7 +496,7 @@
     
     <div class="px-2">
       <a
-        href="/posts/"
+        href="/product-list/"
         aria-label="所有产品"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -553,7 +567,7 @@
   
   <header>
     
-    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">Products</h1>
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">所有产品 | All Products</h1>
     <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
 
@@ -592,7 +606,27 @@
   <section class="mt-0 prose flex max-w-full flex-col dark:prose-invert lg:flex-row mb-10">
     
     <div class="min-w-0 min-h-0 max-w-prose w-full">
-      
+      <p>欢迎光临深圳百陈服装<br>
+Welcome to Shenzhen Bettzen</p>
+<p>我们每天为您带来最新的女装设计，从经典款到当季流行，一应俱全。点击任意产品查看详情，或按分类筛选。</p>
+<p>We bring you the latest women’s fashion designs every day, from classic staples to seasonal trends. Click any product for details or filter by category.</p>
+<hr>
+
+<h2 class="relative group">产品列表 | Product List
+    <div id="产品列表--product-list" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%ba%a7%e5%93%81%e5%88%97%e8%a1%a8--product-list" aria-label="锚点">#</a>
+    </span>
+    
+</h2>
+<p>{{ range .Pages }}</p>
+<ul>
+<li>[{{ .Title }}]({{ .RelPermalink }})
+{{ end }}</li>
+</ul>
+
     </div>
   </section>
 
@@ -613,6 +647,422 @@
                 2026
               </h2>
             
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+
+    
+    
+      
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+    
+      
+      
+    
+
+    
+    
+      
+    
+  
+
+
+
+<article class="article-link--simple flex flex-col md:flex-row relative">
+  
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
+      <a
+        
+          href="/products/khaki-tapered-pants/"
+        
+        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+        <h2>
+          Wholesale Women‘s Trousers Khaki Stretch Tapered Pants | Carrot Fit
+          
+        </h2>
+      </a>
+      
+      
+    </header>
+    <div class="text-sm text-neutral-500 dark:text-neutral-400">
+      
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2026-03-22T00:00:00&#43;00:00">March 22, 2026</time><span class="px-2 text-primary-500">&middot;</span><span>121 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span>
+    
+
+    
+    
+  </div>
+
+  
+
+  
+  
+    <div class="flex flex-row flex-wrap items-center">
+      
+        
+          
+            
+              <a class="relative mt-[0.5rem] me-2" href="/categories/bottoms/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Bottoms
+  </span>
+</span>
+
+              </a>
+            
+          
+        
+      
+        
+          
+        
+      
+        
+          
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/tapered-pants/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Tapered Pants
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/stretch-trousers/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Stretch Trousers
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/khaki-wholesale/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Khaki Wholesale
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/boutique-pants/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Boutique Pants
+  </span>
+</span>
+
+              </a>
+            
+          
+        
+      
+    </div>
+  
+
+  
+  
+
+
+
+    </div>
+    
+  </div>
+  <div class="px-6 pt-4 pb-2"></div>
+</article>
+
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+
+    
+    
+      
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+    
+      
+      
+    
+
+    
+    
+      
+    
+  
+
+
+
+<article class="article-link--simple flex flex-col md:flex-row relative">
+  
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
+      <a
+        
+          href="/products/v-neck-knit-top/"
+        
+        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+        <h2>
+          Wholesale Knitwear V-Neck Top | 16-Gauge Anti-Pilling Premium Fabric
+          
+        </h2>
+      </a>
+      
+      
+    </header>
+    <div class="text-sm text-neutral-500 dark:text-neutral-400">
+      
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2026-03-22T00:00:00&#43;00:00">March 22, 2026</time><span class="px-2 text-primary-500">&middot;</span><span>113 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span>
+    
+
+    
+    
+  </div>
+
+  
+
+  
+  
+    <div class="flex flex-row flex-wrap items-center">
+      
+        
+          
+            
+              <a class="relative mt-[0.5rem] me-2" href="/categories/tops/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Tops
+  </span>
+</span>
+
+              </a>
+            
+          
+        
+      
+        
+          
+        
+      
+        
+          
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/knitwear-wholesale/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Knitwear Wholesale
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/v-neck-top/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    V-Neck Top
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/anti-pilling/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Anti-Pilling
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/basic-top-boutique/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Basic Top Boutique
+  </span>
+</span>
+
+              </a>
+            
+          
+        
+      
+    </div>
+  
+
+  
+  
+
+
+
+    </div>
+    
+  </div>
+  <div class="px-6 pt-4 pb-2"></div>
+</article>
+
             
               
 
