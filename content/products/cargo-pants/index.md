@@ -9,12 +9,7 @@ image: "/images/products/cargo-pants-1.jpg"
 
 **Item No.: 26031805**
 
-{{< gallery >}}
-  <img src="/images/products/cargo-pants-1.jpg" class="grid-w25" />
-  <img src="/images/products/cargo-pants-2.jpg" class="grid-w25" />
-  <img src="/images/products/cargo-pants-3.jpg" class="grid-w25" />
-  <img src="/images/products/cargo-pants-4.jpg" class="grid-w25" />
-{{< /gallery >}}
+
 
 ### Description
 Cargo pants redefined with a contemporary, slimming fit. Made from a structured yet breathable functional fabric that holds its shape. Features functional dual side zippers and an adjustable drawstring at waist and hem for a customizable look. The tailored silhouette is both stylish and flattering.

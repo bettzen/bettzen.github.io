@@ -9,12 +9,6 @@ image: "/images/products/linen-set-1.jpg"
 
 **Item No.: 26031801**
 
-{{< gallery >}}
-  <img src="/images/products/linen-set-1.jpg" class="grid-w25" />
-  <img src="/images/products/linen-set-2.jpg" class="grid-w25" />
-  <img src="/images/products/linen-set-3.jpg" class="grid-w25" />
-  <img src="/images/products/linen-set-4.jpg" class="grid-w25" />
-{{< /gallery >}}
 
 ### Description
 A versatile set that transitions seamlessly from office to casual wear. Made from a custom linen-viscose blend, garment-washed for a soft, drapey, and wrinkle-resistant finish. The waistcoat can be styled separately, paired with the sleek, figure-flattering wide-leg trousers. Fully lined with lightweight cotton for added comfort.

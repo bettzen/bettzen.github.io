@@ -10,7 +10,9 @@
     {{ end }}
     <div class="product-info">
       <h3><a href="{{ $product.RelPermalink }}">{{ $product.Title }}</a></h3>
-      <p>{{ $product.Summary | truncate 100 }}</p>
+      {{ with $product.Params.description }}
+        <p>{{ . | truncate 100 }}</p>
+      {{ end }}
       <div class="product-meta">
         {{ with $product.Params.categories }}
           <span>分类：{{ range . }}<a href="/categories/{{ . | urlize }}/">{{ . }}</a> {{ end }}</span>

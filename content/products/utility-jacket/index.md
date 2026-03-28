@@ -9,12 +9,7 @@ image: "/images/products/utility-jacket-1.jpg"
 
 **Item No.: 26031804**
 
-{{< gallery >}}
-  <img src="/images/products/utility-jacket-1.jpg" class="grid-w25" />
-  <img src="/images/products/utility-jacket-2.jpg" class="grid-w25" />
-  <img src="/images/products/utility-jacket-3.jpg" class="grid-w25" />
-  <img src="/images/products/utility-jacket-4.jpg" class="grid-w25" />
-{{< /gallery >}}
+
 
 ### Description
 A timeless utility jacket updated with a vintage touch. Constructed from durable cotton twill, it features a distinctive contrasting corduroy stand-collar and practical multi-pocket design. Its versatile, unisex-friendly style makes it a perfect layering piece for spring and autumn collections.

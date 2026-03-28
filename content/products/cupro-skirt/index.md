@@ -9,12 +9,7 @@ image: "/images/products/cupro-skirt-1.jpg"
 
 **Item No.: 26031802**
 
-{{< gallery >}}
-  <img src="/images/products/cupro-skirt-1.jpg" class="grid-w25" />
-  <img src="/images/products/cupro-skirt-2.jpg" class="grid-w25" />
-  <img src="/images/products/cupro-skirt-3.jpg" class="grid-w25" />
-  <img src="/images/products/cupro-skirt-4.jpg" class="grid-w25" />
-{{< /gallery >}}
+
 
 ### Description
 A statement piece defined by luxury and craftsmanship. Crafted from premium cupro fabric that boasts a subtle metallic sheen and fluid drape. The asymmetric hem (shorter in front) is elevated with intricate 3D embossed floral details, creating a dynamic and artistic silhouette in a sophisticated burgundy hue.
