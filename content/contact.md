@@ -2,7 +2,6 @@
 title: "联系我们 | Contact Us"
 showDate: false
 showReadingTime: false
-showAuthor: false
 date: 2026-03-14
 draft: false
 ---
