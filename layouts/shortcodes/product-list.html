@@ -1,6 +1,4 @@
 {{ $products := where .Site.Pages "Section" "products" }}
-{{ $products = where $products "File.Path" "ne" "products/_index.md" }}
-{{ $products = where $products "File.Path" "ne" "products/index.md" }}
 <div class="product-list">
 {{ range $products.ByTitle }}
   {{ $product := . }}
