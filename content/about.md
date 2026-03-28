@@ -1,5 +1,7 @@
 ---
 title: "关于我们 | About Us"
+showDate: false
+showReadingTime: false
 date: 2026-03-14
 draft: false
 ---
