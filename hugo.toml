@@ -8,3 +8,4 @@ defaultContentLanguage = "zh-cn"
 publishDir = "docs"
 [params]
   enableSRI = false
+ 
