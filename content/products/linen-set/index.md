@@ -5,10 +5,16 @@ draft: false
 categories: ["Sets"]
 tags: ["linen set", "waistcoat", "wide leg pants", "boutique set"]
 image: "/images/products/linen-set-1.jpg"
+summary: "A versatile linen-viscose set for office to casual. Garment-washed, wrinkle-resistant, fully lined."
 ---
 
 **Item No.: 26031801**
-
+<div class="product-images">
+  <img src="/images/products/linen-set-1.jpg" alt="Linen Set Image 1">
+  <img src="/images/products/linen-set-2.jpg" alt="Linen Set Image 2">
+  <img src="/images/products/linen-set-3.jpg" alt="Linen Set Image 3">
+  <img src="/images/products/linen-set-4.jpg" alt="Linen Set Image 4">
+</div>
 
 ### Description
 A versatile set that transitions seamlessly from office to casual wear. Made from a custom linen-viscose blend, garment-washed for a soft, drapey, and wrinkle-resistant finish. The waistcoat can be styled separately, paired with the sleek, figure-flattering wide-leg trousers. Fully lined with lightweight cotton for added comfort.

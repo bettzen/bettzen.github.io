@@ -36,3 +36,15 @@
     max-width: 200px;
   }
 }
+.product-images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.product-images img {
+  width: calc(25% - 0.75rem);
+  max-width: 200px;
+  height: auto;
+  border-radius: 4px;
+}

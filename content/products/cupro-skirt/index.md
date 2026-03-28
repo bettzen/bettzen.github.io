@@ -5,10 +5,16 @@ draft: false
 categories: ["Skirts"]
 tags: ["cupro skirt", "3D embossed", "designer skirt", "boutique skirt"]
 image: "/images/products/cupro-skirt-1.jpg"
+summary: "A statement cupro skirt with metallic sheen and 3D embossed floral details. Asymmetric hem, sophisticated burgundy."
 ---
 
 **Item No.: 26031802**
-
+<div class="product-images">
+  <img src="/images/products/cupro-skirt-1.jpg" alt="Cupro Skirt Image 1">
+  <img src="/images/products/cupro-skirt-2.jpg" alt="Cupro Skirt Image 2">
+  <img src="/images/products/cupro-skirt-3.jpg" alt="Cupro Skirt Image 3">
+  <img src="/images/products/cupro-skirt-4.jpg" alt="Cupro Skirt Image 4">
+</div>
 
 
 ### Description
