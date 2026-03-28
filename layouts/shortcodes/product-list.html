@@ -1,4 +1,5 @@
 {{ $products := where .Site.Pages "Section" "products" }}
+{{ $products = where $products "Title" "ne" "Products" }}
 <div class="product-list">
 {{ range $products.ByTitle }}
   {{ $product := . }}
