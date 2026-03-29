@@ -2,7 +2,7 @@
 title: "Wholesale Premium Cotton Tee | Ultra-Soft Minimalist Label Print"
 date: 2026-03-29
 draft: false
-categories: ["Tops"]
+categories: ["T-shirts"]
 tags: ["premium cotton", "label print", "basic tee", "boutique essential"]
 image: "/images/products/label-print-tee-1.jpg"
 description: "The foundation of any great wardrobe. Made from an exceptionally fine and soft cotton jersey, this tee offers a luxurious, lightweight handfeel and long-lasting wear resistance."

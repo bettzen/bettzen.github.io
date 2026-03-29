@@ -2,7 +2,7 @@
 title: "Wholesale Women‘s Linen Viscose Set | Waistcoat & Wide Leg Pants"
 date: 2026-03-26
 draft: false
-categories: ["Sets"]
+categories: ["Tops"]
 tags: ["linen set", "waistcoat", "wide leg pants", "boutique set"]
 image: "/images/products/linen-set-1.jpg"
 summary: "A versatile linen-viscose set for office to casual. Garment-washed, wrinkle-resistant, fully lined."

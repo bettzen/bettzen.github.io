@@ -2,7 +2,7 @@
 title: "Wholesale Hemp-Cotton T-Shirt | Hand-Drawn Duck Graphic Print"
 date: 2026-03-29
 draft: false
-categories: ["Tops"]
+categories: ["T-shirts"]
 tags: ["hemp cotton", "duck print", "graphic tee", "boutique t-shirt"]
 image: "/images/products/duck-print-tee-1.jpg"
 description: "Focus on ultimate comfort. Made from a breathable hemp-cotton knit blend, known for its soft, cool, drapey feel and moisture-wicking performance."

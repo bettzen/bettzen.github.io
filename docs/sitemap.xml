@@ -43,10 +43,6 @@
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bettzen.github.io/product-list/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>https://bettzen.github.io/about/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url>
@@ -57,5 +53,8 @@
   <url>
     <loc>https://bettzen.github.io/posts/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.github.io/product-list/</loc>
   </url>
 </urlset>
