@@ -8,4 +8,6 @@ defaultContentLanguage = "zh-cn"
 publishDir = "docs"
 [params]
   enableSRI = false
+[markup.goldmark.renderer]
+  unsafe = true
  

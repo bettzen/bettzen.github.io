@@ -96,7 +96,11 @@
     </div>
     {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
       <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
-        {{ .Summary | plainify }}
+        {{ if .Params.summary }}
+          {{ .Params.summary | plainify }}
+        {{ else }}
+          {{ .Summary | plainify }}
+        {{ end }}
       </div>
     {{ end }}
   </div>
