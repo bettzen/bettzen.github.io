@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 Bettzen</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Bottoms</title>
-      <link>https://bettzen.github.io/categories/bottoms/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <title>Cardigans</title>
+      <link>https://bettzen.github.io/categories/cardigans/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://bettzen.github.io/categories/bottoms/</guid>
+      <guid>https://bettzen.github.io/categories/cardigans/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shirts</title>
+      <link>https://bettzen.github.io/categories/shirts/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.github.io/categories/shirts/</guid>
       <description></description>
       
     </item>
@@ -22,7 +32,7 @@
     <item>
       <title>T-Shirts</title>
       <link>https://bettzen.github.io/categories/t-shirts/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://bettzen.github.io/categories/t-shirts/</guid>
       <description></description>
@@ -32,9 +42,19 @@
     <item>
       <title>Tops</title>
       <link>https://bettzen.github.io/categories/tops/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://bettzen.github.io/categories/tops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bottoms</title>
+      <link>https://bettzen.github.io/categories/bottoms/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.github.io/categories/bottoms/</guid>
       <description></description>
       
     </item>
