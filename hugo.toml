@@ -10,4 +10,5 @@ publishDir = "docs"
   enableSRI = false
 [markup.goldmark.renderer]
   unsafe = true
- 
+ [sitemap]
+  filename = "sitemap.xml"
