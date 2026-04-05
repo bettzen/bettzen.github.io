@@ -1,4 +1,4 @@
-baseURL = 'https://bettzen.github.io/'
+baseURL = 'https://bettzen.com/'
 theme = "blowfish"
 title = "深圳百陈服装有限公司 | Bettzen"
 defaultContentLanguage = "zh-cn"
