@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 Bettzen</copyright>
-    <lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Bottoms</title>
-      <link>https://bettzen.com/categories/bottoms/</link>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Bags</title>
+      <link>https://bettzen.com/categories/bags/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://bettzen.com/categories/bottoms/</guid>
+      <guid>https://bettzen.com/categories/bags/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sets</title>
+      <link>https://bettzen.com/categories/sets/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/categories/sets/</guid>
       <description></description>
       
     </item>
@@ -22,9 +32,19 @@
     <item>
       <title>T-Shirts</title>
       <link>https://bettzen.com/categories/t-shirts/</link>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://bettzen.com/categories/t-shirts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bottoms</title>
+      <link>https://bettzen.com/categories/bottoms/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/categories/bottoms/</guid>
       <description></description>
       
     </item>
