@@ -12,3 +12,4 @@ publishDir = "docs"
   unsafe = true
  [sitemap]
   filename = "sitemap.xml"
+enableRobotsTXT = true
