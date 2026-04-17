@@ -7,14 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 Bettzen</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shirts</title>
+      <link>http://localhost:1313/categories/shirts/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/shirts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>T-Shirts</title>
+      <link>http://localhost:1313/categories/t-shirts/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/t-shirts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bags</title>
+      <link>http://localhost:1313/categories/bags/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/bags/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sets</title>
+      <link>http://localhost:1313/categories/sets/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/sets/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Bottoms</title>
       <link>http://localhost:1313/categories/bottoms/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/bottoms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tops</title>
+      <link>http://localhost:1313/categories/tops/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/tops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cardigans</title>
+      <link>http://localhost:1313/categories/cardigans/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/cardigans/</guid>
       <description></description>
       
     </item>
@@ -25,16 +85,6 @@
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/jackets/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sets</title>
-      <link>http://localhost:1313/categories/sets/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/sets/</guid>
       <description></description>
       
     </item>

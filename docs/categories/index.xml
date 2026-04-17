@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 Bettzen</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shirts</title>
+      <link>https://bettzen.com/categories/shirts/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/categories/shirts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>T-Shirts</title>
+      <link>https://bettzen.com/categories/t-shirts/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/categories/t-shirts/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Bags</title>
@@ -25,16 +45,6 @@
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://bettzen.com/categories/sets/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>T-Shirts</title>
-      <link>https://bettzen.com/categories/t-shirts/</link>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/categories/t-shirts/</guid>
       <description></description>
       
     </item>
@@ -65,16 +75,6 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://bettzen.com/categories/cardigans/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Shirts</title>
-      <link>https://bettzen.com/categories/shirts/</link>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/categories/shirts/</guid>
       <description></description>
       
     </item>
