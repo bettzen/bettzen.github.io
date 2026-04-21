@@ -128,3 +128,18 @@ body.taxonomy-categories .product-grid,
 .category-grid {
   grid-template-columns: repeat(4, 1fr);
 }
+/* 统一所有网格页面（产品列表页、分类页）的图片显示尺寸 */
+.product-card img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  /* 可选：限制最大高度，防止图片过大 */
+  max-height: 400px;
+}
+
+/* 让分类页图片容器与产品列表页一致 */
+.section-categories .product-card img,
+body[class*="taxonomy"] .product-card img {
+  max-height: 400px;
+  width: 100%;
+}
