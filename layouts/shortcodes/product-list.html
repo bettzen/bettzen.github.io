@@ -1,28 +1,12 @@
-{{ $products := where .Site.Pages "Section" "products" }}
-{{ $products = where $products "Title" "ne" "Products" }}
-<div class="product-list">
-{{ range $products.ByTitle }}
-  {{ $product := . }}
-  <div class="product-item">
-    {{ with $product.Params.image }}
-      <a href="{{ $product.RelPermalink }}"><img src="{{ . }}" alt="{{ $product.Title }}" class="product-thumb"></a>
-    {{ else }}
-      <a href="{{ $product.RelPermalink }}"><img src="/images/placeholder.jpg" alt="{{ $product.Title }}" class="product-thumb"></a>
-    {{ end }}
-    <div class="product-info">
-      <h3><a href="{{ $product.RelPermalink }}">{{ $product.Title }}</a></h3>
-      {{ with $product.Params.description }}
-        <p>{{ . | truncate 100 }}</p>
-      {{ end }}
-      <div class="product-meta">
-        {{ with $product.Params.categories }}
-          <span>分类：{{ range . }}<a href="/categories/{{ . | urlize }}/">{{ . }}</a> {{ end }}</span>
-        {{ end }}
-        {{ with $product.Params.tags }}
-          <span>标签：{{ range . }}<a href="/tags/{{ . | urlize }}/">{{ . }}</a> {{ end }}</span>
-        {{ end }}
+<div class="product-grid">
+  {{ range where .Site.RegularPages "Section" "products" }}
+    {{ if ne .Title "Products" }}
+      <div class="product-card">
+        <a href="{{ .RelPermalink }}">
+          <img src="{{ .Params.image | default "/images/default.jpg" }}" alt="{{ .Title }}" loading="lazy">
+          <h3>{{ .Title }}</h3>
+        </a>
       </div>
-    </div>
-  </div>
-{{ end }}
+    {{ end }}
+  {{ end }}
 </div>

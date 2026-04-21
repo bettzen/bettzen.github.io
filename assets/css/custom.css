@@ -118,3 +118,13 @@
 .product-tags-footer a:hover {
   background: #e0e0e0;
 }
+/* 分类页电脑端一行4列 */
+body.taxonomy-categories .product-grid,
+.section-categories .product-grid {
+  grid-template-columns: repeat(4, 1fr) !important;
+}
+
+/* 如果上面不生效，请使用这个后备方案 */
+.category-grid {
+  grid-template-columns: repeat(4, 1fr);
+}
