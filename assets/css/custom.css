@@ -2,19 +2,19 @@
 .product-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);  /* 电脑端3列 */
-  gap: 12px;  /* 图片之间的间距 */
+  gap: 12px;
 }
 
 .product-card {
   text-align: center;
-  border: none;          /* 去掉边框，减少留白 */
-  border-radius: 0;      /* 去掉圆角 */
+  border: none;
+  border-radius: 0;
   overflow: hidden;
   background: #ffffff;
   transition: box-shadow 0.2s ease;
   cursor: pointer;
-  padding: 0;            /* 内边距归零 */
-  margin: 0;             /* 外边距归零 */
+  padding: 0;
+  margin: 0;
 }
 
 .product-card:hover {
@@ -32,15 +32,15 @@
   width: 100%;
   height: auto;
   display: block;
-  /* 不设置 aspect-ratio，保持图片原始比例（3:4） */
   object-fit: cover;
   cursor: pointer;
   margin: 0;
   padding: 0;
+  max-height: 400px;  /* 统一限制图片最大高度 */
 }
 
 .product-card h3 {
-  margin: 6px 0 4px 0;   /* 上下间距缩小，更紧凑 */
+  margin: 6px 0 4px 0;
   font-size: 14px;
   font-weight: normal;
   color: #333333;
@@ -72,7 +72,7 @@
 /* ===== 产品详情页多图并排 ===== */
 .product-images {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);  /* 电脑端4列 */
+  grid-template-columns: repeat(4, 1fr);
   gap: 10px;
   margin: 20px 0;
 }
@@ -84,7 +84,6 @@
   cursor: pointer;
 }
 
-/* 手机端详情页图片改为2列 */
 @media (max-width: 640px) {
   .product-images {
     grid-template-columns: repeat(2, 1fr);
@@ -118,28 +117,26 @@
 .product-tags-footer a:hover {
   background: #e0e0e0;
 }
-/* 分类页电脑端一行4列 */
+
+/* ===== 分类页特殊样式：电脑端一行4列，图片尺寸与产品列表页一致 ===== */
+/* 分类页4列布局 */
 body.taxonomy-categories .product-grid,
 .section-categories .product-grid {
   grid-template-columns: repeat(4, 1fr) !important;
 }
 
-/* 如果上面不生效，请使用这个后备方案 */
-.category-grid {
-  grid-template-columns: repeat(4, 1fr);
-}
-/* 统一所有网格页面（产品列表页、分类页）的图片显示尺寸 */
-.product-card img {
-  max-width: 100%;
-  height: auto;
-  object-fit: cover;
-  /* 可选：限制最大高度，防止图片过大 */
-  max-height: 400px;
-}
-
-/* 让分类页图片容器与产品列表页一致 */
-.section-categories .product-card img,
-body[class*="taxonomy"] .product-card img {
+/* 分类页图片尺寸限制（与产品列表页统一） */
+body.taxonomy-categories .product-card img,
+.section-categories .product-card img {
   max-height: 400px;
   width: 100%;
+  object-fit: cover;
+}
+
+/* 分类页平板/手机保持响应式 */
+@media (max-width: 768px) {
+  body.taxonomy-categories .product-grid,
+  .section-categories .product-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
 }
