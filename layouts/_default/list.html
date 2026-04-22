@@ -21,7 +21,7 @@
   {{ else if $isBlog }}
     {{/* 博客列表页：使用传统纵向列表 */}}
     <header>
-      <h1>{{ .Title }}</h1>
+      <h1>Blog</h1>
       {{ with .Description }}
         <p class="text-lg text-neutral-600 dark:text-neutral-400">{{ . }}</p>
       {{ end }}
@@ -42,7 +42,7 @@
             <p class="text-neutral-700 dark:text-neutral-300 mb-3">{{ . }}</p>
           {{ end }}
           <a href="{{ .RelPermalink }}" class="text-primary-600 hover:text-primary-700 dark:text-primary-400 text-sm font-medium">
-            阅读更多 →
+            Read more →
           </a>
         </article>
       {{ end }}

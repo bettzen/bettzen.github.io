@@ -1,25 +1,24 @@
 [[main]]
-  name = "首页"
-  url = "/"
+  name = "Home"
+  pageRef = "/"
   weight = 10
 
 [[main]]
-  name = "关于我们"
-  url = "/about/"
+  name = "About"
+  pageRef = "/about"
   weight = 20
 
 [[main]]
-  name = "所有产品"
-  url = "/product-list/"
+  name = "Products"
+  pageRef = "/product-list"
   weight = 30
 
-
 [[main]]
-  name = "联系我们"
-  url = "/contact/"
-  weight = 50   # 确保顺序正确，比如前面优势是40，这里用50
-
-[[main]]
-  name = "博客"
+  name = "Blog"
   pageRef = "/blog"
   weight = 40
+
+[[main]]
+  name = "Contact"
+  pageRef = "/contact"
+  weight = 50
