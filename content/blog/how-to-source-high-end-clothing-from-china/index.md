@@ -8,7 +8,6 @@ description: "A comprehensive guide for boutique owners and fashion buyers on so
 slug: "how-to-source-high-end-clothing-from-china"
 ---
 
-**English Content Below.**
 
 ## Introduction
 
