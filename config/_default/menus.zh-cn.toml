@@ -18,3 +18,8 @@
   name = "联系我们"
   url = "/contact/"
   weight = 50   # 确保顺序正确，比如前面优势是40，这里用50
+
+[[main]]
+  name = "博客"
+  pageRef = "/blog"
+  weight = 40

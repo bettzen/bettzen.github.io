@@ -1,0 +1,60 @@
+{{ define "main" }}
+  {{ $isBlog := eq .Section "blog" }}
+  {{ $isCategory := eq .Section "categories" }}
+
+  {{ if $isCategory }}
+    {{/* 分类页：使用网格布局展示产品 */}}
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
+    <div class="product-grid">
+      {{ range .Pages }}
+        <div class="product-card">
+          <a href="{{ .RelPermalink }}">
+            <img src="{{ .Params.image | default "/images/default.jpg" }}" alt="{{ .Title }}" loading="lazy">
+            <h3>{{ .Title }}</h3>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+
+  {{ else if $isBlog }}
+    {{/* 博客列表页：使用传统纵向列表 */}}
+    <header>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}
+        <p class="text-lg text-neutral-600 dark:text-neutral-400">{{ . }}</p>
+      {{ end }}
+    </header>
+
+    <div class="space-y-8">
+      {{ range .Pages }}
+        <article class="border-b border-neutral-200 dark:border-neutral-700 pb-6">
+          <h2 class="text-2xl font-semibold mb-2">
+            <a href="{{ .RelPermalink }}" class="hover:text-primary-600 dark:hover:text-primary-400">
+              {{ .Title }}
+            </a>
+          </h2>
+          <div class="text-sm text-neutral-500 dark:text-neutral-400 mb-3">
+            {{ .Date.Format "2006-01-02" }}
+          </div>
+          {{ with .Params.description }}
+            <p class="text-neutral-700 dark:text-neutral-300 mb-3">{{ . }}</p>
+          {{ end }}
+          <a href="{{ .RelPermalink }}" class="text-primary-600 hover:text-primary-700 dark:text-primary-400 text-sm font-medium">
+            阅读更多 →
+          </a>
+        </article>
+      {{ end }}
+    </div>
+
+  {{ else }}
+    {{/* 其他页面保持默认布局 */}}
+    {{ .Content }}
+    {{ range .Pages }}
+      <article>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      </article>
+    {{ end }}
+  {{ end }}
+{{ end }}
