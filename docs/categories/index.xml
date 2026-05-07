@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 Bettzen</copyright>
-    <lastBuildDate>Wed, 06 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bottoms</title>
+      <link>https://bettzen.com/categories/bottoms/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/categories/bottoms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shoes</title>
+      <link>https://bettzen.com/categories/shoes/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/categories/shoes/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Fabric Guide</title>
@@ -45,16 +65,6 @@
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://bettzen.com/categories/tops/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bottoms</title>
-      <link>https://bettzen.com/categories/bottoms/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/categories/bottoms/</guid>
       <description></description>
       
     </item>
