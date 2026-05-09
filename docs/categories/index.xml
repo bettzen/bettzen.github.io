@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 Bettzen</copyright>
-    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shirts</title>
+      <link>https://bettzen.com/categories/shirts/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/categories/shirts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Skirts</title>
+      <link>https://bettzen.com/categories/skirts/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/categories/skirts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>T-Shirts</title>
+      <link>https://bettzen.com/categories/t-shirts/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/categories/t-shirts/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Bottoms</title>
@@ -50,41 +80,11 @@
     </item>
     
     <item>
-      <title>Skirts</title>
-      <link>https://bettzen.com/categories/skirts/</link>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/categories/skirts/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Tops</title>
       <link>https://bettzen.com/categories/tops/</link>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://bettzen.com/categories/tops/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Shirts</title>
-      <link>https://bettzen.com/categories/shirts/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/categories/shirts/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>T-Shirts</title>
-      <link>https://bettzen.com/categories/t-shirts/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/categories/t-shirts/</guid>
       <description></description>
       
     </item>
