@@ -3,10 +3,10 @@ title: "=== English Title ==="
 date: 2026-08-01
 draft: false
 categories: ["Tops"]
-tags: ["linen", "dress", "wholesale", "tie", "waist", "natural", "fabric", "minimalist", "womenswear", "boutique", "sourcing", "breathable", "summer", "dress"]
+tags: ["linen", "dress", "wholesale", "tie", "waist", "natural", "fabric", "relaxed", "silhouette", "breathable", "womenswear", "boutique", "sourcing", "summer", "dress"]
 image: "/images/products/english-title-1.jpg"
-description: "This garment features a minimalist silhouette crafted from 100% natural linen, offering a breathable and smoothly draping texture that keeps its shape"
-summary: "This garment features a minimalist silhouette crafted from 100% natural linen, o..."
+description: "This garment features a relaxed, minimalist silhouette cut from 100% natural linen, offering a breathable and smoothly draping hand feel. The design i"
+summary: "This garment features a relaxed, minimalist silhouette cut from 100% natural lin..."
 ---
 
 === English Title ===
@@ -21,21 +21,21 @@ summary: "This garment features a minimalist silhouette crafted from 100% natura
 </div>
 
 === English Title ===
-Wholesale Linen Tie-Waist Dress Minimalist Silhouette | Natural Breathable Fabric
+Wholesale Linen Tie-Waist Dress Relaxed Silhouette | Natural Breathable Fabric
 
 Item No.: 26072102
 
 **Description**
-This garment features a minimalist silhouette crafted from 100% natural linen, offering a breathable and smoothly draping texture that keeps its shape throughout wear. The design includes a matching self-tie belt that cinches the waist for a defined, flattering line, while the sleeves and hem provide generous room for ease of movement and a relaxed fit. The fabric's natural matte finish lends an understated, refined look suitable for both casual and elevated settings. Its airy weave promotes ventilation, making it comfortable for warm-weather wear without compromising on structure.
+This garment features a relaxed, minimalist silhouette cut from 100% natural linen, offering a breathable and smoothly draping hand feel. The design includes a matching self-belt that cinches the waist to create a flattering, defined line, while the sleeves and hem provide generous ease for comfortable movement and inclusive fit. The fabric's natural texture presents a matte, understated finish that enhances the dress's effortless aesthetic. Its lightweight composition ensures superior airflow, making it suitable for warm-weather wear without compromising on structure or drape.
 
 **Ideal for**
-Ideal for boutique buyers seeking versatile, seasonless linen dresses that combine comfort with a clean, minimalist aesthetic for resort, summer, and transitional collections.
+Ideal for boutique buyers seeking a versatile, seasonless linen dress that combines understated elegance with practical comfort for resort wear and everyday dressing.
 
 **Color**
 Red, Blue
 
 **Sizes**
-36, 38, 40, 42
+36 (Length 120cm, Bust 90cm) / 38 (Length 121cm, Bust 94cm) / 40 (Length 122cm, Bust 98cm) / 42 (Length 123cm, Bust 102cm)
 
 **Sourcing Note**
-Size 36 measures 120cm in length and 90cm in bust; size 38: 121cm length, 94cm bust; size 40: 122cm length, 98cm bust; size 42: 123cm length, 102cm bust. We recommend ordering a size up for clients who prefer a more relaxed drape. Display this style with the belt tied to highlight the waistline, and pair with neutral accessories for a cohesive look. Linen naturally softens with washing; recommend cold gentle wash and line dry to preserve texture.
+This style runs true to size with a relaxed body; buyers may consider size-down options for a more fitted look or size-up for a looser drape. When merchandising, pair with woven leather sandals and minimalist accessories to highlight the natural linen texture. For care, machine wash cold on a gentle cycle and hang dry to preserve the fabric's hand feel and prevent excessive wrinkling.
