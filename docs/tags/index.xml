@@ -140,46 +140,6 @@
     </item>
     
     <item>
-      <title>Relaxed</title>
-      <link>https://bettzen.com/tags/relaxed/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/relaxed/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Silhouette</title>
-      <link>https://bettzen.com/tags/silhouette/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/silhouette/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tie</title>
-      <link>https://bettzen.com/tags/tie/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/tie/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Waist</title>
-      <link>https://bettzen.com/tags/waist/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/waist/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Crackle</title>
       <link>https://bettzen.com/tags/crackle/</link>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
@@ -350,7 +310,7 @@
     </item>
     
     <item>
-      <title>Graphic Tee</title>
+      <title>Graphic-Tee</title>
       <link>https://bettzen.com/tags/graphic-tee/</link>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       
@@ -690,7 +650,7 @@
     </item>
     
     <item>
-      <title>Wool-Blend</title>
+      <title>Wool Blend</title>
       <link>https://bettzen.com/tags/wool-blend/</link>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
       
@@ -880,21 +840,21 @@
     </item>
     
     <item>
-      <title>Cotton Twill</title>
-      <link>https://bettzen.com/tags/cotton-twill/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/cotton-twill/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Cotton-Dress</title>
       <link>https://bettzen.com/tags/cotton-dress/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://bettzen.com/tags/cotton-dress/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cotton-Twill</title>
+      <link>https://bettzen.com/tags/cotton-twill/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/tags/cotton-twill/</guid>
       <description></description>
       
     </item>
