@@ -20,8 +20,6 @@ Wholesale Linen Dress Adjustable Belt | Breathable Natural Fabric Silhouette
   <img src="/images/products/linen-dress-adjustable-belt-4.jpg">
 </div>
 
-Wholesale Linen Dress Adjustable Belt | Breathable Natural Fabric Silhouette
-
 Item No.: 26072102
 
 **Description**
