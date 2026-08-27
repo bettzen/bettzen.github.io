@@ -2,29 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shirts on 深圳百陈服装有限公司 | Bettzen</title>
-    <link>http://localhost:1313/categories/shirts/</link>
+    <link>https://bettzen.com/categories/shirts/</link>
     <description>Recent content in Shirts on 深圳百陈服装有限公司 | Bettzen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 Bettzen</copyright>
-    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/shirts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bettzen.com/categories/shirts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wholesale French Style Floral Embroidered Shirt | 80s Cotton Voile</title>
+      <link>https://bettzen.com/products/floral-embroidered-shirt/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/products/floral-embroidered-shirt/</guid>
+      <description>法式重工碎花刺绣衬衫，80支全棉巴厘纱，立体刺绣。</description>
+      
+    </item>
+    
+    <item>
+      <title>Wholesale Linen Shirts Lightweight Overshirt Multi-Color</title>
+      <link>https://bettzen.com/products/linen-overshirt/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://bettzen.com/products/linen-overshirt/</guid>
+      <description>亚麻衬衫，多色可选，轻薄透气，防晒外披。</description>
+      
+    </item>
     
     <item>
       <title>Printed Ramie Shirt</title>
-      <link>http://localhost:1313/products/ramie-print-shirt/</link>
+      <link>https://bettzen.com/products/ramie-print-shirt/</link>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/products/ramie-print-shirt/</guid>
+      <guid>https://bettzen.com/products/ramie-print-shirt/</guid>
       <description>绿色印花苎麻衬衫，椰子壳纽扣，透气度假风。</description>
       
     </item>
     
     <item>
       <title>Wholesale Striped Cotton Shirt | Saturn Embroidered Detachable Hooded Top</title>
-      <link>http://localhost:1313/products/saturn-embroidered-hooded-shirt/</link>
+      <link>https://bettzen.com/products/saturn-embroidered-hooded-shirt/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/products/saturn-embroidered-hooded-shirt/</guid>
+      <guid>https://bettzen.com/products/saturn-embroidered-hooded-shirt/</guid>
       <description>A statement shirt that blurs the line between tailored shirt and casual jacket. Made from lightweight, color-woven striped cotton with excellent drape and breathability. The design includes a detachable hood and is distinguished by a custom &amp;lsquo;Saturn&amp;rsquo; planet embroidery on the placket, finished with contrasting purple tie closures.</description>
       
     </item>

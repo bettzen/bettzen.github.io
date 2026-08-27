@@ -3,123 +3,267 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/products/horse-print-tee/</loc>
+    <loc>https://bettzen.com/products/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/knit-vest-top-fine-wool-texture/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/layered-silk-top-flowy-cake-design/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/linen-shirt-embroidered-pony-short-sleeve/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/linen-sleeveless-dress-asymmetric-hem/</loc>
+    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/linen-sleeveless-dress-minimalist-beige/</loc>
+    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/linen-sleeveless-dress-straight-a-line/</loc>
+    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/silk-duster-jacket-textured-weave/</loc>
+    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/crepe-silk-textured-blouse/</loc>
+    <lastmod>2026-08-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/linen-dress-adjustable-belt/</loc>
+    <lastmod>2026-08-02T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/vintage-silk-vest/</loc>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/floral-embroidered-shirt/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/navy-tencel-skirt/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/polka-dot-silk-skirt/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/vintage-graphic-tee/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/arch-logo-slides/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/double-strap-sandals/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/italian-suede-loafers/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/drawstring-culottes/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/blog/</loc>
+    <lastmod>2026-05-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/blog/top-5-fabrics-for-premium-womens-apparel/</loc>
+    <lastmod>2026-05-06T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/embroidered-cardigan/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/peplum-lace-cardigan/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/striped-linen-knit/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/embroidered-maxi-skirt/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/cartoon-car-tee/</loc>
+    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/floral-dress/</loc>
+    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/polo-knit-top/</loc>
+    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/linen-overshirt/</loc>
+    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/balloon-trousers/</loc>
+    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/blog/how-to-source-high-end-clothing-from-china/</loc>
+    <lastmod>2026-04-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/striped-magic-tee/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/silk-wool-knit-top/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/ramie-skirt/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/cropped-jeans/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/wool-u-neck-tee/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/embroidered-linen-vest/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bettzen.com/products/horse-print-tee/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/cropped-modal-tee/</loc>
+    <loc>https://bettzen.com/products/cropped-modal-tee/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/ramie-print-shirt/</loc>
+    <loc>https://bettzen.com/products/ramie-print-shirt/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/</loc>
+    <loc>https://bettzen.com/products/striped-twist-top/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/striped-twist-top/</loc>
-    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/products/paper-effect-crescent-bag/</loc>
+    <loc>https://bettzen.com/products/paper-effect-crescent-bag/</loc>
     <lastmod>2026-04-08T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/vintage-letter-tee/</loc>
+    <loc>https://bettzen.com/products/vintage-letter-tee/</loc>
     <lastmod>2026-04-08T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/fitted-wool-cotton-tee/</loc>
+    <loc>https://bettzen.com/products/fitted-wool-cotton-tee/</loc>
     <lastmod>2026-04-08T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/embroidered-knit-set/</loc>
+    <loc>https://bettzen.com/products/embroidered-knit-set/</loc>
     <lastmod>2026-04-08T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/cupro-drawstring-pants/</loc>
+    <loc>https://bettzen.com/products/cupro-drawstring-pants/</loc>
     <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/bohemian-linen-top/</loc>
+    <loc>https://bettzen.com/products/bohemian-linen-top/</loc>
     <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/ribbed-zip-top/</loc>
+    <loc>https://bettzen.com/products/ribbed-zip-top/</loc>
     <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/washed-vintage-tee/</loc>
+    <loc>https://bettzen.com/products/washed-vintage-tee/</loc>
     <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/crochet-knit-top/</loc>
+    <loc>https://bettzen.com/products/crochet-knit-top/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/linen-cotton-stripe-cardigan/</loc>
+    <loc>https://bettzen.com/products/linen-cotton-stripe-cardigan/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/saturn-embroidered-hooded-shirt/</loc>
+    <loc>https://bettzen.com/products/saturn-embroidered-hooded-shirt/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/vintage-print-oversized-tee/</loc>
+    <loc>https://bettzen.com/products/vintage-print-oversized-tee/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/duck-print-tee/</loc>
+    <loc>https://bettzen.com/products/duck-print-tee/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/striped-wide-leg-pants/</loc>
+    <loc>https://bettzen.com/products/striped-wide-leg-pants/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/heart-crop-shirt/</loc>
+    <loc>https://bettzen.com/products/heart-crop-shirt/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/label-print-tee/</loc>
+    <loc>https://bettzen.com/products/label-print-tee/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/product-list/</loc>
+    <loc>https://bettzen.com/product-list/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/cupro-skirt/</loc>
+    <loc>https://bettzen.com/products/cupro-skirt/</loc>
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/cargo-pants/</loc>
+    <loc>https://bettzen.com/products/cargo-pants/</loc>
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/linen-set/</loc>
+    <loc>https://bettzen.com/products/linen-set/</loc>
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/products/utility-jacket/</loc>
+    <loc>https://bettzen.com/products/utility-jacket/</loc>
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://bettzen.com/about/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://bettzen.com/contact/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://bettzen.com/posts/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url>
 </urlset>
