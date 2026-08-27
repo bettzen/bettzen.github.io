@@ -1,7 +1,7 @@
 baseURL = 'https://bettzen.com/'
 theme = "blowfish"
 title = "深圳百陈服装有限公司 | Bettzen"
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 [taxonomies]
   tag = "tags"
   category = "categories"
