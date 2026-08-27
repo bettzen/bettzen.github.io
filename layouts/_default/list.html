@@ -73,8 +73,7 @@
     </div>
 
   {{ else }}
-    {{/* 其他页面保持默认布局 */}}
-    {{ .Content }}
+    {{/* 其他页面（含产品列表）：只渲染子页面列表一次，避免 .Content 中的网格与 range 列表重复输出标题 */}}
     {{ range .Pages }}
       <article>
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
