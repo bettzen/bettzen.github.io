@@ -3,7 +3,7 @@ title: "Wholesale Crepe Silk Textured Blouse | 100% Mulberry Silk Boutique Sourc
 date: 2026-08-08
 draft: false
 categories: ["Tops"]
-tags: ["silk", "blouse", "wholesale", "crepe", "texture", "100%", "mulberry", "silk", "embossed", "fabric", "breathable", "summer", "top", "boutique", "sourcing", "minimalist", "womenswear"]
+tags: ["silk", "blouse", "wholesale", "crepe", "texture", "mulberry", "embossed", "fabric", "breathable", "summer", "top", "boutique", "sourcing", "minimalist", "womenswear"]
 image: "/images/products/crepe-silk-textured-blouse-1.jpg"
 description: "This blouse is crafted from 100% mulberry silk with a crepe texture, featuring a distinctive embossed, relief-like surface that adds subtle dimension "
 summary: "This blouse is crafted from 100% mulberry silk with a crepe texture, featuring a..."

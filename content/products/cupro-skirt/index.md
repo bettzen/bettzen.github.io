@@ -3,7 +3,7 @@ title: "Wholesale Designer Skirt | 3D Embossed Cupro with Metallic Sheen"
 date: 2026-03-26
 draft: false
 categories: ["Skirts"]
-tags: ["cupro skirt", "3D embossed", "designer skirt", "boutique skirt"]
+tags: ["fashion"]
 image: "/images/products/cupro-skirt-1.jpg"
 summary: "A statement cupro skirt with metallic sheen and 3D embossed floral details. Asymmetric hem, sophisticated burgundy."
 ---

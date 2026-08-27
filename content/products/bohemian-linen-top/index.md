@@ -3,7 +3,7 @@ title: "Wholesale Linen Blouse | Bohemian Printed Deep V-Neck Top"
 date: 2026-04-03
 draft: false
 categories: ["Tops"]
-tags: ["linen", "bohemian", "printed", "deep v-neck"]
+tags: ["linen", "bohemian", "printed"]
 image: "/images/products/bohemian-linen-top-1.jpg"
 description: "Breathable printed linen with a bohemian retro style. Deep V-neck and loose oversized fit for a relaxed, vacation-ready silhouette. Lightweight and comfortable for summer and resort wear."
 summary: "Breathable printed linen with a bohemian retro style. Deep V-neck and loose oversized fit for a relaxed, vacation-ready silhouette. Lightweight and comfortable for summer and resort wear."

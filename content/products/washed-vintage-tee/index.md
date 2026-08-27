@@ -3,7 +3,7 @@ title: "Wholesale Washed Cotton Tee | Vintage Print Premium Basic"
 date: 2026-04-03
 draft: false
 categories: ["T-shirts"]
-tags: ["washed cotton", "vintage print", "premium basic", "relaxed fit"]
+tags: ["fashion"]
 image: "/images/products/washed-vintage-tee-1.jpg"
 description: "100% cotton jersey, garment-washed for ultra-soft, lived-in handfeel. Relaxed fit with minimalist vintage print. A timeless basic for daily wear and capsule wardrobes."
 summary: "100% cotton jersey, garment-washed for ultra-soft, lived-in handfeel. Relaxed fit with minimalist vintage print. A timeless basic for daily wear and capsule wardrobes."

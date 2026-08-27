@@ -3,7 +3,7 @@ title: "Wholesale Women‘s Cargo Pants | Dual-Zipper & Drawstring Slim Fit"
 date: 2026-03-26
 draft: false
 categories: ["Bottoms"]
-tags: ["cargo pants", "dual zipper", "drawstring", "streetwear"]
+tags: ["drawstring", "streetwear"]
 image: "/images/products/cargo-pants-1.jpg"
 summary: "Slim-fit cargo pants with dual zippers and adjustable drawstring. Structured, breathable fabric for streetwear."
 ---

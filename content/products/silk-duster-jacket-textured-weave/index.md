@@ -3,7 +3,7 @@ title: "Wholesale Silk Duster Jacket Textured Weave | Adjustable Drawstring Ligh
 date: 2026-08-09
 draft: false
 categories: ["Jackets"]
-tags: ["silk", "duster", "jacket", "wholesale", "textured", "silk", "embossed", "print", "lightweight", "layer", "adjustable", "drawstring", "boutique", "womenswear", "spring", "summer"]
+tags: ["silk", "duster", "jacket", "wholesale", "textured", "embossed", "print", "lightweight", "layer", "adjustable", "drawstring", "boutique", "womenswear", "spring", "summer"]
 image: "/images/products/silk-duster-jacket-textured-weave-1.jpg"
 description: "This garment is crafted from a textured silk fabric featuring a dimensional, embossed surface effect. The subtle tonal print creates an understated, v"
 summary: "This garment is crafted from a textured silk fabric featuring a dimensional, emb..."

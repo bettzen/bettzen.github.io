@@ -3,7 +3,7 @@ title: "Wholesale Women‘s Knit Sets | Embroidered Crop Top & Wide Leg Pants"
 date: 2026-04-08
 draft: false
 categories: ["Sets"]
-tags: ["knit set", "crop top", "wide leg pants", "embroidered"]
+tags: ["embroidered"]
 image: "/images/products/embroidered-knit-set-1.jpg"
 description: "The ultimate comfort set without sacrificing style. Made from high-count cotton knit for exceptional softness. The set includes a fitted crop top with chest embroidery and high-waisted wide-leg pants with adjustable drawstring hems. Designed to flatter and elongate the silhouette."
 summary: "The ultimate comfort set without sacrificing style. Made from high-count cotton knit for exceptional softness. The set includes a fitted crop top with chest embroidery and high-waisted wide-leg pants with adjustable drawstring hems. Designed to flatter and elongate the silhouette."

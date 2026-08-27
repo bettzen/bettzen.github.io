@@ -3,7 +3,7 @@ title: "Wholesale Ribbed Knit Top | Zipper Neck Fitted Long Sleeve"
 date: 2026-04-03
 draft: false
 categories: ["Tops"]
-tags: ["ribbed knit", "zipper neck", "fitted", "long sleeve"]
+tags: ["fitted"]
 image: "/images/products/ribbed-zip-top-1.jpg"
 description: "A modern essential with sleek styling. Knitted in high-stretch ribbed fabric for comfort and a flattering, body-skimming fit. The front zipper adds a contemporary touch and versatile styling."
 summary: "A modern essential with sleek styling. Knitted in high-stretch ribbed fabric for comfort and a flattering, body-skimming fit. The front zipper adds a contemporary touch and versatile styling."

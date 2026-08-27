@@ -3,7 +3,7 @@ title: "Wholesale Oversized T-Shirt Washed Cotton Vintage Letter Print | Unisex"
 date: 2026-04-08
 draft: false
 categories: ["T-shirts"]
-tags: ["washed cotton", "vintage print", "oversized", "unisex"]
+tags: ["oversized", "unisex"]
 image: "/images/products/vintage-letter-tee-1.jpg"
 description: "A perfect unisex essential. Made from garment-washed cotton for an ultra-soft hand and a lived-in texture. Features a minimalist, distressed letter print. The relaxed, oversized fit ensures comfort and versatility."
 summary: "A perfect unisex essential. Made from garment-washed cotton for an ultra-soft hand and a lived-in texture. Features a minimalist, distressed letter print. The relaxed, oversized fit ensures comfort and versatility."

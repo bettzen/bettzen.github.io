@@ -3,7 +3,7 @@ title: "Wholesale Linen-Cotton Cardigan | Striped Open Front Oversized Knit"
 date: 2026-03-31
 draft: false
 categories: ["Cardigans"]
-tags: ["linen cotton", "striped", "open front", "oversized"]
+tags: ["striped", "oversized"]
 image: "/images/products/linen-cotton-stripe-cardigan-1.jpg"
 description: "The perfect lightweight layer for warm weather. Knitted from a breathable linen-cotton blend yarn in a fresh stripe pattern, soft, airy and with good drape. The longline, open-front design with an oversized fit makes it an easy throw-on piece."
 summary: "The perfect lightweight layer for warm weather. Knitted from a breathable linen-cotton blend yarn in a fresh stripe pattern, soft, airy and with good drape. The longline, open-front design with an oversized fit makes it an easy throw-on piece."

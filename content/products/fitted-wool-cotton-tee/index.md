@@ -3,7 +3,7 @@ title: "Wholesale Women‘s Fitted Tee Cotton Wool Blend Knit | Premium Basic"
 date: 2026-04-08
 draft: false
 categories: ["T-shirts"]
-tags: ["cotton wool blend", "fitted", "premium basic", "round neck"]
+tags: ["fitted"]
 image: "/images/products/fitted-wool-cotton-tee-1.jpg"
 description: "This premium basic redefines everyday comfort. Knitted from a soft, fleshy-feel cotton and wool blend with great stretch. The refined round neck and perfectly tailored, slimming silhouette offer a polished look."
 summary: "This premium basic redefines everyday comfort. Knitted from a soft, fleshy-feel cotton and wool blend with great stretch. The refined round neck and perfectly tailored, slimming silhouette offer a polished look."

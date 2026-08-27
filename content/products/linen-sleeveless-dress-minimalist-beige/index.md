@@ -3,7 +3,7 @@ title: "Wholesale Linen Sleeveless Dress Minimalist Beige | Ultra-Fine Linen wit
 date: 2026-08-09
 draft: false
 categories: ["Dresses"]
-tags: ["linen", "dress", "wholesale", "sleeveless", "dress", "beige", "minimalist", "womenswear", "cotton", "lining", "breathable", "summer", "dress", "boutique", "sourcing"]
+tags: ["linen", "dress", "wholesale", "sleeveless", "beige", "minimalist", "womenswear", "cotton", "lining", "breathable", "summer", "boutique", "sourcing"]
 image: "/images/products/linen-sleeveless-dress-minimalist-beige-1.jpg"
 description: "This garment features an ultra-fine microfiber linen construction, offering a notably soft and refined hand-feel that distinguishes it from standard l"
 summary: "This garment features an ultra-fine microfiber linen construction, offering a no..."

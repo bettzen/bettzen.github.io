@@ -3,7 +3,7 @@ title: "Wholesale Oxford Cotton Crop Shirt | 3D Heart Embroidery"
 date: 2026-03-29
 draft: false
 categories: ["Tops"]
-tags: ["oxford cotton", "crop shirt", "heart embroidery", "boutique top"]
+tags: ["fashion"]
 image: "/images/products/heart-crop-shirt-1.jpg"
 description: "A youthful and stylish essential for warm-weather collections. Crafted from crisp, 100% Oxford cotton for excellent structure and wrinkle resistance."
 summary: "A youthful and stylish essential for warm-weather collections. Crafted from crisp, 100% Oxford cotton for excellent structure and wrinkle resistance."
