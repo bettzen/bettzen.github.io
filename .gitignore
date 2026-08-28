@@ -1,8 +1,8 @@
-"themes/blowfish" 
-"themes/blowfish" 
-"themes/blowfish" 
-"themes/blowfish" 
+"themes/blowfish"
+"themes/blowfish"
+"themes/blowfish"
+"themes/blowfish"
 # themes/blowfish
 # 构建产物不入库（GitHub Pages 通过 Actions 构建部署）
-/public/
-/docs/
+# /public/
+# /docs/
