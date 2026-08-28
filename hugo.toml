@@ -5,7 +5,7 @@ defaultContentLanguage = "zh-cn"
 [taxonomies]
   tag = "tags"
   category = "categories"
-publishDir = "public"
+publishDir = "docs"
 [params]
   enableSRI = false
 [markup.goldmark.renderer]
