@@ -4,7 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["T-shirts"]
 tags: ["wool-blend", "u-neck", "fitted", "premium-basic", "drapey"]
-image: "/images/products/wool-u-neck-tee-1.jpg"
+image: "/images/products/wool-u-neck-tee-1.webp"
 description: "Wholesale wool blend U-neck t-shirt in drapey fitted silhouette. Premium basic for boutiques."
 summary: "羊毛混纺U领T恤，垂顺修身，高级基础款。"
 ---
@@ -12,10 +12,10 @@ summary: "羊毛混纺U领T恤，垂顺修身，高级基础款。"
 **Item No.: 26040801**
 
 <div class="product-images">
-  <img src="/images/products/wool-u-neck-tee-1.jpg" alt="Wool U-Neck Tee Main">
-  <img src="/images/products/wool-u-neck-tee-2.jpg" alt="Wool U-Neck Tee Detail 1">
-  <img src="/images/products/wool-u-neck-tee-3.jpg" alt="Wool U-Neck Tee Detail 2">
-  <img src="/images/products/wool-u-neck-tee-4.jpg" alt="Wool U-Neck Tee Detail 3">
+  <img src="/images/products/wool-u-neck-tee-1.webp" alt="Wool U-Neck Tee Main">
+  <img src="/images/products/wool-u-neck-tee-2.webp" alt="Wool U-Neck Tee Detail 1">
+  <img src="/images/products/wool-u-neck-tee-3.webp" alt="Wool U-Neck Tee Detail 2">
+  <img src="/images/products/wool-u-neck-tee-4.webp" alt="Wool U-Neck Tee Detail 3">
 </div>
 
 ### Description

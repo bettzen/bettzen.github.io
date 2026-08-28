@@ -4,7 +4,7 @@ date: 2026-08-28T01:08:31
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "cashmere", "cardigan", "wholesale", "light", "blue", "knitwear", "soft", "wool", "texture", "boutique", "sourcing", "womenswear", "layering", "piece"]
-image: "/images/products/cashmere-blend-knit-cardigan-light-blue-1.jpg"
+image: "/images/products/cashmere-blend-knit-cardigan-light-blue-1.webp"
 description: "This lightweight knit cardigan is crafted from baselaine wool yarn, offering a fine, soft hand-feel that sits comfortably against the skin without irr"
 summary: "This lightweight knit cardigan is crafted from baselaine wool yarn, offering a f..."
 ---
@@ -14,10 +14,10 @@ Wholesale Cashmere-Blend Knit Cardigan Light Blue | Soft Baselayer Wool Texture 
 **Item No.: 26080602**
 
 <div class="product-images">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-1.jpg">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-2.jpg">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-3.jpg">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-4.jpg">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-1.webp">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-2.webp">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-3.webp">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-4.webp">
 </div>
 
 Item No.: 26080602

@@ -4,7 +4,7 @@ date: 2026-03-31
 draft: false
 categories: ["Shirts"]
 tags: ["oversized"]
-image: "/images/products/saturn-embroidered-hooded-shirt-1.jpg"
+image: "/images/products/saturn-embroidered-hooded-shirt-1.webp"
 description: "A statement shirt that blurs the line between tailored shirt and casual jacket. Made from lightweight, color-woven striped cotton with excellent drape and breathability. The design includes a detachable hood and is distinguished by a custom 'Saturn' planet embroidery on the placket, finished with contrasting purple tie closures."
 summary: "A statement shirt that blurs the line between tailored shirt and casual jacket. Made from lightweight, color-woven striped cotton with excellent drape and breathability. The design includes a detachable hood and is distinguished by a custom 'Saturn' planet embroidery on the placket, finished with contrasting purple tie closures."
 ---
@@ -12,10 +12,10 @@ summary: "A statement shirt that blurs the line between tailored shirt and casua
 **Item No.: 26032404**
 
 <div class="product-images">
-  <img src="/images/products/saturn-embroidered-hooded-shirt-1.jpg" alt="Saturn Shirt 1">
-  <img src="/images/products/saturn-embroidered-hooded-shirt-2.jpg" alt="Saturn Shirt 2">
-  <img src="/images/products/saturn-embroidered-hooded-shirt-3.jpg" alt="Saturn Shirt 3">
-  <img src="/images/products/saturn-embroidered-hooded-shirt-4.jpg" alt="Saturn Shirt 4">
+  <img src="/images/products/saturn-embroidered-hooded-shirt-1.webp" alt="Saturn Shirt 1">
+  <img src="/images/products/saturn-embroidered-hooded-shirt-2.webp" alt="Saturn Shirt 2">
+  <img src="/images/products/saturn-embroidered-hooded-shirt-3.webp" alt="Saturn Shirt 3">
+  <img src="/images/products/saturn-embroidered-hooded-shirt-4.webp" alt="Saturn Shirt 4">
 </div>
 
 ### Description

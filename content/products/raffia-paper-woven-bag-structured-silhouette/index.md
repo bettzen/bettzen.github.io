@@ -4,7 +4,7 @@ date: 2026-08-28T12:10:30+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "raffia", "paper", "bag", "wholesale", "woven", "structured", "silhouette", "lightweight", "summer", "accessory", "boutique", "sourcing", "artisan", "texture"]
-image: "/images/products/raffia-paper-woven-bag-structured-silhouette-1.jpg"
+image: "/images/products/raffia-paper-woven-bag-structured-silhouette-1.webp"
 description: "This woven bag is crafted from raffia paper, a material that provides a remarkably lightweight feel while maintaining a structured, rigid silhouette. "
 summary: "This woven bag is crafted from raffia paper, a material that provides a remarkab..."
 ---
@@ -14,10 +14,10 @@ Wholesale Raffia Paper Woven Bag Structured Silhouette | Lightweight Boutique Ac
 **Item No.: 26073102**
 
 <div class="product-images">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-1.jpg">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-2.jpg">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-3.jpg">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-4.jpg">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-1.webp">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-2.webp">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-3.webp">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-4.webp">
 </div>
 
 Item No.: 26073102

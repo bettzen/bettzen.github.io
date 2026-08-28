@@ -4,7 +4,7 @@ date: 2026-04-08
 draft: false
 categories: ["Bags"]
 tags: ["leather", "textured", "crossbody"]
-image: "/images/products/paper-effect-crescent-bag-1.jpg"
+image: "/images/products/paper-effect-crescent-bag-1.webp"
 description: "A statement accessory with unique texture. Crafted from premium full-grain leather, specially treated to achieve a distinctive paper-feel effect that is soft and tactile. The compact crescent shape is both trendy and practical. Lined with high-density cotton twill."
 summary: "A statement accessory with unique texture. Crafted from premium full-grain leather, specially treated to achieve a distinctive paper-feel effect that is soft and tactile. The compact crescent shape is both trendy and practical. Lined with high-density cotton twill."
 ---
@@ -12,10 +12,10 @@ summary: "A statement accessory with unique texture. Crafted from premium full-g
 **Item No.: 26032604**
 
 <div class="product-images">
-  <img src="/images/products/paper-effect-crescent-bag-1.jpg" alt="Crescent Bag 1">
-  <img src="/images/products/paper-effect-crescent-bag-2.jpg" alt="Crescent Bag 2">
-  <img src="/images/products/paper-effect-crescent-bag-3.jpg" alt="Crescent Bag 3">
-  <img src="/images/products/paper-effect-crescent-bag-4.jpg" alt="Crescent Bag 4">
+  <img src="/images/products/paper-effect-crescent-bag-1.webp" alt="Crescent Bag 1">
+  <img src="/images/products/paper-effect-crescent-bag-2.webp" alt="Crescent Bag 2">
+  <img src="/images/products/paper-effect-crescent-bag-3.webp" alt="Crescent Bag 3">
+  <img src="/images/products/paper-effect-crescent-bag-4.webp" alt="Crescent Bag 4">
 </div>
 
 ### Description

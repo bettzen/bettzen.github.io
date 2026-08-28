@@ -4,7 +4,7 @@ date: 2026-04-17
 draft: false
 categories: ["T-shirts"]
 tags: ["cropped", "modal-cotton", "fitted", "premium-basic"]
-image: "/images/products/cropped-modal-tee-1.jpg"
+image: "/images/products/cropped-modal-tee-1.webp"
 description: "Wholesale Women's Cropped T-Shirt in Modal Cotton Blend. Fitted basics for boutique."
 summary: "修身短款T恤，木代尔棉混纺，亲肤基础款。"
 ---
@@ -12,10 +12,10 @@ summary: "修身短款T恤，木代尔棉混纺，亲肤基础款。"
 **Item No.: 26040201**
 
 <div class="product-images">
-  <img src="/images/products/cropped-modal-tee-1.jpg" alt="Cropped Modal Tee Main">
-  <img src="/images/products/cropped-modal-tee-2.jpg" alt="Cropped Modal Tee Detail 1">
-  <img src="/images/products/cropped-modal-tee-3.jpg" alt="Cropped Modal Tee Detail 2">
-  <img src="/images/products/cropped-modal-tee-4.jpg" alt="Cropped Modal Tee Detail 3">
+  <img src="/images/products/cropped-modal-tee-1.webp" alt="Cropped Modal Tee Main">
+  <img src="/images/products/cropped-modal-tee-2.webp" alt="Cropped Modal Tee Detail 1">
+  <img src="/images/products/cropped-modal-tee-3.webp" alt="Cropped Modal Tee Detail 2">
+  <img src="/images/products/cropped-modal-tee-4.webp" alt="Cropped Modal Tee Detail 3">
 </div>
 
 ### Description

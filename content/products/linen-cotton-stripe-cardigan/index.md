@@ -4,7 +4,7 @@ date: 2026-03-31
 draft: false
 categories: ["Cardigans"]
 tags: ["striped", "oversized"]
-image: "/images/products/linen-cotton-stripe-cardigan-1.jpg"
+image: "/images/products/linen-cotton-stripe-cardigan-1.webp"
 description: "The perfect lightweight layer for warm weather. Knitted from a breathable linen-cotton blend yarn in a fresh stripe pattern, soft, airy and with good drape. The longline, open-front design with an oversized fit makes it an easy throw-on piece."
 summary: "The perfect lightweight layer for warm weather. Knitted from a breathable linen-cotton blend yarn in a fresh stripe pattern, soft, airy and with good drape. The longline, open-front design with an oversized fit makes it an easy throw-on piece."
 ---
@@ -12,10 +12,10 @@ summary: "The perfect lightweight layer for warm weather. Knitted from a breatha
 **Item No.: 26032403**
 
 <div class="product-images">
-  <img src="/images/products/linen-cotton-stripe-cardigan-1.jpg" alt="Stripe Cardigan 1">
-  <img src="/images/products/linen-cotton-stripe-cardigan-2.jpg" alt="Stripe Cardigan 2">
-  <img src="/images/products/linen-cotton-stripe-cardigan-3.jpg" alt="Stripe Cardigan 3">
-  <img src="/images/products/linen-cotton-stripe-cardigan-4.jpg" alt="Stripe Cardigan 4">
+  <img src="/images/products/linen-cotton-stripe-cardigan-1.webp" alt="Stripe Cardigan 1">
+  <img src="/images/products/linen-cotton-stripe-cardigan-2.webp" alt="Stripe Cardigan 2">
+  <img src="/images/products/linen-cotton-stripe-cardigan-3.webp" alt="Stripe Cardigan 3">
+  <img src="/images/products/linen-cotton-stripe-cardigan-4.webp" alt="Stripe Cardigan 4">
 </div>
 
 ### Description

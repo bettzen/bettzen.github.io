@@ -4,7 +4,7 @@ date: 2026-03-31
 draft: false
 categories: ["Tops"]
 tags: ["crochet", "rhinestone", "sleeveless"]
-image: "/images/products/crochet-knit-top-1.jpg"
+image: "/images/products/crochet-knit-top-1.webp"
 description: "An exquisite piece showcasing detailed craftsmanship. Made from a soft wool-mix blended yarn with a delicate handfeel, this sleeveless top features intricate crochet patterns accented by elegant rhinestone buttons."
 summary: "An exquisite piece showcasing detailed craftsmanship. Made from a soft wool-mix blended yarn with a delicate handfeel, this sleeveless top features intricate crochet patterns accented by elegant rhinestone buttons."
 ---
@@ -12,10 +12,10 @@ summary: "An exquisite piece showcasing detailed craftsmanship. Made from a soft
 **Item No.: 26032402**
 
 <div class="product-images">
-  <img src="/images/products/crochet-knit-top-1.jpg" alt="Crochet Top 1">
-  <img src="/images/products/crochet-knit-top-2.jpg" alt="Crochet Top 2">
-  <img src="/images/products/crochet-knit-top-3.jpg" alt="Crochet Top 3">
-  <img src="/images/products/crochet-knit-top-4.jpg" alt="Crochet Top 4">
+  <img src="/images/products/crochet-knit-top-1.webp" alt="Crochet Top 1">
+  <img src="/images/products/crochet-knit-top-2.webp" alt="Crochet Top 2">
+  <img src="/images/products/crochet-knit-top-3.webp" alt="Crochet Top 3">
+  <img src="/images/products/crochet-knit-top-4.webp" alt="Crochet Top 4">
 </div>
 
 ### Description

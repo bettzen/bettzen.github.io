@@ -4,7 +4,7 @@ date: 2026-03-31
 draft: false
 categories: ["T-shirts"]
 tags: ["oversized", "unisex"]
-image: "/images/products/vintage-print-oversized-tee-1.jpg"
+image: "/images/products/vintage-print-oversized-tee-1.webp"
 description: "Crafted from pre-washed and garment-dyed cotton jersey for an ultra-soft handfeel, breathable performance and a lived-in, vintage texture. Features a minimalist, distressed letter print that adds a casual streetwear edge."
 summary: "Crafted from pre-washed and garment-dyed cotton jersey for an ultra-soft handfeel, breathable performance and a lived-in, vintage texture. Features a minimalist, distressed letter print that adds a casual streetwear edge."
 ---
@@ -12,10 +12,10 @@ summary: "Crafted from pre-washed and garment-dyed cotton jersey for an ultra-so
 **Item No.: 26032401**
 
 <div class="product-images">
-  <img src="/images/products/vintage-print-oversized-tee-1.jpg" alt="Vintage Print Tee 1">
-  <img src="/images/products/vintage-print-oversized-tee-2.jpg" alt="Vintage Print Tee 2">
-  <img src="/images/products/vintage-print-oversized-tee-3.jpg" alt="Vintage Print Tee 3">
-  <img src="/images/products/vintage-print-oversized-tee-4.jpg" alt="Vintage Print Tee 4">
+  <img src="/images/products/vintage-print-oversized-tee-1.webp" alt="Vintage Print Tee 1">
+  <img src="/images/products/vintage-print-oversized-tee-2.webp" alt="Vintage Print Tee 2">
+  <img src="/images/products/vintage-print-oversized-tee-3.webp" alt="Vintage Print Tee 3">
+  <img src="/images/products/vintage-print-oversized-tee-4.webp" alt="Vintage Print Tee 4">
 </div>
 
 ### Description

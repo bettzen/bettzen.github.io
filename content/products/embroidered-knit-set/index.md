@@ -4,7 +4,7 @@ date: 2026-04-08
 draft: false
 categories: ["Sets"]
 tags: ["embroidered"]
-image: "/images/products/embroidered-knit-set-1.jpg"
+image: "/images/products/embroidered-knit-set-1.webp"
 description: "The ultimate comfort set without sacrificing style. Made from high-count cotton knit for exceptional softness. The set includes a fitted crop top with chest embroidery and high-waisted wide-leg pants with adjustable drawstring hems. Designed to flatter and elongate the silhouette."
 summary: "The ultimate comfort set without sacrificing style. Made from high-count cotton knit for exceptional softness. The set includes a fitted crop top with chest embroidery and high-waisted wide-leg pants with adjustable drawstring hems. Designed to flatter and elongate the silhouette."
 ---
@@ -12,10 +12,10 @@ summary: "The ultimate comfort set without sacrificing style. Made from high-cou
 **Item No.: 26032605**
 
 <div class="product-images">
-  <img src="/images/products/embroidered-knit-set-1.jpg" alt="Knit Set 1">
-  <img src="/images/products/embroidered-knit-set-2.jpg" alt="Knit Set 2">
-  <img src="/images/products/embroidered-knit-set-3.jpg" alt="Knit Set 3">
-  <img src="/images/products/embroidered-knit-set-4.jpg" alt="Knit Set 4">
+  <img src="/images/products/embroidered-knit-set-1.webp" alt="Knit Set 1">
+  <img src="/images/products/embroidered-knit-set-2.webp" alt="Knit Set 2">
+  <img src="/images/products/embroidered-knit-set-3.webp" alt="Knit Set 3">
+  <img src="/images/products/embroidered-knit-set-4.webp" alt="Knit Set 4">
 </div>
 
 ### Description

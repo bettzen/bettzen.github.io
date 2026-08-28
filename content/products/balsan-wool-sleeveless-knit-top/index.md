@@ -4,7 +4,7 @@ date: 2026-08-28T01:18:10
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "balsan", "wool", "knit", "top", "wholesale", "sleeveless", "lightweight", "soft", "texture", "light", "blue", "womenswear", "boutique", "sourcing"]
-image: "/images/products/balsan-wool-sleeveless-knit-top-1.jpg"
+image: "/images/products/balsan-wool-sleeveless-knit-top-1.webp"
 description: "This sleeveless knit top is crafted from Balsan wool yarn, offering a fine and soft hand-feel that sits comfortably against the skin without irritatio"
 summary: "This sleeveless knit top is crafted from Balsan wool yarn, offering a fine and s..."
 ---
@@ -14,10 +14,10 @@ Wholesale Balsan Wool Sleeveless Knit Top | Fine Soft Texture for Boutique Sourc
 **Item No.: 26080603**
 
 <div class="product-images">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-1.jpg">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-2.jpg">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-3.jpg">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-4.jpg">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-1.webp">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-2.webp">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-3.webp">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-4.webp">
 </div>
 
 Item No.: 26080603

@@ -4,7 +4,7 @@ date: 2026-03-29
 draft: false
 categories: ["Bottoms"]
 tags: ["fashion"]
-image: "/images/products/striped-pants-1.jpg"
+image: "/images/products/striped-pants-1.webp"
 description: "Embrace relaxed tailoring. These trousers feature a woven linen-cotton blend fabric in a vertical stripe pattern, offering excellent breathability, soft dense handfeel and good drape."
 summary: "Embrace relaxed tailoring. These trousers feature a woven linen-cotton blend fabric in a vertical stripe pattern, offering excellent breathability, soft dense handfeel and good drape."
 ---
@@ -12,10 +12,10 @@ summary: "Embrace relaxed tailoring. These trousers feature a woven linen-cotton
 **Item No.: 26032302**
 
 <div class="product-images">
-  <img src="/images/products/striped-pants-1.jpg" alt="Striped Pants 1">
-  <img src="/images/products/striped-pants-2.jpg" alt="Striped Pants 2">
-  <img src="/images/products/striped-pants-3.jpg" alt="Striped Pants 3">
-  <img src="/images/products/striped-pants-4.jpg" alt="Striped Pants 4">
+  <img src="/images/products/striped-pants-1.webp" alt="Striped Pants 1">
+  <img src="/images/products/striped-pants-2.webp" alt="Striped Pants 2">
+  <img src="/images/products/striped-pants-3.webp" alt="Striped Pants 3">
+  <img src="/images/products/striped-pants-4.webp" alt="Striped Pants 4">
 </div>
 
 ### Description

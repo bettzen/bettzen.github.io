@@ -4,7 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["Skirts"]
 tags: ["ramie", "ethnic-print", "drawstring", "boho", "resort-wear"]
-image: "/images/products/ramie-skirt-1.jpg"
+image: "/images/products/ramie-skirt-1.webp"
 description: "Wholesale ethnic print ramie skirt with elastic drawstring waist. Flowy boho piece for resort wear."
 summary: "民族风印花苎麻半裙，抽绳腰，飘逸波西米亚风。"
 ---
@@ -12,10 +12,10 @@ summary: "民族风印花苎麻半裙，抽绳腰，飘逸波西米亚风。"
 **Item No.: 26040804**
 
 <div class="product-images">
-  <img src="/images/products/ramie-skirt-1.jpg" alt="Ramie Skirt Main">
-  <img src="/images/products/ramie-skirt-2.jpg" alt="Ramie Skirt Detail 1">
-  <img src="/images/products/ramie-skirt-3.jpg" alt="Ramie Skirt Detail 2">
-  <img src="/images/products/ramie-skirt-4.jpg" alt="Ramie Skirt Detail 3">
+  <img src="/images/products/ramie-skirt-1.webp" alt="Ramie Skirt Main">
+  <img src="/images/products/ramie-skirt-2.webp" alt="Ramie Skirt Detail 1">
+  <img src="/images/products/ramie-skirt-3.webp" alt="Ramie Skirt Detail 2">
+  <img src="/images/products/ramie-skirt-4.webp" alt="Ramie Skirt Detail 3">
 </div>
 
 ### Description

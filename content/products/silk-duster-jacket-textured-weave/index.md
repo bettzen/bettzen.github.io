@@ -4,7 +4,7 @@ date: 2026-08-09
 draft: false
 categories: ["Jackets"]
 tags: ["silk", "duster", "jacket", "wholesale", "textured", "embossed", "print", "lightweight", "layer", "adjustable", "drawstring", "boutique", "womenswear", "spring", "summer"]
-image: "/images/products/silk-duster-jacket-textured-weave-1.jpg"
+image: "/images/products/silk-duster-jacket-textured-weave-1.webp"
 description: "This garment is crafted from a textured silk fabric featuring a dimensional, embossed surface effect. The subtle tonal print creates an understated, v"
 summary: "This garment is crafted from a textured silk fabric featuring a dimensional, emb..."
 ---
@@ -14,10 +14,10 @@ Wholesale Silk Duster Jacket Textured Weave | Adjustable Drawstring Lightweight 
 **Item No.: 26072106**
 
 <div class="product-images">
-  <img src="/images/products/silk-duster-jacket-textured-weave-1.jpg">
-  <img src="/images/products/silk-duster-jacket-textured-weave-2.jpg">
-  <img src="/images/products/silk-duster-jacket-textured-weave-3.jpg">
-  <img src="/images/products/silk-duster-jacket-textured-weave-4.jpg">
+  <img src="/images/products/silk-duster-jacket-textured-weave-1.webp">
+  <img src="/images/products/silk-duster-jacket-textured-weave-2.webp">
+  <img src="/images/products/silk-duster-jacket-textured-weave-3.webp">
+  <img src="/images/products/silk-duster-jacket-textured-weave-4.webp">
 </div>
 
 Item No.: 26072106

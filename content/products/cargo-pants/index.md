@@ -4,16 +4,16 @@ date: 2026-03-26
 draft: false
 categories: ["Bottoms"]
 tags: ["drawstring", "streetwear"]
-image: "/images/products/cargo-pants-1.jpg"
+image: "/images/products/cargo-pants-1.webp"
 summary: "Slim-fit cargo pants with dual zippers and adjustable drawstring. Structured, breathable fabric for streetwear."
 ---
 
 **Item No.: 26031805**
 <div class="product-images">
-  <img src="/images/products/cargo-pants-1.jpg" alt="Cargo Pants Image 1">
-  <img src="/images/products/cargo-pants-2.jpg" alt="Cargo Pants Image 2">
-  <img src="/images/products/cargo-pants-3.jpg" alt="Cargo Pants Image 3">
-  <img src="/images/products/cargo-pants-4.jpg" alt="Cargo Pants Image 4">
+  <img src="/images/products/cargo-pants-1.webp" alt="Cargo Pants Image 1">
+  <img src="/images/products/cargo-pants-2.webp" alt="Cargo Pants Image 2">
+  <img src="/images/products/cargo-pants-3.webp" alt="Cargo Pants Image 3">
+  <img src="/images/products/cargo-pants-4.webp" alt="Cargo Pants Image 4">
 </div>
 
 

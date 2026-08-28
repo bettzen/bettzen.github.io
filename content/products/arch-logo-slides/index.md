@@ -4,7 +4,7 @@ date: 2026-05-07
 draft: false
 categories: ["Shoes"]
 tags: ["slides", "leather", "embossed", "minimalist", "premium"]
-image: "/images/products/arch-logo-slides-1.jpg"
+image: "/images/products/arch-logo-slides-1.webp"
 description: "Wholesale luxury embossed arch logo slides in imported cowhide leather with lambskin footbed. Minimalist, premium sandals for boutiques. Wholesale price: ¥270."
 summary: "凯旋门压印拖鞋，进口小牛皮，小羊皮脚床，批发价270元。"
 ---
@@ -12,10 +12,10 @@ summary: "凯旋门压印拖鞋，进口小牛皮，小羊皮脚床，批发价2
 **Item No.: 26042701**
 
 <div class="product-images">
-  <img src="/images/products/arch-logo-slides-1.jpg" alt="Arch Logo Slides Main">
-  <img src="/images/products/arch-logo-slides-2.jpg" alt="Arch Logo Slides Detail 1">
-  <img src="/images/products/arch-logo-slides-3.jpg" alt="Arch Logo Slides Detail 2">
-  <img src="/images/products/arch-logo-slides-4.jpg" alt="Arch Logo Slides Detail 3">
+  <img src="/images/products/arch-logo-slides-1.webp" alt="Arch Logo Slides Main">
+  <img src="/images/products/arch-logo-slides-2.webp" alt="Arch Logo Slides Detail 1">
+  <img src="/images/products/arch-logo-slides-3.webp" alt="Arch Logo Slides Detail 2">
+  <img src="/images/products/arch-logo-slides-4.webp" alt="Arch Logo Slides Detail 3">
 </div>
 
 ### Description

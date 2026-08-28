@@ -4,7 +4,7 @@ date: 2026-04-17
 draft: false
 categories: ["T-shirts"]
 tags: ["graphic-tee", "hand-drawn", "heather-grey", "streetwear"]
-image: "/images/products/horse-print-tee-1.jpg"
+image: "/images/products/horse-print-tee-1.webp"
 description: "Wholesale Graphic T-Shirt with Hand-Drawn Horse Print. 100% Cotton in heather grey."
 summary: "手绘马字母印花T恤，100%纯棉，高级灰。"
 ---
@@ -12,10 +12,10 @@ summary: "手绘马字母印花T恤，100%纯棉，高级灰。"
 **Item No.: 26040204**
 
 <div class="product-images">
-  <img src="/images/products/horse-print-tee-1.jpg" alt="Horse Print Tee Main">
-  <img src="/images/products/horse-print-tee-2.jpg" alt="Horse Print Tee Detail 1">
-  <img src="/images/products/horse-print-tee-3.jpg" alt="Horse Print Tee Detail 2">
-  <img src="/images/products/horse-print-tee-4.jpg" alt="Horse Print Tee Detail 3">
+  <img src="/images/products/horse-print-tee-1.webp" alt="Horse Print Tee Main">
+  <img src="/images/products/horse-print-tee-2.webp" alt="Horse Print Tee Detail 1">
+  <img src="/images/products/horse-print-tee-3.webp" alt="Horse Print Tee Detail 2">
+  <img src="/images/products/horse-print-tee-4.webp" alt="Horse Print Tee Detail 3">
 </div>
 
 ### Description

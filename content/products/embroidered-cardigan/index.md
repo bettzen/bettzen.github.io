@@ -4,7 +4,7 @@ date: 2026-05-03
 draft: false
 categories: ["Cardigans"]
 tags: ["embroidered", "cardigan", "lambswool", "3d-embroidery", "pastel"]
-image: "/images/products/embroidered-cardigan-1.jpg"
+image: "/images/products/embroidered-cardigan-1.webp"
 description: "Wholesale 3D embroidered lambswool blend cardigan in lilac pink. Feminine, detailed knitwear for boutiques. Wholesale price: ¥220."
 summary: "SE刺绣紫粉色针织开衫，绵羊毛混纺，立体刺绣，批发价220元。"
 ---
@@ -12,10 +12,10 @@ summary: "SE刺绣紫粉色针织开衫，绵羊毛混纺，立体刺绣，批�
 **Item No.: 26041503**
 
 <div class="product-images">
-  <img src="/images/products/embroidered-cardigan-1.jpg" alt="Embroidered Cardigan Main">
-  <img src="/images/products/embroidered-cardigan-2.jpg" alt="Embroidered Cardigan Detail 1">
-  <img src="/images/products/embroidered-cardigan-3.jpg" alt="Embroidered Cardigan Detail 2">
-  <img src="/images/products/embroidered-cardigan-4.jpg" alt="Embroidered Cardigan Detail 3">
+  <img src="/images/products/embroidered-cardigan-1.webp" alt="Embroidered Cardigan Main">
+  <img src="/images/products/embroidered-cardigan-2.webp" alt="Embroidered Cardigan Detail 1">
+  <img src="/images/products/embroidered-cardigan-3.webp" alt="Embroidered Cardigan Detail 2">
+  <img src="/images/products/embroidered-cardigan-4.webp" alt="Embroidered Cardigan Detail 3">
 </div>
 
 ### Description

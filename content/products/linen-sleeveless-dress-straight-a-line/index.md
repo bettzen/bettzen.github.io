@@ -4,7 +4,7 @@ date: 2026-08-09
 draft: false
 categories: ["Dresses"]
 tags: ["linen", "dress", "wholesale", "sleeveless", "a-line", "natural", "fabric", "resort", "wear", "boutique", "sourcing", "straight", "silhouette", "womenswear", "capsule", "collection"]
-image: "/images/products/linen-sleeveless-dress-straight-a-line-1.jpg"
+image: "/images/products/linen-sleeveless-dress-straight-a-line-1.webp"
 description: "This garment features a sleeveless, round-neck silhouette cut from 100% natural linen, offering a breathable and airy wearing experience ideal for war"
 summary: "This garment features a sleeveless, round-neck silhouette cut from 100% natural ..."
 ---
@@ -14,10 +14,10 @@ Wholesale Linen Sleeveless Dress Straight A-Line | Half-Placket Concealed Button
 **Item No.: 26072103**
 
 <div class="product-images">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-1.jpg">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-2.jpg">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-3.jpg">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-4.jpg">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-1.webp">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-2.webp">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-3.webp">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-4.webp">
 </div>
 
 Item No.: 26072103

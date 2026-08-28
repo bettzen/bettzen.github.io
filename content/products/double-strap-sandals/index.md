@@ -4,7 +4,7 @@ date: 2026-05-07
 draft: false
 categories: ["Shoes"]
 tags: ["platform-sandals", "velcro", "nubuck", "height-increasing", "summer"]
-image: "/images/products/double-strap-sandals-1.jpg"
+image: "/images/products/double-strap-sandals-1.webp"
 description: "Wholesale 5CM platform double strap velcro sandals in imported nubuck leather. Adjustable fit, height-increasing, summer bestseller for boutiques. Wholesale price: ¥350."
 summary: "增高厚底凉拖，魔术贴双带设计，进口牛磨砂皮，批发价350元。"
 ---
@@ -12,10 +12,10 @@ summary: "增高厚底凉拖，魔术贴双带设计，进口牛磨砂皮，批�
 **Item No.: 26042704**
 
 <div class="product-images">
-  <img src="/images/products/double-strap-sandals-1.jpg" alt="Double Strap Sandals Main">
-  <img src="/images/products/double-strap-sandals-2.jpg" alt="Double Strap Sandals Detail 1">
-  <img src="/images/products/double-strap-sandals-3.jpg" alt="Double Strap Sandals Detail 2">
-  <img src="/images/products/double-strap-sandals-4.jpg" alt="Double Strap Sandals Detail 3">
+  <img src="/images/products/double-strap-sandals-1.webp" alt="Double Strap Sandals Main">
+  <img src="/images/products/double-strap-sandals-2.webp" alt="Double Strap Sandals Detail 1">
+  <img src="/images/products/double-strap-sandals-3.webp" alt="Double Strap Sandals Detail 2">
+  <img src="/images/products/double-strap-sandals-4.webp" alt="Double Strap Sandals Detail 3">
 </div>
 
 ### Description

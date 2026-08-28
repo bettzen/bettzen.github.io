@@ -4,7 +4,7 @@ date: 2026-08-09
 draft: false
 categories: ["Dresses"]
 tags: ["linen", "dress", "wholesale", "asymmetric", "hem", "sleeveless", "natural", "fabric", "side", "pockets", "minimalist", "womenswear", "boutique", "sourcing", "summer"]
-image: "/images/products/linen-sleeveless-dress-asymmetric-hem-1.jpg"
+image: "/images/products/linen-sleeveless-dress-asymmetric-hem-1.webp"
 description: "This sleeveless dress is crafted from 100% natural linen, offering a breathable and lightweight wearing experience ideal for warm-weather retail. The "
 summary: "This sleeveless dress is crafted from 100% natural linen, offering a breathable ..."
 ---
@@ -14,10 +14,10 @@ Wholesale Linen Sleeveless Dress Asymmetric Hem | Natural Fabric with Side Pocke
 **Item No.: 26072105**
 
 <div class="product-images">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-1.jpg">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-2.jpg">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-3.jpg">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-4.jpg">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-1.webp">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-2.webp">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-3.webp">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-4.webp">
 </div>
 
 Item No.: 26072105

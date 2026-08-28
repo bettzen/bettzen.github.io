@@ -4,7 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["T-shirts"]
 tags: ["striped", "fitted", "silk-blend", "magic-tee", "slimming"]
-image: "/images/products/striped-magic-tee-1.jpg"
+image: "/images/products/striped-magic-tee-1.webp"
 description: "Wholesale striped fitted t-shirt in silk wool acetate blend. Figure-flattering magic tee for boutiques."
 summary: "弹力条纹修身T恤，真丝羊毛醋酸混纺，显瘦魔力T。"
 ---
@@ -12,10 +12,10 @@ summary: "弹力条纹修身T恤，真丝羊毛醋酸混纺，显瘦魔力T。"
 **Item No.: 26040806**
 
 <div class="product-images">
-  <img src="/images/products/striped-magic-tee-1.jpg" alt="Striped Magic Tee Main">
-  <img src="/images/products/striped-magic-tee-2.jpg" alt="Striped Magic Tee Detail 1">
-  <img src="/images/products/striped-magic-tee-3.jpg" alt="Striped Magic Tee Detail 2">
-  <img src="/images/products/striped-magic-tee-4.jpg" alt="Striped Magic Tee Detail 3">
+  <img src="/images/products/striped-magic-tee-1.webp" alt="Striped Magic Tee Main">
+  <img src="/images/products/striped-magic-tee-2.webp" alt="Striped Magic Tee Detail 1">
+  <img src="/images/products/striped-magic-tee-3.webp" alt="Striped Magic Tee Detail 2">
+  <img src="/images/products/striped-magic-tee-4.webp" alt="Striped Magic Tee Detail 3">
 </div>
 
 ### Description

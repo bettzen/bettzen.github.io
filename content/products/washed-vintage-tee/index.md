@@ -4,7 +4,7 @@ date: 2026-04-03
 draft: false
 categories: ["T-shirts"]
 tags: ["fashion"]
-image: "/images/products/washed-vintage-tee-1.jpg"
+image: "/images/products/washed-vintage-tee-1.webp"
 description: "100% cotton jersey, garment-washed for ultra-soft, lived-in handfeel. Relaxed fit with minimalist vintage print. A timeless basic for daily wear and capsule wardrobes."
 summary: "100% cotton jersey, garment-washed for ultra-soft, lived-in handfeel. Relaxed fit with minimalist vintage print. A timeless basic for daily wear and capsule wardrobes."
 ---
@@ -12,10 +12,10 @@ summary: "100% cotton jersey, garment-washed for ultra-soft, lived-in handfeel. 
 **Item No.: 26032503**
 
 <div class="product-images">
-  <img src="/images/products/washed-vintage-tee-1.jpg" alt="Washed Vintage Tee 1">
-  <img src="/images/products/washed-vintage-tee-2.jpg" alt="Washed Vintage Tee 2">
-  <img src="/images/products/washed-vintage-tee-3.jpg" alt="Washed Vintage Tee 3">
-  <img src="/images/products/washed-vintage-tee-4.jpg" alt="Washed Vintage Tee 4">
+  <img src="/images/products/washed-vintage-tee-1.webp" alt="Washed Vintage Tee 1">
+  <img src="/images/products/washed-vintage-tee-2.webp" alt="Washed Vintage Tee 2">
+  <img src="/images/products/washed-vintage-tee-3.webp" alt="Washed Vintage Tee 3">
+  <img src="/images/products/washed-vintage-tee-4.webp" alt="Washed Vintage Tee 4">
 </div>
 
 ### Description

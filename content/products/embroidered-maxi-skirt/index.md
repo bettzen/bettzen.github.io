@@ -4,7 +4,7 @@ date: 2026-05-03
 draft: false
 categories: ["Skirts"]
 tags: ["embroidered", "maxi-skirt", "a-line", "cotton-poplin", "equestrian"]
-image: "/images/products/embroidered-maxi-skirt-1.jpg"
+image: "/images/products/embroidered-maxi-skirt-1.webp"
 description: "Wholesale embroidered high-cotton A-line maxi skirt with elastic waist. Elegant, flattering piece for boutiques. Wholesale price: ¥260."
 summary: "拉夫小马刺绣长半裙，高支全棉伞裙，弹力腰，批发价260元。"
 ---
@@ -12,10 +12,10 @@ summary: "拉夫小马刺绣长半裙，高支全棉伞裙，弹力腰，批发�
 **Item No.: 26041502**
 
 <div class="product-images">
-  <img src="/images/products/embroidered-maxi-skirt-1.jpg" alt="Embroidered Maxi Skirt Main">
-  <img src="/images/products/embroidered-maxi-skirt-2.jpg" alt="Embroidered Maxi Skirt Detail 1">
-  <img src="/images/products/embroidered-maxi-skirt-3.jpg" alt="Embroidered Maxi Skirt Detail 2">
-  <img src="/images/products/embroidered-maxi-skirt-4.jpg" alt="Embroidered Maxi Skirt Detail 3">
+  <img src="/images/products/embroidered-maxi-skirt-1.webp" alt="Embroidered Maxi Skirt Main">
+  <img src="/images/products/embroidered-maxi-skirt-2.webp" alt="Embroidered Maxi Skirt Detail 1">
+  <img src="/images/products/embroidered-maxi-skirt-3.webp" alt="Embroidered Maxi Skirt Detail 2">
+  <img src="/images/products/embroidered-maxi-skirt-4.webp" alt="Embroidered Maxi Skirt Detail 3">
 </div>
 
 ### Description

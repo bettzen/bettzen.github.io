@@ -4,7 +4,7 @@ date: 2026-05-03
 draft: false
 categories: ["Cardigans"]
 tags: ["lace", "open-knit", "linen-lyocell", "peplum", "boho"]
-image: "/images/products/peplum-lace-cardigan-1.jpg"
+image: "/images/products/peplum-lace-cardigan-1.webp"
 description: "Wholesale linen lyocell peplum lace open knit cardigan. Romantic, breathable cover-up for resort wear boutiques. Wholesale price: ¥228."
 summary: "MD荷叶边镂空开衫，亚麻莱赛尔混纺，钩花工艺，批发价228元。"
 ---
@@ -12,10 +12,10 @@ summary: "MD荷叶边镂空开衫，亚麻莱赛尔混纺，钩花工艺，批�
 **Item No.: 26041504**
 
 <div class="product-images">
-  <img src="/images/products/peplum-lace-cardigan-1.jpg" alt="Peplum Lace Cardigan Main">
-  <img src="/images/products/peplum-lace-cardigan-2.jpg" alt="Peplum Lace Cardigan Detail 1">
-  <img src="/images/products/peplum-lace-cardigan-3.jpg" alt="Peplum Lace Cardigan Detail 2">
-  <img src="/images/products/peplum-lace-cardigan-4.jpg" alt="Peplum Lace Cardigan Detail 3">
+  <img src="/images/products/peplum-lace-cardigan-1.webp" alt="Peplum Lace Cardigan Main">
+  <img src="/images/products/peplum-lace-cardigan-2.webp" alt="Peplum Lace Cardigan Detail 1">
+  <img src="/images/products/peplum-lace-cardigan-3.webp" alt="Peplum Lace Cardigan Detail 2">
+  <img src="/images/products/peplum-lace-cardigan-4.webp" alt="Peplum Lace Cardigan Detail 3">
 </div>
 
 ### Description

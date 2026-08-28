@@ -4,7 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["Tops"]
 tags: ["vest", "linen", "embroidered", "boho", "wooden-buttons"]
-image: "/images/products/embroidered-linen-vest-1.jpg"
+image: "/images/products/embroidered-linen-vest-1.webp"
 description: "Wholesale 3D embroidered linen blend vest with wooden bead buttons. Boho chic layering piece."
 summary: "立体盘花亚麻马甲，木质纽扣手工串珠，波西米亚风。"
 ---
@@ -12,10 +12,10 @@ summary: "立体盘花亚麻马甲，木质纽扣手工串珠，波西米亚风�
 **Item No.: 26040803**
 
 <div class="product-images">
-  <img src="/images/products/embroidered-linen-vest-1.jpg" alt="Embroidered Linen Vest Main">
-  <img src="/images/products/embroidered-linen-vest-2.jpg" alt="Embroidered Linen Vest Detail 1">
-  <img src="/images/products/embroidered-linen-vest-3.jpg" alt="Embroidered Linen Vest Detail 2">
-  <img src="/images/products/embroidered-linen-vest-4.jpg" alt="Embroidered Linen Vest Detail 3">
+  <img src="/images/products/embroidered-linen-vest-1.webp" alt="Embroidered Linen Vest Main">
+  <img src="/images/products/embroidered-linen-vest-2.webp" alt="Embroidered Linen Vest Detail 1">
+  <img src="/images/products/embroidered-linen-vest-3.webp" alt="Embroidered Linen Vest Detail 2">
+  <img src="/images/products/embroidered-linen-vest-4.webp" alt="Embroidered Linen Vest Detail 3">
 </div>
 
 ### Description

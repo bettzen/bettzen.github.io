@@ -4,7 +4,7 @@ date: 2026-08-27
 draft: false
 categories: ["Tops"]
 tags: ["linen", "shirt", "wholesale", "embroidered", "pony", "top", "natural", "fabric", "summer", "boutique", "womenswear", "shell", "buttons", "breathable"]
-image: "/images/products/linen-shirt-embroidered-pony-short-sleeve-1.jpg"
+image: "/images/products/linen-shirt-embroidered-pony-short-sleeve-1.webp"
 description: "This garment features a relaxed short-sleeve silhouette crafted from 100% natural linen, offering superior breathability and moisture-wicking properti"
 summary: "This garment features a relaxed short-sleeve silhouette crafted from 100% natura..."
 ---
@@ -14,10 +14,10 @@ Wholesale Linen Shirt Embroidered Pony Short Sleeve | Natural Breathable Summer 
 **Item No.: 26080604**
 
 <div class="product-images">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-1.jpg">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-2.jpg">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-3.jpg">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-4.jpg">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-1.webp">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-2.webp">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-3.webp">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-4.webp">
 </div>
 
 Item No.: 26080604

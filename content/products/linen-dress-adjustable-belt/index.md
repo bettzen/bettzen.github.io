@@ -4,7 +4,7 @@ date: 2026-08-02
 draft: false
 categories: ["Dresses"]
 tags: ["linen", "dress", "wholesale", "adjustable", "belt", "natural", "fabric", "breathable", "summer", "boutique", "sourcing", "minimalist", "womenswear"]
-image: "/images/products/linen-dress-adjustable-belt-1.jpg"
+image: "/images/products/linen-dress-adjustable-belt-1.webp"
 description: "This garment features a minimalist silhouette crafted from 100% natural linen, offering a breathable and smoothly draping texture that keeps the weare"
 summary: "This garment features a minimalist silhouette crafted from 100% natural linen, o..."
 ---
@@ -14,10 +14,10 @@ Wholesale Linen Dress Adjustable Belt | Breathable Natural Fabric Silhouette
 **Item No.: 26072102**
 
 <div class="product-images">
-  <img src="/images/products/linen-dress-adjustable-belt-1.jpg">
-  <img src="/images/products/linen-dress-adjustable-belt-2.jpg">
-  <img src="/images/products/linen-dress-adjustable-belt-3.jpg">
-  <img src="/images/products/linen-dress-adjustable-belt-4.jpg">
+  <img src="/images/products/linen-dress-adjustable-belt-1.webp">
+  <img src="/images/products/linen-dress-adjustable-belt-2.webp">
+  <img src="/images/products/linen-dress-adjustable-belt-3.webp">
+  <img src="/images/products/linen-dress-adjustable-belt-4.webp">
 </div>
 
 Item No.: 26072102

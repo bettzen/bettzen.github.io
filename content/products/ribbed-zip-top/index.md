@@ -4,7 +4,7 @@ date: 2026-04-03
 draft: false
 categories: ["Tops"]
 tags: ["fitted"]
-image: "/images/products/ribbed-zip-top-1.jpg"
+image: "/images/products/ribbed-zip-top-1.webp"
 description: "A modern essential with sleek styling. Knitted in high-stretch ribbed fabric for comfort and a flattering, body-skimming fit. The front zipper adds a contemporary touch and versatile styling."
 summary: "A modern essential with sleek styling. Knitted in high-stretch ribbed fabric for comfort and a flattering, body-skimming fit. The front zipper adds a contemporary touch and versatile styling."
 ---
@@ -12,10 +12,10 @@ summary: "A modern essential with sleek styling. Knitted in high-stretch ribbed 
 **Item No.: 26032501**
 
 <div class="product-images">
-  <img src="/images/products/ribbed-zip-top-1.jpg" alt="Ribbed Zip Top 1">
-  <img src="/images/products/ribbed-zip-top-2.jpg" alt="Ribbed Zip Top 2">
-  <img src="/images/products/ribbed-zip-top-3.jpg" alt="Ribbed Zip Top 3">
-  <img src="/images/products/ribbed-zip-top-4.jpg" alt="Ribbed Zip Top 4">
+  <img src="/images/products/ribbed-zip-top-1.webp" alt="Ribbed Zip Top 1">
+  <img src="/images/products/ribbed-zip-top-2.webp" alt="Ribbed Zip Top 2">
+  <img src="/images/products/ribbed-zip-top-3.webp" alt="Ribbed Zip Top 3">
+  <img src="/images/products/ribbed-zip-top-4.webp" alt="Ribbed Zip Top 4">
 </div>
 
 ### Description

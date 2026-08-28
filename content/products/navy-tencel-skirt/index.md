@@ -4,7 +4,7 @@ date: 2026-05-09
 draft: false
 categories: ["Skirts"]
 tags: ["tencel", "a-line", "navy", "slimming", "high-waist"]
-image: "/images/products/navy-tencel-skirt-1.jpg"
+image: "/images/products/navy-tencel-skirt-1.webp"
 description: "Wholesale premium Tencel A-line skirt in navy. Soft, lightweight, slimming silhouette that flatters all body types. Ideal for boutiques."
 summary: "藏青色天丝半身裙，垂感显瘦遮胯，A字廓形。"
 ---
@@ -12,10 +12,10 @@ summary: "藏青色天丝半身裙，垂感显瘦遮胯，A字廓形。"
 **Item No.: 26050302**
 
 <div class="product-images">
-  <img src="/images/products/navy-tencel-skirt-1.jpg" alt="Navy Tencel Skirt Main">
+  <img src="/images/products/navy-tencel-skirt-1.webp" alt="Navy Tencel Skirt Main">
   <img src="/images/products/navy-tencel-skirt-2.jpg" alt="Navy Tencel Skirt Detail 1">
-  <img src="/images/products/navy-tencel-skirt-3.jpg" alt="Navy Tencel Skirt Detail 2">
-  <img src="/images/products/navy-tencel-skirt-4.jpg" alt="Navy Tencel Skirt Detail 3">
+  <img src="/images/products/navy-tencel-skirt-3.webp" alt="Navy Tencel Skirt Detail 2">
+  <img src="/images/products/navy-tencel-skirt-4.webp" alt="Navy Tencel Skirt Detail 3">
 </div>
 
 ### Description

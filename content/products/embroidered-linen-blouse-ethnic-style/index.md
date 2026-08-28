@@ -4,7 +4,7 @@ date: 2026-08-28T13:36:45+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "embroidered", "linen", "blouse", "wholesale", "ethnic", "style", "3d", "floral", "craft", "ramie", "top", "lantern", "sleeve", "boutique"]
-image: "/images/products/embroidered-linen-blouse-ethnic-style-1.jpg"
+image: "/images/products/embroidered-linen-blouse-ethnic-style-1.webp"
 description: "This garment features a natural ramie fabric construction, offering superior breathability and a lightweight, airy feel ideal for warm-weather wear. T"
 summary: "This garment features a natural ramie fabric construction, offering superior bre..."
 ---
@@ -14,10 +14,10 @@ Wholesale Embroidered Linen Blouse Ethnic Style | 3D Floral Embroidery Craft
 **Item No.: 26072302**
 
 <div class="product-images">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-1.jpg">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-2.jpg">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-3.jpg">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-4.jpg">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-1.webp">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-2.webp">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-3.webp">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-4.webp">
 </div>
 
 Item No.: 26072302

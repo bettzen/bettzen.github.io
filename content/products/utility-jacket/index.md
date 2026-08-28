@@ -4,16 +4,16 @@ date: 2026-03-26
 draft: false
 categories: ["Jackets"]
 tags: ["fashion"]
-image: "/images/products/utility-jacket-1.jpg"
+image: "/images/products/utility-jacket-1.webp"
 summary: "Timeless utility jacket with corduroy stand-collar and multi-pockets. Cotton twill, versatile unisex style."
 ---
 
 **Item No.: 26031804**
 <div class="product-images">
-  <img src="/images/products/utility-jacket-1.jpg" alt="Utility Jacket Image 1">
-  <img src="/images/products/utility-jacket-2.jpg" alt="Utility Jacket Image 2">
-  <img src="/images/products/utility-jacket-3.jpg" alt="Utility Jacket Image 3">
-  <img src="/images/products/utility-jacket-4.jpg" alt="Utility Jacket Image 4">
+  <img src="/images/products/utility-jacket-1.webp" alt="Utility Jacket Image 1">
+  <img src="/images/products/utility-jacket-2.webp" alt="Utility Jacket Image 2">
+  <img src="/images/products/utility-jacket-3.webp" alt="Utility Jacket Image 3">
+  <img src="/images/products/utility-jacket-4.webp" alt="Utility Jacket Image 4">
 </div>
 
 

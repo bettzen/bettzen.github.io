@@ -4,7 +4,7 @@ date: 2026-08-27
 draft: false
 categories: ["Tops"]
 tags: ["mulberry", "silk", "top", "wholesale", "layered", "cake", "design", "flowy", "silhouette", "resort", "wear", "womenswear", "boutique", "sourcing", "breathable", "summer"]
-image: "/images/products/layered-silk-top-flowy-cake-design-1.jpg"
+image: "/images/products/layered-silk-top-flowy-cake-design-1.webp"
 description: "This garment features a multi-layer cake silhouette crafted from 100% mulberry silk with a smooth, feather-like texture. The fabric offers a lightweig"
 summary: "This garment features a multi-layer cake silhouette crafted from 100% mulberry s..."
 ---
@@ -14,10 +14,10 @@ Wholesale Layered Silk Top Flowy Cake Design | 100% Mulberry Silk Resort Wear
 **Item No.: 26072301**
 
 <div class="product-images">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-1.jpg">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-2.jpg">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-3.jpg">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-4.jpg">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-1.webp">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-2.webp">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-3.webp">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-4.webp">
 </div>
 
 Item No.: 26072301

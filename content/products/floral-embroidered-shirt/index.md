@@ -4,7 +4,7 @@ date: 2026-05-09
 draft: false
 categories: ["Shirts"]
 tags: ["embroidered", "floral", "cotton-voile", "french-style", "vacation"]
-image: "/images/products/floral-embroidered-shirt-1.jpg"
+image: "/images/products/floral-embroidered-shirt-1.webp"
 description: "Wholesale French style floral embroidered shirt in 80s premium cotton voile. Colorful 3D embroidery, lightweight summer piece for designer boutiques."
 summary: "法式重工碎花刺绣衬衫，80支全棉巴厘纱，立体刺绣。"
 ---
@@ -12,10 +12,10 @@ summary: "法式重工碎花刺绣衬衫，80支全棉巴厘纱，立体刺绣�
 **Item No.: 26042902**
 
 <div class="product-images">
-  <img src="/images/products/floral-embroidered-shirt-1.jpg" alt="Floral Embroidered Shirt Main">
+  <img src="/images/products/floral-embroidered-shirt-1.webp" alt="Floral Embroidered Shirt Main">
   <img src="/images/products/floral-embroidered-shirt-2.jpg" alt="Floral Embroidered Shirt Detail 1">
-  <img src="/images/products/floral-embroidered-shirt-3.jpg" alt="Floral Embroidered Shirt Detail 2">
-  <img src="/images/products/floral-embroidered-shirt-4.jpg" alt="Floral Embroidered Shirt Detail 3">
+  <img src="/images/products/floral-embroidered-shirt-3.webp" alt="Floral Embroidered Shirt Detail 2">
+  <img src="/images/products/floral-embroidered-shirt-4.webp" alt="Floral Embroidered Shirt Detail 3">
 </div>
 
 ### Description

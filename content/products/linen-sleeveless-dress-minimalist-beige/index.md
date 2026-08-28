@@ -4,7 +4,7 @@ date: 2026-08-09
 draft: false
 categories: ["Dresses"]
 tags: ["linen", "dress", "wholesale", "sleeveless", "beige", "minimalist", "womenswear", "cotton", "lining", "breathable", "summer", "boutique", "sourcing"]
-image: "/images/products/linen-sleeveless-dress-minimalist-beige-1.jpg"
+image: "/images/products/linen-sleeveless-dress-minimalist-beige-1.webp"
 description: "This garment features an ultra-fine microfiber linen construction, offering a notably soft and refined hand-feel that distinguishes it from standard l"
 summary: "This garment features an ultra-fine microfiber linen construction, offering a no..."
 ---
@@ -14,10 +14,10 @@ Wholesale Linen Sleeveless Dress Minimalist Beige | Ultra-Fine Linen with Cotton
 **Item No.: 26072104**
 
 <div class="product-images">
-  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-1.jpg">
-  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-2.jpg">
-  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-3.jpg">
-  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-4.jpg">
+  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-1.webp">
+  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-2.webp">
+  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-3.webp">
+  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-4.webp">
 </div>
 
 Item No.: 26072104

@@ -4,7 +4,7 @@ date: 2026-03-29
 draft: false
 categories: ["T-shirts"]
 tags: ["fashion"]
-image: "/images/products/duck-print-tee-1.jpg"
+image: "/images/products/duck-print-tee-1.webp"
 description: "Focus on ultimate comfort. Made from a breathable hemp-cotton knit blend, known for its soft, cool, drapey feel and moisture-wicking performance."
 summary: "Focus on ultimate comfort. Made from a breathable hemp-cotton knit blend, known for its soft, cool, drapey feel and moisture-wicking performance."
 ---
@@ -12,10 +12,10 @@ summary: "Focus on ultimate comfort. Made from a breathable hemp-cotton knit ble
 **Item No.: 26032301**
 
 <div class="product-images">
-  <img src="/images/products/duck-print-tee-1.jpg" alt="Duck Print Tee 1">
-  <img src="/images/products/duck-print-tee-2.jpg" alt="Duck Print Tee 2">
-  <img src="/images/products/duck-print-tee-3.jpg" alt="Duck Print Tee 3">
-  <img src="/images/products/duck-print-tee-4.jpg" alt="Duck Print Tee 4">
+  <img src="/images/products/duck-print-tee-1.webp" alt="Duck Print Tee 1">
+  <img src="/images/products/duck-print-tee-2.webp" alt="Duck Print Tee 2">
+  <img src="/images/products/duck-print-tee-3.webp" alt="Duck Print Tee 3">
+  <img src="/images/products/duck-print-tee-4.webp" alt="Duck Print Tee 4">
 </div>
 
 ### Description

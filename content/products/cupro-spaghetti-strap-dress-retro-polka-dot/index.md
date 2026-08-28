@@ -4,7 +4,7 @@ date: 2026-08-28T14:57:24+08:00
 draft: false
 categories: ["Dresses"]
 tags: ["fashion", "cupro", "dress", "wholesale", "retro", "polka", "dot", "slip", "adjustable", "straps", "silky", "fabric", "boutique", "womenswear", "spring"]
-image: "/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-1.jpg"
+image: "/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-1.webp"
 description: "This garment features a cupro-blend fabric that delivers a smooth, silky hand-feel with excellent drape and a subtle liquid sheen. The fabric offers b"
 summary: "This garment features a cupro-blend fabric that delivers a smooth, silky hand-fe..."
 ---
@@ -14,10 +14,10 @@ Wholesale Cupro Spaghetti Strap Dress Retro Polka Dot | Adjustable Straps Silky 
 **Item No.: 26080601**
 
 <div class="product-images">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-1.jpg">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-2.jpg">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-3.jpg">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-4.jpg">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-1.webp">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-2.webp">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-3.webp">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-4.webp">
 </div>
 
 Item No.: 26080601

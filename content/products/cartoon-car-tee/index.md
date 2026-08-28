@@ -4,7 +4,7 @@ date: 2026-04-27
 draft: false
 categories: ["T-shirts"]
 tags: ["cartoon-print", "slub-cotton", "lyocell", "mustard-yellow", "oversized"]
-image: "/images/products/cartoon-car-tee-1.jpg"
+image: "/images/products/cartoon-car-tee-1.webp"
 description: "Wholesale cartoon print t-shirt in slub cotton lyocell blend. Relaxed fit, mustard yellow, playful design for boutiques."
 summary: "卡通印花T恤，竹节棉天丝混纺，姜黄色，微宽松。"
 ---
@@ -12,10 +12,10 @@ summary: "卡通印花T恤，竹节棉天丝混纺，姜黄色，微宽松。"
 **Item No.: 26041201**
 
 <div class="product-images">
-  <img src="/images/products/cartoon-car-tee-1.jpg" alt="Cartoon Car Tee Main">
-  <img src="/images/products/cartoon-car-tee-2.jpg" alt="Cartoon Car Tee Detail 1">
-  <img src="/images/products/cartoon-car-tee-3.jpg" alt="Cartoon Car Tee Detail 2">
-  <img src="/images/products/cartoon-car-tee-4.jpg" alt="Cartoon Car Tee Detail 3">
+  <img src="/images/products/cartoon-car-tee-1.webp" alt="Cartoon Car Tee Main">
+  <img src="/images/products/cartoon-car-tee-2.webp" alt="Cartoon Car Tee Detail 1">
+  <img src="/images/products/cartoon-car-tee-3.webp" alt="Cartoon Car Tee Detail 2">
+  <img src="/images/products/cartoon-car-tee-4.webp" alt="Cartoon Car Tee Detail 3">
 </div>
 
 ### Description

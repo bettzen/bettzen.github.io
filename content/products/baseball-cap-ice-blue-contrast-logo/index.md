@@ -4,7 +4,7 @@ date: 2026-08-28T12:07:41+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "baseball", "cap", "wholesale", "cotton", "twill", "washed", "ice", "blue", "structured", "hat", "custom", "hardware", "womenswear", "accessory"]
-image: "/images/products/baseball-cap-ice-blue-contrast-logo-1.jpg"
+image: "/images/products/baseball-cap-ice-blue-contrast-logo-1.webp"
 description: "This baseball cap features a solid ice blue construction with a contrasting yellow logo emblem, offering a clean and contemporary aesthetic. The garme"
 summary: "This baseball cap features a solid ice blue construction with a contrasting yell..."
 ---
@@ -14,10 +14,10 @@ Wholesale Baseball Cap Ice Blue Contrast Logo | Washed Cotton Twill Structured F
 **Item No.: 26080301**
 
 <div class="product-images">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-1.jpg">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-2.jpg">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-3.jpg">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-4.jpg">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-1.webp">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-2.webp">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-3.webp">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-4.webp">
 </div>
 
 Item No.: 26080301

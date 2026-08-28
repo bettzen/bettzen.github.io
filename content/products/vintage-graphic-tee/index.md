@@ -13,9 +13,9 @@ summary: "复古海报印花T恤，棉混微弹，撞色罗纹领口，潮流百
 
 <div class="product-images">
   <img src="/images/products/vintage-graphic-tee-1.jpg" alt="Vintage Graphic Tee Main">
-  <img src="/images/products/vintage-graphic-tee-2.jpg" alt="Vintage Graphic Tee Detail 1">
-  <img src="/images/products/vintage-graphic-tee-3.jpg" alt="Vintage Graphic Tee Detail 2">
-  <img src="/images/products/vintage-graphic-tee-4.jpg" alt="Vintage Graphic Tee Detail 3">
+  <img src="/images/products/vintage-graphic-tee-2.webp" alt="Vintage Graphic Tee Detail 1">
+  <img src="/images/products/vintage-graphic-tee-3.webp" alt="Vintage Graphic Tee Detail 2">
+  <img src="/images/products/vintage-graphic-tee-4.webp" alt="Vintage Graphic Tee Detail 3">
 </div>
 
 ### Description

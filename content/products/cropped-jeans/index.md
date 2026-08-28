@@ -4,7 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["Bottoms"]
 tags: ["jeans", "cropped", "straight-leg", "turkish-denim", "stretch"]
-image: "/images/products/cropped-jeans-1.jpg"
+image: "/images/products/cropped-jeans-1.webp"
 description: "Wholesale cropped straight leg jeans in soft Turkish denim with micro-stretch. Versatile ankle-length bottoms."
 summary: "九分直筒牛仔裤，土耳其进口牛仔布，柔软微弹。"
 ---
@@ -12,10 +12,10 @@ summary: "九分直筒牛仔裤，土耳其进口牛仔布，柔软微弹。"
 **Item No.: 26040802**
 
 <div class="product-images">
-  <img src="/images/products/cropped-jeans-1.jpg" alt="Cropped Jeans Main">
-  <img src="/images/products/cropped-jeans-2.jpg" alt="Cropped Jeans Detail 1">
-  <img src="/images/products/cropped-jeans-3.jpg" alt="Cropped Jeans Detail 2">
-  <img src="/images/products/cropped-jeans-4.jpg" alt="Cropped Jeans Detail 3">
+  <img src="/images/products/cropped-jeans-1.webp" alt="Cropped Jeans Main">
+  <img src="/images/products/cropped-jeans-2.webp" alt="Cropped Jeans Detail 1">
+  <img src="/images/products/cropped-jeans-3.webp" alt="Cropped Jeans Detail 2">
+  <img src="/images/products/cropped-jeans-4.webp" alt="Cropped Jeans Detail 3">
 </div>
 
 ### Description

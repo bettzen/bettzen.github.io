@@ -4,7 +4,7 @@ date: 2026-04-17
 draft: false
 categories: ["T-shirts"]
 tags: ["striped", "oversized", "lightweight", "cover-up"]
-image: "/images/products/striped-twist-top-1.jpg"
+image: "/images/products/striped-twist-top-1.webp"
 description: "Wholesale Striped Long Sleeve Top in Lightweight Knit. Sun protection cover-up for boutiques."
 summary: "条纹扭绳宽松长袖T恤，轻薄针织，防晒罩衫。"
 ---
@@ -12,10 +12,10 @@ summary: "条纹扭绳宽松长袖T恤，轻薄针织，防晒罩衫。"
 **Item No.: 26040202**
 
 <div class="product-images">
-  <img src="/images/products/striped-twist-top-1.jpg" alt="Striped Twist Top Main">
-  <img src="/images/products/striped-twist-top-2.jpg" alt="Striped Twist Top Detail 1">
-  <img src="/images/products/striped-twist-top-3.jpg" alt="Striped Twist Top Detail 2">
-  <img src="/images/products/striped-twist-top-4.jpg" alt="Striped Twist Top Detail 3">
+  <img src="/images/products/striped-twist-top-1.webp" alt="Striped Twist Top Main">
+  <img src="/images/products/striped-twist-top-2.webp" alt="Striped Twist Top Detail 1">
+  <img src="/images/products/striped-twist-top-3.webp" alt="Striped Twist Top Detail 2">
+  <img src="/images/products/striped-twist-top-4.webp" alt="Striped Twist Top Detail 3">
 </div>
 
 ### Description

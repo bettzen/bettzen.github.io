@@ -4,7 +4,7 @@ date: 2026-04-08
 draft: false
 categories: ["T-shirts"]
 tags: ["fitted"]
-image: "/images/products/fitted-wool-cotton-tee-1.jpg"
+image: "/images/products/fitted-wool-cotton-tee-1.webp"
 description: "This premium basic redefines everyday comfort. Knitted from a soft, fleshy-feel cotton and wool blend with great stretch. The refined round neck and perfectly tailored, slimming silhouette offer a polished look."
 summary: "This premium basic redefines everyday comfort. Knitted from a soft, fleshy-feel cotton and wool blend with great stretch. The refined round neck and perfectly tailored, slimming silhouette offer a polished look."
 ---
@@ -12,10 +12,10 @@ summary: "This premium basic redefines everyday comfort. Knitted from a soft, fl
 **Item No.: 26032602**
 
 <div class="product-images">
-  <img src="/images/products/fitted-wool-cotton-tee-1.jpg" alt="Fitted Tee 1">
-  <img src="/images/products/fitted-wool-cotton-tee-2.jpg" alt="Fitted Tee 2">
-  <img src="/images/products/fitted-wool-cotton-tee-3.jpg" alt="Fitted Tee 3">
-  <img src="/images/products/fitted-wool-cotton-tee-4.jpg" alt="Fitted Tee 4">
+  <img src="/images/products/fitted-wool-cotton-tee-1.webp" alt="Fitted Tee 1">
+  <img src="/images/products/fitted-wool-cotton-tee-2.webp" alt="Fitted Tee 2">
+  <img src="/images/products/fitted-wool-cotton-tee-3.webp" alt="Fitted Tee 3">
+  <img src="/images/products/fitted-wool-cotton-tee-4.webp" alt="Fitted Tee 4">
 </div>
 
 ### Description

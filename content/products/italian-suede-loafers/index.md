@@ -4,7 +4,7 @@ date: 2026-05-07
 draft: false
 categories: ["Shoes"]
 tags: ["loafers", "italian-suede", "driving-shoes", "rubber-sole", "handcrafted"]
-image: "/images/products/italian-suede-loafers-1.jpg"
+image: "/images/products/italian-suede-loafers-1.webp"
 description: "Wholesale premium Italian suede driving loafers with rubber pebble sole. Handcrafted, breathable, and durable for high-end boutiques. Wholesale price: ¥395."
 summary: "意大利进口羊反绒渔夫鞋，豆豆橡胶底，手工质感，批发价395元。"
 ---
@@ -12,10 +12,10 @@ summary: "意大利进口羊反绒渔夫鞋，豆豆橡胶底，手工质感，�
 **Item No.: 26042702**
 
 <div class="product-images">
-  <img src="/images/products/italian-suede-loafers-1.jpg" alt="Italian Suede Loafers Main">
-  <img src="/images/products/italian-suede-loafers-2.jpg" alt="Italian Suede Loafers Detail 1">
-  <img src="/images/products/italian-suede-loafers-3.jpg" alt="Italian Suede Loafers Detail 2">
-  <img src="/images/products/italian-suede-loafers-4.jpg" alt="Italian Suede Loafers Detail 3">
+  <img src="/images/products/italian-suede-loafers-1.webp" alt="Italian Suede Loafers Main">
+  <img src="/images/products/italian-suede-loafers-2.webp" alt="Italian Suede Loafers Detail 1">
+  <img src="/images/products/italian-suede-loafers-3.webp" alt="Italian Suede Loafers Detail 2">
+  <img src="/images/products/italian-suede-loafers-4.webp" alt="Italian Suede Loafers Detail 3">
 </div>
 
 ### Description
