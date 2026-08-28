@@ -9,7 +9,6 @@ description: "This garment features a minimalist silhouette crafted from 100% na
 summary: "This garment features a minimalist silhouette crafted from 100% natural linen, o..."
 ---
 
-Wholesale Linen Dress Adjustable Belt | Breathable Natural Fabric Silhouette
 
 **Item No.: 26072102**
 

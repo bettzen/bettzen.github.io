@@ -9,7 +9,6 @@ description: "This garment features a sleeveless, round-neck silhouette cut from
 summary: "This garment features a sleeveless, round-neck silhouette cut from 100% natural ..."
 ---
 
-Wholesale Linen Sleeveless Dress Straight A-Line | Half-Placket Concealed Button
 
 **Item No.: 26072103**
 

@@ -9,7 +9,6 @@ description: "This sleeveless knit top is crafted from Balsan wool yarn, offerin
 summary: "This sleeveless knit top is crafted from Balsan wool yarn, offering a fine and s..."
 ---
 
-Wholesale Balsan Wool Sleeveless Knit Top | Fine Soft Texture for Boutique Sourcing
 
 **Item No.: 26080603**
 

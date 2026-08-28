@@ -9,7 +9,6 @@ description: "This exquisite sleeveless vest is crafted from premium silk gambie
 summary: "This exquisite sleeveless vest is crafted from premium silk gambiered Canton gau..."
 ---
 
-Wholesale Silk Vest Old Money Style Cool Drape | Crackle Texture
 
 **Item No.: 26061801**
 

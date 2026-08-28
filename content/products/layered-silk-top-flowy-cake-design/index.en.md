@@ -9,7 +9,6 @@ description: "This garment features a multi-layer cake silhouette crafted from 1
 summary: "This garment features a multi-layer cake silhouette crafted from 100% mulberry s..."
 ---
 
-Wholesale Layered Silk Top Flowy Cake Design | 100% Mulberry Silk Resort Wear
 
 **Item No.: 26072301**
 

@@ -9,7 +9,6 @@ description: "This garment features a natural ramie fabric construction, offerin
 summary: "This garment features a natural ramie fabric construction, offering superior bre..."
 ---
 
-Wholesale Embroidered Linen Blouse Ethnic Style | 3D Floral Embroidery Craft
 
 **Item No.: 26072302**
 

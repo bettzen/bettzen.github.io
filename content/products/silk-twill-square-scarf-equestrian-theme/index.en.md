@@ -9,7 +9,6 @@ description: "This garment features 100% double-sided mulberry silk twill, offer
 summary: "This garment features 100% double-sided mulberry silk twill, offering a smooth, ..."
 ---
 
-Wholesale Silk Twill Square Scarf Equestrian Theme | Hand-Rolled Hem 100% Mulberry Silk Accessory
 
 **Item No.: 26061805**
 

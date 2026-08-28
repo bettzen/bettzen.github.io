@@ -51,7 +51,7 @@
 {{ if eq .Section "products" }}
   {{ with .Params.tags }}
   <div class="product-tags-footer">
-    <span>标签：</span>
+    <span>{{ i18n "article.tags" }}</span>
     {{ range . }}
       <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
     {{ end }}

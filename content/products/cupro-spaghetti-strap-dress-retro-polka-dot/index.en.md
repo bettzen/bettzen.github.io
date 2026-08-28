@@ -9,7 +9,6 @@ description: "This garment features a cupro-blend fabric that delivers a smooth,
 summary: "This garment features a cupro-blend fabric that delivers a smooth, silky hand-fe..."
 ---
 
-Wholesale Cupro Spaghetti Strap Dress Retro Polka Dot | Adjustable Straps Silky Drape
 
 **Item No.: 26080601**
 

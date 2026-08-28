@@ -9,7 +9,6 @@ description: "This garment features a relaxed short-sleeve silhouette crafted fr
 summary: "This garment features a relaxed short-sleeve silhouette crafted from 100% natura..."
 ---
 
-Wholesale Linen Shirt Embroidered Pony Short Sleeve | Natural Breathable Summer Top
 
 **Item No.: 26080604**
 

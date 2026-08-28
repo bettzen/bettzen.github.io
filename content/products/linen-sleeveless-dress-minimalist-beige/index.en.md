@@ -9,7 +9,6 @@ description: "This garment features an ultra-fine microfiber linen construction,
 summary: "This garment features an ultra-fine microfiber linen construction, offering a no..."
 ---
 
-Wholesale Linen Sleeveless Dress Minimalist Beige | Ultra-Fine Linen with Cotton Lining
 
 **Item No.: 26072104**
 

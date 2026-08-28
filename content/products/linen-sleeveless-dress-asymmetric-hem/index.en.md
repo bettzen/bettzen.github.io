@@ -9,7 +9,6 @@ description: "This sleeveless dress is crafted from 100% natural linen, offering
 summary: "This sleeveless dress is crafted from 100% natural linen, offering a breathable ..."
 ---
 
-Wholesale Linen Sleeveless Dress Asymmetric Hem | Natural Fabric with Side Pockets
 
 **Item No.: 26072105**
 

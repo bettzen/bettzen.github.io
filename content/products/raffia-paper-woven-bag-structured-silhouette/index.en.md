@@ -9,7 +9,6 @@ description: "This woven bag is crafted from raffia paper, a material that provi
 summary: "This woven bag is crafted from raffia paper, a material that provides a remarkab..."
 ---
 
-Wholesale Raffia Paper Woven Bag Structured Silhouette | Lightweight Boutique Accessory
 
 **Item No.: 26073102**
 

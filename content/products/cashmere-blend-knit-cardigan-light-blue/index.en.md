@@ -9,7 +9,6 @@ description: "This lightweight knit cardigan is crafted from baselaine wool yarn
 summary: "This lightweight knit cardigan is crafted from baselaine wool yarn, offering a f..."
 ---
 
-Wholesale Cashmere-Blend Knit Cardigan Light Blue | Soft Baselayer Wool Texture for Boutique Sourcing
 
 **Item No.: 26080602**
 

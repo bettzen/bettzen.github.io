@@ -9,7 +9,6 @@ description: "This baseball cap features a solid ice blue construction with a co
 summary: "This baseball cap features a solid ice blue construction with a contrasting yell..."
 ---
 
-Wholesale Baseball Cap Ice Blue Contrast Logo | Washed Cotton Twill Structured Fit
 
 **Item No.: 26080301**
 

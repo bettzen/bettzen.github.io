@@ -9,7 +9,6 @@ description: "This blouse is crafted from 100% mulberry silk with a crepe textur
 summary: "This blouse is crafted from 100% mulberry silk with a crepe texture, featuring a..."
 ---
 
-Wholesale Crepe Silk Textured Blouse | 100% Mulberry Silk Boutique Sourcing
 
 **Item No.: 26072101**
 

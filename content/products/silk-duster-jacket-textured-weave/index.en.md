@@ -9,7 +9,6 @@ description: "This garment is crafted from a textured silk fabric featuring a di
 summary: "This garment is crafted from a textured silk fabric featuring a dimensional, emb..."
 ---
 
-Wholesale Silk Duster Jacket Textured Weave | Adjustable Drawstring Lightweight Layer
 
 **Item No.: 26072106**
 
