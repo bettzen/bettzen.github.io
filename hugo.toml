@@ -1,7 +1,7 @@
 baseURL = 'https://bettzen.com/'
 theme = "blowfish"
 title = "深圳百陈服装有限公司 | Bettzen"
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -13,3 +13,11 @@ publishDir = "docs"
  [sitemap]
   filename = "sitemap.xml"
 enableRobotsTXT = true
+
+[languages.en]
+  languageName = "English"
+  weight = 1
+
+[languages.zh]
+  languageName = "简体中文"
+  weight = 2

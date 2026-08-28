@@ -1,0 +1,41 @@
+---
+title: "刺绣麻上衣 民族风 | 立体盘花工艺"
+date: 2026-08-28T13:36:45+08:00
+draft: false
+categories: ["Tops"]
+tags: ["fashion", "embroidered", "linen", "blouse", "wholesale", "ethnic", "style", "3d", "floral", "craft", "ramie", "top", "lantern", "sleeve", "boutique"]
+image: "/images/products/embroidered-linen-blouse-ethnic-style-1.webp"
+description: "本款上衣采用天然苎麻面料，具备出色的透气性，质地轻盈，适合温暖气候穿着。核心亮点在于其立体的刺绣盘花工艺，通过复杂的制作手法在亚麻底布上呈现出具有触感的凸起纹理，形成鲜明的匠心视觉效果。版型以浪漫的荷叶边装饰和宫廷式灯笼袖为特色，为上半身增添柔和的量感。下摆设有抽绳，可调节松紧，塑造不同轮廓，宽松的"
+summary: "本款上衣采用天然苎麻面料，具备出色的透气性，质地轻盈，适合温暖气候穿着。核心亮点在于其立体的刺绣盘花工艺，通过复杂的制作手法在亚麻底布上呈现出具有触感的凸起纹理..."
+---
+
+刺绣麻上衣 民族风 | 立体盘花工艺
+
+产品编号：26072302
+
+
+<div class="product-images">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-1.webp">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-2.webp">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-3.webp">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-4.webp">
+</div>
+
+
+**描述**
+本款上衣采用天然苎麻面料，具备出色的透气性，质地轻盈，适合温暖气候穿着。核心亮点在于其立体的刺绣盘花工艺，通过复杂的制作手法在亚麻底布上呈现出具有触感的凸起纹理，形成鲜明的匠心视觉效果。版型以浪漫的荷叶边装饰和宫廷式灯笼袖为特色，为上半身增添柔和的量感。下摆设有抽绳，可调节松紧，塑造不同轮廓，宽松的剪裁使面料自然垂坠，穿着舒适自在。
+
+**适用场景**
+适合买手店为目标客户打造兼具民族艺术感与日常实穿性的精选单品，可搭配短裤或半裙，适配休闲出游与都市造型。
+
+**颜色**
+天蓝、橄榄绿
+
+**尺码**
+36（衣长71cm，胸围116cm）、38（衣长72cm，胸围120cm）、40（衣长73cm，胸围124cm）
+
+**采购提示**
+此款版型宽松，可建议客户按常规尺码选购或选小一码以获得更合身效果。盘花细节适合搭配素色下装陈列，以突出上衣的肌理感，建议与亚麻短裤或纯色半裙组合展示。苎麻为天然纤维，水洗后手感愈加柔软，建议冷水轻柔洗涤并平铺晾干，以保护刺绣形态与面料廓形。
+
+**标签**
+刺绣麻上衣 批发 民族风 立体盘花 苎麻 灯笼袖 买手店选品 匠心工艺

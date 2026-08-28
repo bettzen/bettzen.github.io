@@ -4,3 +4,9 @@
   showTaxonomies = true
 [security]
   enableSRI = false
+[params.author]
+  name = "Bettzen"
+  links = [
+    { twitter = "https://twitter.com/bettzen01" },
+    { instagram = "https://instagram.com/bcfuzhuang" }
+  ]
