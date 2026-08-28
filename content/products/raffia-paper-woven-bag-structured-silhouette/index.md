@@ -1,6 +1,6 @@
 ---
 title: "Wholesale Raffia Paper Woven Bag Structured Silhouette | Lightweight Boutique Accessory"
-date: 2026-08-28T12:10:30
+date: 2026-08-28T12:10:30+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "raffia", "paper", "bag", "wholesale", "woven", "structured", "silhouette", "lightweight", "summer", "accessory", "boutique", "sourcing", "artisan", "texture"]

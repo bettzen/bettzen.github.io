@@ -7,24 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 Bettzen</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 01:18:10 +0000</lastBuildDate><atom:link href="https://bettzen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 12:10:30 +0800</lastBuildDate><atom:link href="https://bettzen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Balsan</title>
-      <link>https://bettzen.com/tags/balsan/</link>
-      <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
+      <title>Accessory</title>
+      <link>https://bettzen.com/tags/accessory/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
       
-      <guid>https://bettzen.com/tags/balsan/</guid>
+      <guid>https://bettzen.com/tags/accessory/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Blue</title>
-      <link>https://bettzen.com/tags/blue/</link>
-      <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
+      <title>Artisan</title>
+      <link>https://bettzen.com/tags/artisan/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
       
-      <guid>https://bettzen.com/tags/blue/</guid>
+      <guid>https://bettzen.com/tags/artisan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bag</title>
+      <link>https://bettzen.com/tags/bag/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/bag/</guid>
       <description></description>
       
     </item>
@@ -32,7 +42,7 @@
     <item>
       <title>Boutique</title>
       <link>https://bettzen.com/tags/boutique/</link>
-      <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
       
       <guid>https://bettzen.com/tags/boutique/</guid>
       <description></description>
@@ -42,9 +52,229 @@
     <item>
       <title>Fashion</title>
       <link>https://bettzen.com/tags/fashion/</link>
-      <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
       
       <guid>https://bettzen.com/tags/fashion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lightweight</title>
+      <link>https://bettzen.com/tags/lightweight/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/lightweight/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>https://bettzen.com/tags/paper/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/paper/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Raffia</title>
+      <link>https://bettzen.com/tags/raffia/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/raffia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Silhouette</title>
+      <link>https://bettzen.com/tags/silhouette/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/silhouette/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sourcing</title>
+      <link>https://bettzen.com/tags/sourcing/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/sourcing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Structured</title>
+      <link>https://bettzen.com/tags/structured/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/structured/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Summer</title>
+      <link>https://bettzen.com/tags/summer/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/summer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Texture</title>
+      <link>https://bettzen.com/tags/texture/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/texture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wholesale</title>
+      <link>https://bettzen.com/tags/wholesale/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/wholesale/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Woven</title>
+      <link>https://bettzen.com/tags/woven/</link>
+      <pubDate>Fri, 28 Aug 2026 12:10:30 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/woven/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Baseball</title>
+      <link>https://bettzen.com/tags/baseball/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/baseball/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blue</title>
+      <link>https://bettzen.com/tags/blue/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/blue/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cap</title>
+      <link>https://bettzen.com/tags/cap/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/cap/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cotton</title>
+      <link>https://bettzen.com/tags/cotton/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/cotton/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Custom</title>
+      <link>https://bettzen.com/tags/custom/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/custom/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>https://bettzen.com/tags/hardware/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/hardware/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hat</title>
+      <link>https://bettzen.com/tags/hat/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/hat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ice</title>
+      <link>https://bettzen.com/tags/ice/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/ice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Twill</title>
+      <link>https://bettzen.com/tags/twill/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/twill/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Washed</title>
+      <link>https://bettzen.com/tags/washed/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/washed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Womenswear</title>
+      <link>https://bettzen.com/tags/womenswear/</link>
+      <pubDate>Fri, 28 Aug 2026 12:07:41 +0800</pubDate>
+      
+      <guid>https://bettzen.com/tags/womenswear/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Balsan</title>
+      <link>https://bettzen.com/tags/balsan/</link>
+      <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
+      
+      <guid>https://bettzen.com/tags/balsan/</guid>
       <description></description>
       
     </item>
@@ -70,16 +300,6 @@
     </item>
     
     <item>
-      <title>Lightweight</title>
-      <link>https://bettzen.com/tags/lightweight/</link>
-      <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/lightweight/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Sleeveless</title>
       <link>https://bettzen.com/tags/sleeveless/</link>
       <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
@@ -100,26 +320,6 @@
     </item>
     
     <item>
-      <title>Sourcing</title>
-      <link>https://bettzen.com/tags/sourcing/</link>
-      <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/sourcing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Texture</title>
-      <link>https://bettzen.com/tags/texture/</link>
-      <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/texture/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Top</title>
       <link>https://bettzen.com/tags/top/</link>
       <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
@@ -130,71 +330,11 @@
     </item>
     
     <item>
-      <title>Wholesale</title>
-      <link>https://bettzen.com/tags/wholesale/</link>
-      <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/wholesale/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Womenswear</title>
-      <link>https://bettzen.com/tags/womenswear/</link>
-      <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/womenswear/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Wool</title>
       <link>https://bettzen.com/tags/wool/</link>
       <pubDate>Fri, 28 Aug 2026 01:18:10 +0000</pubDate>
       
       <guid>https://bettzen.com/tags/wool/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Baseball</title>
-      <link>https://bettzen.com/tags/baseball/</link>
-      <pubDate>Fri, 28 Aug 2026 01:16:39 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/baseball/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cap</title>
-      <link>https://bettzen.com/tags/cap/</link>
-      <pubDate>Fri, 28 Aug 2026 01:16:39 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/cap/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cotton</title>
-      <link>https://bettzen.com/tags/cotton/</link>
-      <pubDate>Fri, 28 Aug 2026 01:16:39 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/cotton/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Custom</title>
-      <link>https://bettzen.com/tags/custom/</link>
-      <pubDate>Fri, 28 Aug 2026 01:16:39 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/custom/</guid>
       <description></description>
       
     </item>
@@ -215,66 +355,6 @@
       <pubDate>Fri, 28 Aug 2026 01:16:39 +0000</pubDate>
       
       <guid>https://bettzen.com/tags/fit/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hardware</title>
-      <link>https://bettzen.com/tags/hardware/</link>
-      <pubDate>Fri, 28 Aug 2026 01:16:39 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/hardware/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ice</title>
-      <link>https://bettzen.com/tags/ice/</link>
-      <pubDate>Fri, 28 Aug 2026 01:16:39 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/ice/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Structured</title>
-      <link>https://bettzen.com/tags/structured/</link>
-      <pubDate>Fri, 28 Aug 2026 01:16:39 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/structured/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Twill</title>
-      <link>https://bettzen.com/tags/twill/</link>
-      <pubDate>Fri, 28 Aug 2026 01:16:39 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/twill/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Washed</title>
-      <link>https://bettzen.com/tags/washed/</link>
-      <pubDate>Fri, 28 Aug 2026 01:16:39 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/washed/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Accessory</title>
-      <link>https://bettzen.com/tags/accessory/</link>
-      <pubDate>Fri, 28 Aug 2026 01:12:40 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/accessory/</guid>
       <description></description>
       
     </item>
@@ -550,31 +630,11 @@
     </item>
     
     <item>
-      <title>Silhouette</title>
-      <link>https://bettzen.com/tags/silhouette/</link>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/silhouette/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Silk</title>
       <link>https://bettzen.com/tags/silk/</link>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://bettzen.com/tags/silk/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Summer</title>
-      <link>https://bettzen.com/tags/summer/</link>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://bettzen.com/tags/summer/</guid>
       <description></description>
       
     </item>
