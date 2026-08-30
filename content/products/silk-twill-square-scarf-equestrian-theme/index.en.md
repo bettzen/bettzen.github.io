@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Silk Twill Square Scarf Equestrian Theme | Hand-Rolled Hem 100% Mulberry Silk Accessory"
+title: "Wholesale Silk Twill Square Scarf Equestrian Theme Silk"
 date: 2026-08-28T21:17:22+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "silk", "scarf", "wholesale", "mulberry", "twill", "equestrian", "print", "hand", "rolled", "hem", "square", "womens", "accessory", "boutique"]
+keywords: ["fashion", "silk", "scarf", "wholesale", "mulberry", "twill", "equestrian", "print", "hand", "rolled", "hem", "square", "womens", "accessory", "boutique"]
 image: "/images/products/silk-twill-square-scarf-equestrian-theme-1.webp"
 description: "This garment features 100% double-sided mulberry silk twill, offering a smooth, fluid hand feel and a natural, understated luster. The fabric is light"
 summary: "This garment features 100% double-sided mulberry silk twill, offering a smooth, ..."
@@ -38,3 +39,7 @@ This 90cm square scarf is a versatile inventory piece suitable for year-round re
 
 **Tags**
 silk scarf wholesale mulberry silk twill equestrian print hand rolled hem square scarf womens accessory boutique sourcing
+
+---
+
+**[View all Tops →](/categories/tops/)**

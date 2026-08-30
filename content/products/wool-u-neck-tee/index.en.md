@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Women's T-Shirts Wool Cotton Blend U-Neck Drapey Fitted Top"
+title: "Wholesale Wool Cotton Blend U-Neck Tee Drapey Fitted"
 date: 2026-04-21
 draft: false
 categories: ["T-shirts"]
 tags: ["wool-blend", "u-neck", "fitted", "premium-basic", "drapey"]
+keywords: ["wool-blend", "u-neck", "fitted", "premium-basic", "drapey"]
 image: "/images/products/wool-u-neck-tee-1.webp"
 description: "Wholesale wool blend U-neck t-shirt in drapey fitted silhouette. Premium basic for boutiques."
 summary: "羊毛混纺U领T恤，垂顺修身，高级基础款。"
@@ -28,3 +29,7 @@ A premium essential redefined. Crafted from a fine wool and cotton blend yarn th
 **Sizes:** S, M, L
 
 **Sourcing Note:** Fine wool-cotton blend yarn, deep U-neck design, drapey fitted silhouette.
+
+---
+
+**[View all T-shirts →](/categories/t-shirts/)**

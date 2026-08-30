@@ -4,6 +4,7 @@ date: 2026-05-03
 draft: false
 categories: ["Tops"]
 tags: ["striped", "linen-blend", "knit", "drawstring", "cover-up"]
+keywords: ["striped", "linen-blend", "knit", "drawstring", "cover-up"]
 image: "/images/products/striped-linen-knit-1.webp"
 description: "精选16针亚麻混纺面料，质感干爽透气，可以当防晒衣。下摆抽绳可以调节松紧，三色条纹经典有活力。"
 summary: "精选16针亚麻混纺面料，质感干爽透气，可以当防晒衣。下摆抽绳可以调节松紧，三色条纹经典有活力。..."
@@ -31,3 +32,7 @@ summary: "精选16针亚麻混纺面料，质感干爽透气，可以当防晒�
 **尺码：** S, M
 
 **采购提示：** 16针亚麻混纺，干爽透气，下摆抽绳，三色条纹。批发价：198元。
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

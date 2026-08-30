@@ -4,6 +4,7 @@ date: 2026-04-27
 draft: false
 categories: ["Tops"]
 tags: ["polo", "knit", "wool-blend", "collared", "smart-casual"]
+keywords: ["polo", "knit", "wool-blend", "collared", "smart-casual"]
 image: "/images/products/polo-knit-top-1.webp"
 description: "选用16针羊毛、莱赛尔混纺面料，柔软细腻，紧致有弹力，上身舒适轻盈透气。翻领设计，简约有型。"
 summary: "选用16针羊毛、莱赛尔混纺面料，柔软细腻，紧致有弹力，上身舒适轻盈透气。翻领设计，简约有型。..."
@@ -29,3 +30,7 @@ summary: "选用16针羊毛、莱赛尔混纺面料，柔软细腻，紧致有�
 **尺码：** XS, S, M
 
 **采购提示：** 16针羊毛莱赛尔混纺，细腻高弹，翻领设计。
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

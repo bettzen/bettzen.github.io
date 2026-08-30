@@ -4,6 +4,7 @@ date: 2026-04-17
 draft: false
 categories: ["T-shirts"]
 tags: ["striped", "oversized", "lightweight", "cover-up"]
+keywords: ["striped", "oversized", "lightweight", "cover-up"]
 image: "/images/products/striped-twist-top-1.webp"
 description: "一款融合长袖T恤与轻薄罩衫功能的多用途单品。采用柔软细腻的棉混纺针织布，轻薄亲肤透气，具有一定防晒效果。藏青色色织条纹清新减龄。宽松大件版型（S码可适配至约140斤），搭配扭绳细节，兼顾舒适与造型感。适用于日常休闲或作为度假防晒衫。"
 summary: "一款融合长袖T恤与轻薄罩衫功能的多用途单品。采用柔软细腻的棉混纺针织布，轻薄亲肤透气，具有一定防晒效果。藏青色色织条纹清新减龄。宽松大件版型（S码可适配至约14..."
@@ -29,3 +30,7 @@ summary: "一款融合长袖T恤与轻薄罩衫功能的多用途单品。采用
 **尺码：** S, M, L
 
 **采购提示：** 轻薄棉混纺针织，宽松版型，扭绳细节。
+
+---
+
+**[查看全部T-shirts →](/zh/categories/t-shirts/)**

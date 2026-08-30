@@ -4,6 +4,7 @@ date: 2026-04-27
 draft: false
 categories: ["T-shirts"]
 tags: ["cartoon-print", "slub-cotton", "lyocell", "mustard-yellow", "oversized"]
+keywords: ["cartoon-print", "slub-cotton", "lyocell", "mustard-yellow", "oversized"]
 image: "/images/products/cartoon-car-tee-1.webp"
 description: "竹节棉+天丝混纺针织布，质感垂顺透气。显白的姜黄色搭配可爱卡通图案，版型略微宽松，按正常码选择。"
 summary: "竹节棉+天丝混纺针织布，质感垂顺透气。显白的姜黄色搭配可爱卡通图案，版型略微宽松，按正常码选择。..."
@@ -29,3 +30,7 @@ summary: "竹节棉+天丝混纺针织布，质感垂顺透气。显白的姜黄
 **尺码：** S, M, L
 
 **采购提示：** 竹节棉天丝混纺，透气垂顺，卡通印花设计。
+
+---
+
+**[查看全部T-shirts →](/zh/categories/t-shirts/)**

@@ -4,6 +4,7 @@ date: 2026-04-08
 draft: false
 categories: ["T-shirts"]
 tags: ["oversized", "unisex"]
+keywords: ["oversized", "unisex"]
 image: "/images/products/vintage-letter-tee-1.webp"
 description: "面料经过成衣洗水，呈现做旧肌理，手感柔软透气。极简风做旧字母印花，版型宽松。车菊蓝色显白提气，男女皆可穿。"
 summary: "面料经过成衣洗水，呈现做旧肌理，手感柔软透气。极简风做旧字母印花，版型宽松。车菊蓝色显白提气，男女皆可穿。..."
@@ -28,3 +29,7 @@ summary: "面料经过成衣洗水，呈现做旧肌理，手感柔软透气。�
 **尺码：** S, M, L
 
 **采购提示：** 百搭基础款，支持小批量。
+
+---
+
+**[查看全部T-shirts →](/zh/categories/t-shirts/)**

@@ -4,6 +4,7 @@ date: 2026-04-27
 draft: false
 categories: ["Shirts"]
 tags: ["linen", "overshirt", "breathable", "multi-color", "cover-up"]
+keywords: ["linen", "overshirt", "breathable", "multi-color", "cover-up"]
 image: "/images/products/linen-overshirt-1.webp"
 description: "Wholesale 100% linen lightweight overshirt in multiple colors. Breathable, versatile layering piece for spring and summer boutiques."
 summary: "亚麻衬衫，多色可选，轻薄透气，防晒外披。"
@@ -28,3 +29,7 @@ A timeless, multi-functional layering piece. Crafted from 100% breathable linen 
 **Sizes:** S, M, L
 
 **Sourcing Note:** 100% linen, breathable and cool, multi-color options, classic fit.
+
+---
+
+**[View all Shirts →](/categories/shirts/)**

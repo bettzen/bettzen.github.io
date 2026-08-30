@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Skirts Ethnic Print Ramie Skirt Elastic Drawstring Waist"
+title: "Wholesale Ethnic Print Ramie Skirt Drawstring Waist"
 date: 2026-04-21
 draft: false
 categories: ["Skirts"]
 tags: ["ramie", "ethnic-print", "drawstring", "boho", "resort-wear"]
+keywords: ["ramie", "ethnic-print", "drawstring", "boho", "resort-wear"]
 image: "/images/products/ramie-skirt-1.webp"
 description: "Wholesale ethnic print ramie skirt with elastic drawstring waist. Flowy boho piece for resort wear."
 summary: "民族风印花苎麻半裙，抽绳腰，飘逸波西米亚风。"
@@ -28,3 +29,7 @@ Flow with ease in this beautiful skirt. Made from lightweight, finely woven rami
 **Sizes:** S, M, L
 
 **Sourcing Note:** Lightweight printed ramie, elastic drawstring waist, flowy silhouette.
+
+---
+
+**[View all Skirts →](/categories/skirts/)**

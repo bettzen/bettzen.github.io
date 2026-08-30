@@ -4,6 +4,7 @@ date: 2026-04-17
 draft: false
 categories: ["Shirts"]
 tags: ["ramie", "printed", "resort-wear", "eco-friendly"]
+keywords: ["ramie", "printed", "resort-wear", "eco-friendly"]
 image: "/images/products/ramie-print-shirt-1.webp"
 description: "Wholesale Printed Ramie Shirt with Coconut Shell Buttons. Breathable resort wear for boutiques."
 summary: "绿色印花苎麻衬衫，椰子壳纽扣，透气度假风。"
@@ -28,3 +29,7 @@ Embrace spring with this vibrant printed shirt. Constructed from ultra-fine rami
 **Sizes:** S, M, L
 
 **Sourcing Note:** Ultra-fine ramie fabric, coconut shell buttons, relaxed fit.
+
+---
+
+**[View all Shirts →](/categories/shirts/)**

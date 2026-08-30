@@ -4,6 +4,7 @@ date: 2026-05-03
 draft: false
 categories: ["Skirts"]
 tags: ["embroidered", "maxi-skirt", "a-line", "cotton-poplin", "equestrian"]
+keywords: ["embroidered", "maxi-skirt", "a-line", "cotton-poplin", "equestrian"]
 image: "/images/products/embroidered-maxi-skirt-1.webp"
 description: "高支全棉平纹布，质感平整柔滑，挺括轻盈。长半裙可以拉长下半身的比例，伞裙包容性非常棒。腰部是高密弹力织带，上身舒适合体。"
 summary: "高支全棉平纹布，质感平整柔滑，挺括轻盈。长半裙可以拉长下半身的比例，伞裙包容性非常棒。腰部是高密弹力织带，上身舒适合体。..."
@@ -31,3 +32,7 @@ summary: "高支全棉平纹布，质感平整柔滑，挺括轻盈。长半裙�
 **尺码：** XS, S, M
 
 **采购提示：** 高支全棉平纹布，伞形廓形，弹力腰头，小马刺绣。批发价：260元。
+
+---
+
+**[查看全部Skirts →](/zh/categories/skirts/)**

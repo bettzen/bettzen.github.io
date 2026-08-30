@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Raffia Paper Woven Bag Structured Silhouette | Lightweight Boutique Accessory"
+title: "Wholesale Raffia Paper Woven Bag Structured Silhouette"
 date: 2026-08-28T12:10:30+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "raffia", "paper", "bag", "wholesale", "woven", "structured", "silhouette", "lightweight", "summer", "accessory", "boutique", "sourcing", "artisan", "texture"]
+keywords: ["fashion", "raffia", "paper", "bag", "wholesale", "woven", "structured", "silhouette", "lightweight", "summer", "accessory", "boutique", "sourcing", "artisan", "texture"]
 image: "/images/products/raffia-paper-woven-bag-structured-silhouette-1.webp"
 description: "This woven bag is crafted from raffia paper, a material that provides a remarkably lightweight feel while maintaining a structured, rigid silhouette. "
 summary: "This woven bag is crafted from raffia paper, a material that provides a remarkab..."
@@ -38,3 +39,7 @@ This is a single-size style with a structured shape; we recommend ordering based
 
 **Tags**
 raffia paper bag wholesale woven bag structured silhouette lightweight summer accessory boutique sourcing artisan texture
+
+---
+
+**[View all Tops →](/categories/tops/)**

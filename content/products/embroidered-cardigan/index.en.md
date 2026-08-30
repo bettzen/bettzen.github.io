@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Knit Cardigans 3D Embroidered Lambswool Blend Cardigan"
+title: "Wholesale 3D Embroidered Lambswool Blend Cardigan"
 date: 2026-05-03
 draft: false
 categories: ["Cardigans"]
 tags: ["embroidered", "cardigan", "lambswool", "3d-embroidery", "pastel"]
+keywords: ["embroidered", "cardigan", "lambswool", "3d-embroidery", "pastel"]
 image: "/images/products/embroidered-cardigan-1.webp"
 description: "Wholesale 3D embroidered lambswool blend cardigan in lilac pink. Feminine, detailed knitwear for boutiques. Wholesale price: ¥220."
 summary: "SE刺绣紫粉色针织开衫，绵羊毛混纺，立体刺绣，批发价220元。"
@@ -28,3 +29,7 @@ A statement piece that combines luxury and charm. Made from a soft and lofty lam
 **Sizes:** S, M, L
 
 **Sourcing Note:** Lambswool blend, soft and lofty, symmetrical 3D floral embroidery, regular fit. Wholesale price: ¥220.
+
+---
+
+**[View all Cardigans →](/categories/cardigans/)**

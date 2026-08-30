@@ -1,10 +1,11 @@
 ---
-title: "Wholesale Women‘s Utility Jacket | Corduroy Collar Cotton Twill"
+title: "Wholesale Utility Jacket Corduroy Collar Cotton Twill"
 description: "A timeless utility jacket updated with a vintage touch. Constructed from durable cotton twill, it features a distinctive contrasting corduroy"
 date: 2026-03-26
 draft: false
 categories: ["Jackets"]
 tags: ["fashion"]
+keywords: ["fashion"]
 image: "/images/products/utility-jacket-1.webp"
 summary: "Timeless utility jacket with corduroy stand-collar and multi-pockets. Cotton twill, versatile unisex style."
 ---
@@ -27,3 +28,7 @@ A timeless utility jacket updated with a vintage touch. Constructed from durable
 **Sizes:** S, M, L, XL
 
 **Sourcing Note:** A seasonal bestseller. Available for low MOQ wholesale.
+
+---
+
+**[View all Jackets →](/categories/jackets/)**

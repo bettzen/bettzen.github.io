@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Linen Dress Adjustable Belt | Breathable Natural Fabric Silhouette"
+title: "Wholesale Linen Dress Adjustable Belt Natural Fabric"
 date: 2026-08-02
 draft: false
 categories: ["Dresses"]
 tags: ["linen", "dress", "wholesale", "adjustable", "belt", "natural", "fabric", "breathable", "summer", "boutique", "sourcing", "minimalist", "womenswear"]
+keywords: ["linen", "dress", "wholesale", "adjustable", "belt", "natural", "fabric", "breathable", "summer", "boutique", "sourcing", "minimalist", "womenswear"]
 image: "/images/products/linen-dress-adjustable-belt-1.webp"
 description: "This garment features a minimalist silhouette crafted from 100% natural linen, offering a breathable and smoothly draping texture that keeps the weare"
 summary: "This garment features a minimalist silhouette crafted from 100% natural linen, o..."
@@ -39,3 +40,7 @@ Size 42: Length 123cm, Bust 102cm
 
 **Sourcing Note**
 We recommend ordering a size run to accommodate varied client preferences, as the relaxed fit allows for easy sizing. Display the dress both belted and unbelted to showcase its versatility. Linen naturally softens with each wash; recommend cold gentle washing and line drying to maintain fabric integrity.
+
+---
+
+**[View all Dresses →](/categories/dresses/)**

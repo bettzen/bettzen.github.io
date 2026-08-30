@@ -4,6 +4,7 @@ date: 2026-04-03
 draft: false
 categories: ["Tops"]
 tags: ["fitted"]
+keywords: ["fitted"]
 image: "/images/products/ribbed-zip-top-1.webp"
 description: "高弹坑条针织面料，修身显瘦、舒适亲肤。前中拉链设计提升造型感，可单穿可内搭，通勤日常皆合适。"
 summary: "高弹坑条针织面料，修身显瘦、舒适亲肤。前中拉链设计提升造型感，可单穿可内搭，通勤日常皆合适。..."
@@ -28,3 +29,7 @@ summary: "高弹坑条针织面料，修身显瘦、舒适亲肤。前中拉链�
 **尺码：** S, M, L
 
 **采购提示：** 基础百搭款，支持小批量混色批发。
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

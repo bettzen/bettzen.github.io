@@ -4,6 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["Tops"]
 tags: ["silk-wool", "knit", "button-down", "fitted", "luxury-basic"]
+keywords: ["silk-wool", "knit", "button-down", "fitted", "luxury-basic"]
 image: "/images/products/silk-wool-knit-top-1.webp"
 description: "丝毛针织面料，质感柔软细腻亲肤，弹性佳。版型修身合体，纽扣可解开穿着，营造随意松弛感。"
 summary: "丝毛针织面料，质感柔软细腻亲肤，弹性佳。版型修身合体，纽扣可解开穿着，营造随意松弛感。..."
@@ -29,3 +30,7 @@ summary: "丝毛针织面料，质感柔软细腻亲肤，弹性佳。版型修�
 **尺码：** 36, 38, 40
 
 **采购提示：** 丝毛混纺针织，柔软高弹，纽扣开襟设计。
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

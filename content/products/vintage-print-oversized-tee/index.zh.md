@@ -4,6 +4,7 @@ date: 2026-03-31
 draft: false
 categories: ["T-shirts"]
 tags: ["oversized", "unisex"]
+keywords: ["oversized", "unisex"]
 image: "/images/products/vintage-print-oversized-tee-1.webp"
 description: "面料经洗水染色工艺处理，呈现自然做旧肌理感，手感超柔且透气亲肤。极简做旧字母印花，经典街头风，宽松大件版型适配各种身形，男女同款更易走量，浅蓝色显白不挑人。"
 summary: "面料经洗水染色工艺处理，呈现自然做旧肌理感，手感超柔且透气亲肤。极简做旧字母印花，经典街头风，宽松大件版型适配各种身形，男女同款更易走量，浅蓝色显白不挑人。..."
@@ -28,3 +29,7 @@ summary: "面料经洗水染色工艺处理，呈现自然做旧肌理感，手�
 **尺码：** S, M, L
 
 **采购提示：** 经典休闲基础款，适合门店走量，支持小批量试单、混批。
+
+---
+
+**[查看全部T-shirts →](/zh/categories/t-shirts/)**

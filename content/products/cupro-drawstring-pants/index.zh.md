@@ -4,6 +4,7 @@ date: 2026-04-03
 draft: false
 categories: ["Bottoms"]
 tags: ["cupro", "drawstring", "drapey"]
+keywords: ["cupro", "drawstring", "drapey"]
 image: "/images/products/cupro-drawstring-pants-1.webp"
 description: "定制铜氨丝混纺洗水面料，垂顺飘逸、透气不贴身。松紧腰+抽绳设计包容性强，直筒版型显瘦修饰腿型，高端舒适。"
 summary: "定制铜氨丝混纺洗水面料，垂顺飘逸、透气不贴身。松紧腰+抽绳设计包容性强，直筒版型显瘦修饰腿型，高端舒适。..."
@@ -28,3 +29,7 @@ summary: "定制铜氨丝混纺洗水面料，垂顺飘逸、透气不贴身。�
 **尺码：** S, M, L
 
 **采购提示：** 高端面料爆款，适合精品店、买手店批发，小批量可做。
+
+---
+
+**[查看全部Bottoms →](/zh/categories/bottoms/)**

@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Fitted T-Shirts Silk Wool Acetate Striped Tee Slimming Magic Tee"
+title: "Wholesale Silk Wool Acetate Striped Tee Slimming Magic"
 date: 2026-04-21
 draft: false
 categories: ["T-shirts"]
 tags: ["striped", "fitted", "silk-blend", "magic-tee", "slimming"]
+keywords: ["striped", "fitted", "silk-blend", "magic-tee", "slimming"]
 image: "/images/products/striped-magic-tee-1.webp"
 description: "Wholesale striped fitted t-shirt in silk wool acetate blend. Figure-flattering magic tee for boutiques."
 summary: "弹力条纹修身T恤，真丝羊毛醋酸混纺，显瘦魔力T。"
@@ -28,3 +29,7 @@ The ultimate "magic" basic for its figure-flattering properties. Expertly knitte
 **Sizes:** 36, 38, 40
 
 **Sourcing Note:** Silk-wool-acetate blend, super stretchy, fitted silhouette.
+
+---
+
+**[View all T-shirts →](/categories/t-shirts/)**

@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Woven Raffia Bag with Leather Trim Small Size | Custom Hardware Boutique Accessory"
+title: "拉菲草编织包 真皮包边 小号"
 date: 2026-08-29T00:55:13+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "woven", "raffia", "bag", "wholesale", "leather", "trim", "custom", "hardware", "small", "boutique", "accessory", "summer", "resort", "style"]
+keywords: ["fashion", "woven", "raffia", "bag", "wholesale", "leather", "trim", "custom", "hardware", "small", "boutique", "accessory", "summer", "resort", "style"]
 image: "/images/products/woven-raffia-bag-with-leather-trim-small-size-1.webp"
 description: "本款包袋采用牛皮与防水拉菲草拼接，皮革部分运用十字纹印花工艺，形成细腻的肌理对比。金属五金件均为开模定制，细节具有独特辨识度。小号尺寸约高16cm、宽16cm、深11cm，开口24cm，结构紧凑但实用。天然拉菲草编织带来轻盈透气的质感，皮革饰边增强包身挺括度与耐用性。随包附赠防尘袋。"
 summary: "本款包袋采用牛皮与防水拉菲草拼接，皮革部分运用十字纹印花工艺，形成细腻的肌理对比。金属五金件均为开模定制，细节具有独特辨识度。小号尺寸约高16cm、宽16cm、..."
@@ -38,3 +39,7 @@ summary: "本款包袋采用牛皮与防水拉菲草拼接，皮革部分运用�
 
 **标签**
 编织包 批发 拉菲草 拼皮 定制五金 小号包 度假风 买手店选品
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

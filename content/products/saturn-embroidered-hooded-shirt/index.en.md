@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Striped Cotton Shirt | Saturn Embroidered Detachable Hooded Top"
+title: "Wholesale Striped Cotton Shirt Saturn Embroidered Hooded"
 date: 2026-03-31
 draft: false
 categories: ["Shirts"]
 tags: ["oversized"]
+keywords: ["oversized"]
 image: "/images/products/saturn-embroidered-hooded-shirt-1.webp"
 description: "A statement shirt that blurs the line between tailored shirt and casual jacket. Made from lightweight, color-woven striped cotton with excellent drape and breathability. The design includes a detachable hood and is distinguished by a custom 'Saturn' planet embroidery on the placket, finished with contrasting purple tie closures."
 summary: "A statement shirt that blurs the line between tailored shirt and casual jacket. Made from lightweight, color-woven striped cotton with excellent drape and breathability. The design includes a detachable hood and is distinguished by a custom 'Saturn' planet embroidery on the placket, finished with contrasting purple tie closures."
@@ -27,3 +28,7 @@ A statement shirt that blurs the line between tailored shirt and casual jacket. 
 **Sizes:** S, M, L
 
 **Sourcing Note:** A unique design-led item. Contact us for a detailed lookbook, sizing guide and sample availability.
+
+---
+
+**[View all Shirts →](/categories/shirts/)**

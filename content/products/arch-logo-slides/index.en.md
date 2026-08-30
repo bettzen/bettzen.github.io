@@ -1,9 +1,10 @@
 ---
-title: "Luxury Slides Wholesale Embossed Arch Logo Sandals Imported Leather"
+title: "Wholesale Embossed Arch Logo Slides Imported Leather"
 date: 2026-05-07
 draft: false
 categories: ["Shoes"]
 tags: ["slides", "leather", "embossed", "minimalist", "premium"]
+keywords: ["slides", "leather", "embossed", "minimalist", "premium"]
 image: "/images/products/arch-logo-slides-1.webp"
 description: "Wholesale luxury embossed arch logo slides in imported cowhide leather with lambskin footbed. Minimalist, premium sandals for boutiques. Wholesale price: ¥270."
 summary: "凯旋门压印拖鞋，进口小牛皮，小羊皮脚床，批发价270元。"
@@ -28,3 +29,7 @@ Elevate your footwear collection with these minimalist yet luxurious slides. The
 **Sizes:** 35-40
 
 **Sourcing Note:** Imported cowhide upper, lambskin-lined footbed, custom-molded rubber sole, original packaging. Wholesale price: ¥270.
+
+---
+
+**[View all Shoes →](/categories/shoes/)**

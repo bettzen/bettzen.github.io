@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Linen-Cotton Trousers | Vertical Stripe Wide Leg Pants"
+title: "Wholesale Linen Cotton Trousers Vertical Stripe Wide Leg"
 date: 2026-03-29
 draft: false
 categories: ["Bottoms"]
 tags: ["fashion"]
+keywords: ["fashion"]
 image: "/images/products/striped-pants-1.webp"
 description: "Embrace relaxed tailoring. These trousers feature a woven linen-cotton blend fabric in a vertical stripe pattern, offering excellent breathability, soft dense handfeel and good drape."
 summary: "Embrace relaxed tailoring. These trousers feature a woven linen-cotton blend fabric in a vertical stripe pattern, offering excellent breathability, soft dense handfeel and good drape."
@@ -27,3 +28,7 @@ Embrace relaxed tailoring. These trousers feature a woven linen-cotton blend fab
 **Sizes:** S, M, L
 
 **Sourcing Note:** A versatile seasonless staple. Low MOQ available for mixed colors.
+
+---
+
+**[View all Bottoms →](/categories/bottoms/)**

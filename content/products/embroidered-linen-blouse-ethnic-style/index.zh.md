@@ -4,6 +4,7 @@ date: 2026-08-28T13:36:45+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "embroidered", "linen", "blouse", "wholesale", "ethnic", "style", "3d", "floral", "craft", "ramie", "top", "lantern", "sleeve", "boutique"]
+keywords: ["fashion", "embroidered", "linen", "blouse", "wholesale", "ethnic", "style", "3d", "floral", "craft", "ramie", "top", "lantern", "sleeve", "boutique"]
 image: "/images/products/embroidered-linen-blouse-ethnic-style-1.webp"
 description: "本款上衣采用天然苎麻面料，具备出色的透气性，质地轻盈，适合温暖气候穿着。核心亮点在于其立体的刺绣盘花工艺，通过复杂的制作手法在亚麻底布上呈现出具有触感的凸起纹理，形成鲜明的匠心视觉效果。版型以浪漫的荷叶边装饰和宫廷式灯笼袖为特色，为上半身增添柔和的量感。下摆设有抽绳，可调节松紧，塑造不同轮廓，宽松的"
 summary: "本款上衣采用天然苎麻面料，具备出色的透气性，质地轻盈，适合温暖气候穿着。核心亮点在于其立体的刺绣盘花工艺，通过复杂的制作手法在亚麻底布上呈现出具有触感的凸起纹理..."
@@ -38,3 +39,7 @@ summary: "本款上衣采用天然苎麻面料，具备出色的透气性，质�
 
 **标签**
 刺绣麻上衣 批发 民族风 立体盘花 苎麻 灯笼袖 买手店选品 匠心工艺
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

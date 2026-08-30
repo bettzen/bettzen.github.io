@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Women's Pants Cotton Wide Leg Balloon Trousers Petite Friendly"
+title: "Wholesale Cotton Wide Leg Balloon Trousers Women's"
 date: 2026-04-27
 draft: false
 categories: ["Bottoms"]
 tags: ["wide-leg", "balloon-trousers", "cotton-twill", "petite", "cropped"]
+keywords: ["wide-leg", "balloon-trousers", "cotton-twill", "petite", "cropped"]
 image: "/images/products/balloon-trousers-1.webp"
 description: "Wholesale cotton wide leg balloon trousers. Cropped length, petite friendly, flattering fit for boutiques."
 summary: "8分阔腿气球裤，全棉磨毛斜纹布，遮肉显瘦，小个子友好。"
@@ -28,3 +29,7 @@ The ultimate problem-solving pant. Tailored from soft yet structured cotton brus
 **Sizes:** S, M, L
 
 **Sourcing Note:** Cotton brushed twill, soft and structured, balloon silhouette, petite-friendly cropped length.
+
+---
+
+**[View all Bottoms →](/categories/bottoms/)**

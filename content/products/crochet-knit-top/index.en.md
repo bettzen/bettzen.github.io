@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Crochet Knit Top | Sleeveless Rhinestone Button Wool-Blend"
+title: "Wholesale Crochet Knit Top Sleeveless Rhinestone Wool"
 date: 2026-03-31
 draft: false
 categories: ["Tops"]
 tags: ["crochet", "rhinestone", "sleeveless"]
+keywords: ["crochet", "rhinestone", "sleeveless"]
 image: "/images/products/crochet-knit-top-1.webp"
 description: "An exquisite piece showcasing detailed craftsmanship. Made from a soft wool-mix blended yarn with a delicate handfeel, this sleeveless top features intricate crochet patterns accented by elegant rhinestone buttons."
 summary: "An exquisite piece showcasing detailed craftsmanship. Made from a soft wool-mix blended yarn with a delicate handfeel, this sleeveless top features intricate crochet patterns accented by elegant rhinestone buttons."
@@ -27,3 +28,7 @@ An exquisite piece showcasing detailed craftsmanship. Made from a soft wool-mix 
 **Sizes:** S, M, L
 
 **Sourcing Note:** A premium, detail-oriented piece. Perfect for small batch orders to test a high-end market.
+
+---
+
+**[View all Tops →](/categories/tops/)**

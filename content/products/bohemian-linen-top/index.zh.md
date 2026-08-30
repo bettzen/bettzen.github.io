@@ -4,6 +4,7 @@ date: 2026-04-03
 draft: false
 categories: ["Tops"]
 tags: ["linen", "bohemian", "printed"]
+keywords: ["linen", "bohemian", "printed"]
 image: "/images/products/bohemian-linen-top-1.webp"
 description: "透气亚麻面料，复古几何印花，异域氛围感强。深V领修饰脸型，宽松版型慵懒随性，适合夏季、旅游、度假场景。"
 summary: "透气亚麻面料，复古几何印花，异域氛围感强。深V领修饰脸型，宽松版型慵懒随性，适合夏季、旅游、度假场景。..."
@@ -28,3 +29,7 @@ summary: "透气亚麻面料，复古几何印花，异域氛围感强。深V领
 **尺码：** S, M, L
 
 **采购提示：** 度假风爆款，适合夏季采购，支持小批量。
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

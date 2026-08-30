@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Linen Sleeveless Dress Minimalist Beige | Ultra-Fine Linen with Cotton Lining"
+title: "Wholesale Linen Sleeveless Dress Minimalist Beige Fine"
 date: 2026-08-09
 draft: false
 categories: ["Dresses"]
 tags: ["linen", "dress", "wholesale", "sleeveless", "beige", "minimalist", "womenswear", "cotton", "lining", "breathable", "summer", "boutique", "sourcing"]
+keywords: ["linen", "dress", "wholesale", "sleeveless", "beige", "minimalist", "womenswear", "cotton", "lining", "breathable", "summer", "boutique", "sourcing"]
 image: "/images/products/linen-sleeveless-dress-minimalist-beige-1.webp"
 description: "This garment features an ultra-fine microfiber linen construction, offering a notably soft and refined hand-feel that distinguishes it from standard l"
 summary: "This garment features an ultra-fine microfiber linen construction, offering a no..."
@@ -39,3 +40,7 @@ Size 8: Length 127cm, Bust 100cm
 
 **Sourcing Note**
 This style runs true to size with a relaxed, non-restrictive fit; buyers may consider recommending a size down for clients preferring a more fitted look. The beige tone pairs well with neutral accessories and denim for effortless styling displays. The cotton lining requires gentle machine washing in cold water; recommend line drying to preserve the fabric's natural texture and prevent shrinkage.
+
+---
+
+**[View all Dresses →](/categories/dresses/)**

@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Vintage Graphic Tee | Retro Poster Print Cotton Blend Top"
+title: "Wholesale Vintage Graphic Tee Retro Poster Print Cotton"
 date: 2026-05-09
 draft: false
 categories: ["T-shirts"]
 tags: ["vintage", "graphic-tee", "cotton-blend", "trendy", "streetwear"]
+keywords: ["vintage", "graphic-tee", "cotton-blend", "trendy", "streetwear"]
 image: "/images/products/vintage-graphic-tee-1.jpg"
 description: "Wholesale vintage graphic tee with retro poster print. Cotton blend with stretch, contrast ribbed neck. Trendy piece for young fashion boutiques."
 summary: "复古海报印花T恤，棉混微弹，撞色罗纹领口，潮流百搭。"
@@ -28,3 +29,7 @@ Retro poster print design with high fashion recognition. Made from a soft cotton
 **Sizes:** XS, S, M
 
 **Sourcing Note:** Trendy streetwear style, low MOQ welcome. Complete the outfit with our [Navy Tencel Skirt](https://bettzen.com/products/navy-tencel-skirt/) for a chic casual look. Discover more fabric insights in our [Top 5 Fabrics Guide](https://bettzen.com/blog/top-5-fabrics-for-premium-womens-apparel/).
+
+---
+
+**[View all T-shirts →](/categories/t-shirts/)**

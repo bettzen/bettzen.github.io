@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Layered Silk Top Flowy Cake Design | 100% Mulberry Silk Resort Wear"
+title: "Wholesale Layered Silk Top Flowy Cake Design Mulberry"
 date: 2026-08-27
 draft: false
 categories: ["Tops"]
 tags: ["mulberry", "silk", "top", "wholesale", "layered", "cake", "design", "flowy", "silhouette", "resort", "wear", "womenswear", "boutique", "sourcing", "breathable", "summer"]
+keywords: ["mulberry", "silk", "top", "wholesale", "layered", "cake", "design", "flowy", "silhouette", "resort", "wear", "womenswear", "boutique", "sourcing", "breathable", "summer"]
 image: "/images/products/layered-silk-top-flowy-cake-design-1.webp"
 description: "This garment features a multi-layer cake silhouette crafted from 100% mulberry silk with a smooth, feather-like texture. The fabric offers a lightweig"
 summary: "This garment features a multi-layer cake silhouette crafted from 100% mulberry s..."
@@ -39,3 +40,7 @@ This style runs true to size with a relaxed silhouette; buyers may consider stan
 
 **Tags**
 mulberry silk top wholesale layered cake design flowy silhouette resort wear womenswear boutique sourcing breathable summer top
+
+---
+
+**[View all Tops →](/categories/tops/)**

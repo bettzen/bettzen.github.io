@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Washed Cotton T-Shirt | Vintage Print Unisex Oversized Tee"
+title: "Wholesale Washed Cotton T-Shirt Vintage Print Oversized"
 date: 2026-03-31
 draft: false
 categories: ["T-shirts"]
 tags: ["oversized", "unisex"]
+keywords: ["oversized", "unisex"]
 image: "/images/products/vintage-print-oversized-tee-1.webp"
 description: "Crafted from pre-washed and garment-dyed cotton jersey for an ultra-soft handfeel, breathable performance and a lived-in, vintage texture. Features a minimalist, distressed letter print that adds a casual streetwear edge."
 summary: "Crafted from pre-washed and garment-dyed cotton jersey for an ultra-soft handfeel, breathable performance and a lived-in, vintage texture. Features a minimalist, distressed letter print that adds a casual streetwear edge."
@@ -27,3 +28,7 @@ Crafted from pre-washed and garment-dyed cotton jersey for an ultra-soft handfee
 **Sizes:** S, M, L
 
 **Sourcing Note:** A high-volume casual staple. Low minimum order quantities available for mixed batches.
+
+---
+
+**[View all T-shirts →](/categories/t-shirts/)**

@@ -4,6 +4,7 @@ date: 2026-04-08
 draft: false
 categories: ["T-shirts"]
 tags: ["fitted"]
+keywords: ["fitted"]
 image: "/images/products/fitted-wool-cotton-tee-1.webp"
 description: "采用棉+羊毛混纺纱线，手感肉感柔软，弹性佳。小圆领精神利落，腰身修身剪裁，非常显瘦。鹅黄色温柔，黑白灰经典。"
 summary: "采用棉+羊毛混纺纱线，手感肉感柔软，弹性佳。小圆领精神利落，腰身修身剪裁，非常显瘦。鹅黄色温柔，黑白灰经典。..."
@@ -28,3 +29,7 @@ summary: "采用棉+羊毛混纺纱线，手感肉感柔软，弹性佳。小圆
 **尺码：** S, M, L
 
 **采购提示：** 高品质内搭，多色可选，适合批量备货。
+
+---
+
+**[查看全部T-shirts →](/zh/categories/t-shirts/)**

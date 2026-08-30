@@ -4,6 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["T-shirts"]
 tags: ["striped", "fitted", "silk-blend", "magic-tee", "slimming"]
+keywords: ["striped", "fitted", "silk-blend", "magic-tee", "slimming"]
 image: "/images/products/striped-magic-tee-1.webp"
 description: "“魔力T”，面料采用真丝+羊毛+醋酸混纺，手感绵柔弹性大。版型非常合体显腰身，长度适中，搭配性极强。"
 summary: "“魔力T”，面料采用真丝+羊毛+醋酸混纺，手感绵柔弹性大。版型非常合体显腰身，长度适中，搭配性极强。..."
@@ -29,3 +30,7 @@ summary: "“魔力T”，面料采用真丝+羊毛+醋酸混纺，手感绵柔�
 **尺码：** 36, 38, 40
 
 **采购提示：** 真丝羊毛醋酸混纺，超高弹力，修身显瘦版型。
+
+---
+
+**[查看全部T-shirts →](/zh/categories/t-shirts/)**

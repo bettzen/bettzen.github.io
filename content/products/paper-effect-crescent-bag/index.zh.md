@@ -4,6 +4,7 @@ date: 2026-04-08
 draft: false
 categories: ["Bags"]
 tags: ["leather", "textured", "crossbody"]
+keywords: ["leather", "textured", "crossbody"]
 image: "/images/products/paper-effect-crescent-bag-1.webp"
 description: "采用质感上乘的头层牛皮，经过特殊处理呈现出独特的纸质效果，手感轻柔有肌理。月牙形包身小巧有型，内衬为高密全棉斜纹布。"
 summary: "采用质感上乘的头层牛皮，经过特殊处理呈现出独特的纸质效果，手感轻柔有肌理。月牙形包身小巧有型，内衬为高密全棉斜纹布。..."
@@ -28,3 +29,7 @@ summary: "采用质感上乘的头层牛皮，经过特殊处理呈现出独特�
 **尺码：** 均码
 
 **采购提示：** 设计感配饰，提升店铺货盘丰富度。
+
+---
+
+**[查看全部Bags →](/zh/categories/bags/)**

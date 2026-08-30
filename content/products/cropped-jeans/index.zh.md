@@ -4,6 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["Bottoms"]
 tags: ["jeans", "cropped", "straight-leg", "turkish-denim", "stretch"]
+keywords: ["jeans", "cropped", "straight-leg", "turkish-denim", "stretch"]
 image: "/images/products/cropped-jeans-1.webp"
 description: "土耳其进口牛仔布，柔软垂顺有微弹，不易变形。九分直筒裤长，小个子可当长裤，经典洗水蓝百搭。"
 summary: "土耳其进口牛仔布，柔软垂顺有微弹，不易变形。九分直筒裤长，小个子可当长裤，经典洗水蓝百搭。..."
@@ -29,3 +30,7 @@ summary: "土耳其进口牛仔布，柔软垂顺有微弹，不易变形。九�
 **尺码：** 26, 27, 28, 29
 
 **采购提示：** 土耳其进口牛仔布，柔软微弹，九分直筒版型。
+
+---
+
+**[查看全部Bottoms →](/zh/categories/bottoms/)**

@@ -4,6 +4,7 @@ date: 2026-08-09
 draft: false
 categories: ["Dresses"]
 tags: ["linen", "dress", "wholesale", "asymmetric", "hem", "sleeveless", "natural", "fabric", "side", "pockets", "minimalist", "womenswear", "boutique", "sourcing", "summer"]
+keywords: ["linen", "dress", "wholesale", "asymmetric", "hem", "sleeveless", "natural", "fabric", "side", "pockets", "minimalist", "womenswear", "boutique", "sourcing", "summer"]
 image: "/images/products/linen-sleeveless-dress-asymmetric-hem-1.webp"
 description: "本款连衣裙采用100%天然亚麻面料，质地轻薄透气，表面呈现哑光肌理，触感干爽，穿着舒适不闷热。裙型干净利落，采用前短后长的不规则下摆设计，线条流畅，具有建筑感与现代感。两侧设有实用插袋，兼顾美观与功能性。整体廓形宽松，垂坠自然，无束缚感，适合日常多场合穿着。"
 summary: "本款连衣裙采用100%天然亚麻面料，质地轻薄透气，表面呈现哑光肌理，触感干爽，穿着舒适不闷热。裙型干净利落，采用前短后长的不规则下摆设计，线条流畅，具有建筑感与..."
@@ -41,3 +42,7 @@ summary: "本款连衣裙采用100%天然亚麻面料，质地轻薄透气，表
 
 **标签**
 亚麻连衣裙 批发 不规则下摆 无袖 天然面料 侧插袋 极简风 女装 boutique选品
+
+---
+
+**[查看全部Dresses →](/zh/categories/dresses/)**

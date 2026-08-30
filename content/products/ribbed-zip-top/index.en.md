@@ -4,6 +4,7 @@ date: 2026-04-03
 draft: false
 categories: ["Tops"]
 tags: ["fitted"]
+keywords: ["fitted"]
 image: "/images/products/ribbed-zip-top-1.webp"
 description: "A modern essential with sleek styling. Knitted in high-stretch ribbed fabric for comfort and a flattering, body-skimming fit. The front zipper adds a contemporary touch and versatile styling."
 summary: "A modern essential with sleek styling. Knitted in high-stretch ribbed fabric for comfort and a flattering, body-skimming fit. The front zipper adds a contemporary touch and versatile styling."
@@ -27,3 +28,7 @@ A modern essential with sleek styling. Knitted in high-stretch ribbed fabric for
 **Sizes:** S, M, L
 
 **Sourcing Note:** Low MOQ, mix colors acceptable.
+
+---
+
+**[View all Tops →](/categories/tops/)**

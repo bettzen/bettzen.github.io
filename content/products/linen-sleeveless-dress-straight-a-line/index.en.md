@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Linen Sleeveless Dress Straight A-Line | Half-Placket Concealed Button"
+title: "Wholesale Linen Sleeveless Dress Straight A-Line Placket"
 date: 2026-08-09
 draft: false
 categories: ["Dresses"]
 tags: ["linen", "dress", "wholesale", "sleeveless", "a-line", "natural", "fabric", "resort", "wear", "boutique", "sourcing", "straight", "silhouette", "womenswear", "capsule", "collection"]
+keywords: ["linen", "dress", "wholesale", "sleeveless", "a-line", "natural", "fabric", "resort", "wear", "boutique", "sourcing", "straight", "silhouette", "womenswear", "capsule", "collection"]
 image: "/images/products/linen-sleeveless-dress-straight-a-line-1.webp"
 description: "This garment features a sleeveless, round-neck silhouette cut from 100% natural linen, offering a breathable and airy wearing experience ideal for war"
 summary: "This garment features a sleeveless, round-neck silhouette cut from 100% natural ..."
@@ -38,3 +39,7 @@ XL: Length 122cm, Bust 106cm
 
 **Sourcing Note**
 This style runs true to size with a relaxed fit; consider sizing down for a closer fit when belted. We recommend ordering a size run to cater to varied preferences. For retail display, pair the dress with minimalist leather sandals and a straw tote to reinforce its resort-ready appeal. Linen naturally wrinkles; advise end-consumers to iron on a medium setting or steam to restore a crisp finish. Bulk orders are welcome with tiered wholesale pricing available upon request.
+
+---
+
+**[View all Dresses →](/categories/dresses/)**

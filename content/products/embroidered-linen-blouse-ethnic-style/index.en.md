@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Embroidered Linen Blouse Ethnic Style | 3D Floral Embroidery Craft"
+title: "Wholesale Embroidered Linen Blouse Ethnic 3D Floral"
 date: 2026-08-28T13:36:45+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "embroidered", "linen", "blouse", "wholesale", "ethnic", "style", "3d", "floral", "craft", "ramie", "top", "lantern", "sleeve", "boutique"]
+keywords: ["fashion", "embroidered", "linen", "blouse", "wholesale", "ethnic", "style", "3d", "floral", "craft", "ramie", "top", "lantern", "sleeve", "boutique"]
 image: "/images/products/embroidered-linen-blouse-ethnic-style-1.webp"
 description: "This garment features a natural ramie fabric construction, offering superior breathability and a lightweight, airy feel ideal for warm-weather wear. T"
 summary: "This garment features a natural ramie fabric construction, offering superior bre..."
@@ -38,3 +39,7 @@ This style runs with a relaxed, generous fit; buyers may suggest customers size 
 
 **Tags**
 embroidered linen blouse wholesale ethnic style 3d floral craft ramie top lantern sleeve boutique womenswear artisan embroidery
+
+---
+
+**[View all Tops →](/categories/tops/)**

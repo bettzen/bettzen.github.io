@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Open Knit Cardigans Linen Lyocell Peplum Lace Cover-Up"
+title: "Wholesale Linen Lyocell Peplum Lace Cardigan Cover-Up"
 date: 2026-05-03
 draft: false
 categories: ["Cardigans"]
 tags: ["lace", "open-knit", "linen-lyocell", "peplum", "boho"]
+keywords: ["lace", "open-knit", "linen-lyocell", "peplum", "boho"]
 image: "/images/products/peplum-lace-cardigan-1.webp"
 description: "Wholesale linen lyocell peplum lace open knit cardigan. Romantic, breathable cover-up for resort wear boutiques. Wholesale price: ¥228."
 summary: "MD荷叶边镂空开衫，亚麻莱赛尔混纺，钩花工艺，批发价228元。"
@@ -28,3 +29,7 @@ A romantic and ethereal cover-up. Knitted from a breathable blend of linen and l
 **Sizes:** S, M
 
 **Sourcing Note:** Linen-lyocell blend, open lace crochet, peplum hem, breathable and soft. Wholesale price: ¥228.
+
+---
+
+**[View all Cardigans →](/categories/cardigans/)**

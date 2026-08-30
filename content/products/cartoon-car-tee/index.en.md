@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Cartoon Print T-Shirt Slub Cotton Lyocell Blend Relaxed Fit"
+title: "Wholesale Cartoon Print T-Shirt Cotton Lyocell Relaxed"
 date: 2026-04-27
 draft: false
 categories: ["T-shirts"]
 tags: ["cartoon-print", "slub-cotton", "lyocell", "mustard-yellow", "oversized"]
+keywords: ["cartoon-print", "slub-cotton", "lyocell", "mustard-yellow", "oversized"]
 image: "/images/products/cartoon-car-tee-1.webp"
 description: "Wholesale cartoon print t-shirt in slub cotton lyocell blend. Relaxed fit, mustard yellow, playful design for boutiques."
 summary: "卡通印花T恤，竹节棉天丝混纺，姜黄色，微宽松。"
@@ -28,3 +29,7 @@ A playful and comfortable essential for warm weather. Made from a breathable slu
 **Sizes:** S, M, L
 
 **Sourcing Note:** Slub cotton-lyocell blend, breathable and drapey, cartoon print design.
+
+---
+
+**[View all T-shirts →](/categories/t-shirts/)**

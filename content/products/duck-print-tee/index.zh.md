@@ -4,6 +4,7 @@ date: 2026-03-29
 draft: false
 categories: ["T-shirts"]
 tags: ["fashion"]
+keywords: ["fashion"]
 image: "/images/products/duck-print-tee-1.webp"
 description: "采用麻棉混纺针织布，透气舒爽、吸湿排汗，上身柔软垂顺无束缚。宽松版型适配各种身形，可爱手绘小鸭图案配色清爽，日常休闲百搭性强。"
 summary: "采用麻棉混纺针织布，透气舒爽、吸湿排汗，上身柔软垂顺无束缚。宽松版型适配各种身形，可爱手绘小鸭图案配色清爽，日常休闲百搭性强。..."
@@ -28,3 +29,7 @@ summary: "采用麻棉混纺针织布，透气舒爽、吸湿排汗，上身柔�
 **尺码：** S, M, L
 
 **采购提示：** 天然混纺面料，舒适度突出，支持小批量试单，适合休闲风门店。
+
+---
+
+**[查看全部T-shirts →](/zh/categories/t-shirts/)**

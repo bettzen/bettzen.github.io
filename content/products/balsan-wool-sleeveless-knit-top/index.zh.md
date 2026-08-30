@@ -4,6 +4,7 @@ date: 2026-08-28T01:18:10
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "balsan", "wool", "knit", "top", "wholesale", "sleeveless", "lightweight", "soft", "texture", "light", "blue", "womenswear", "boutique", "sourcing"]
+keywords: ["fashion", "balsan", "wool", "knit", "top", "wholesale", "sleeveless", "lightweight", "soft", "texture", "light", "blue", "womenswear", "boutique", "sourcing"]
 image: "/images/products/balsan-wool-sleeveless-knit-top-1.webp"
 description: "本款背心针织衫采用巴素兰羊毛纱线，触感细腻软糯，贴肤穿着不扎身。精致的编织纹理赋予面料清晰的视觉层次，整体轻薄且具有良好挺括度，穿着不易松垮。无袖版型线条利落，呈现干净、简约的上身效果，同时具备良好的透气性，适合春秋季节叠穿或单穿。"
 summary: "本款背心针织衫采用巴素兰羊毛纱线，触感细腻软糯，贴肤穿着不扎身。精致的编织纹理赋予面料清晰的视觉层次，整体轻薄且具有良好挺括度，穿着不易松垮。无袖版型线条利落，..."
@@ -40,3 +41,7 @@ L：衣长57cm，胸围86cm
 
 **标签**
 巴素兰羊毛 背心针织衫 批发 浅蓝色 轻薄 软糯 无袖 女装 买手店选品
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

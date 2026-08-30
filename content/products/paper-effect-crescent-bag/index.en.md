@@ -4,6 +4,7 @@ date: 2026-04-08
 draft: false
 categories: ["Bags"]
 tags: ["leather", "textured", "crossbody"]
+keywords: ["leather", "textured", "crossbody"]
 image: "/images/products/paper-effect-crescent-bag-1.webp"
 description: "A statement accessory with unique texture. Crafted from premium full-grain leather, specially treated to achieve a distinctive paper-feel effect that is soft and tactile. The compact crescent shape is both trendy and practical. Lined with high-density cotton twill."
 summary: "A statement accessory with unique texture. Crafted from premium full-grain leather, specially treated to achieve a distinctive paper-feel effect that is soft and tactile. The compact crescent shape is both trendy and practical. Lined with high-density cotton twill."
@@ -27,3 +28,7 @@ A statement accessory with unique texture. Crafted from premium full-grain leath
 **Sizes:** One size
 
 **Sourcing Note:** A unique, design-driven accessory piece. Low MOQ inquiries welcome.
+
+---
+
+**[View all Bags →](/categories/bags/)**

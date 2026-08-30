@@ -4,6 +4,7 @@ date: 2026-03-26
 draft: false
 categories: ["Jackets"]
 tags: ["fashion"]
+keywords: ["fashion"]
 image: "/images/products/utility-jacket-1.webp"
 summary: "全棉斜纹面料，挺括耐磨。撞色灯芯绒立领，复古高级。多口袋设计，实用百搭。春秋爆款，中性风格，男女可穿。..."
 description: "全棉斜纹面料，挺括耐磨。撞色灯芯绒立领，复古高级。多口袋设计，实用百搭。春秋爆款，中性风格，男女可穿。"
@@ -30,3 +31,7 @@ description: "全棉斜纹面料，挺括耐磨。撞色灯芯绒立领，复古
 **尺码：** S / M / L / XL
 
 **采购提示：** 多色可选，补货率高，小批量支持。
+
+---
+
+**[查看全部Jackets →](/zh/categories/jackets/)**

@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Women's Pants Summer Bestseller Drawstring Culottes Linen Blend"
+title: "Wholesale Drawstring Culottes Linen Blend Summer Pants"
 date: 2026-05-07
 draft: false
 categories: ["Bottoms"]
 tags: ["culottes", "linen-blend", "drawstring", "wide-leg", "summer"]
+keywords: ["culottes", "linen-blend", "drawstring", "wide-leg", "summer"]
 image: "/images/products/drawstring-culottes-1.webp"
 description: "Wholesale summer bestseller drawstring wide-leg culottes in linen blend. Breathable, flattering, adjustable fit for boutiques. Wholesale price: ¥260."
 summary: "夏季爆款系带阔腿裙裤，棉麻混纺，垂顺显瘦，批发价260元。"
@@ -28,3 +29,7 @@ The must-have pant of the season. This culotte offers the elegance of a skirt wi
 **Sizes:** S, M, L
 
 **Sourcing Note:** Linen-cotton blend, lightweight and breathable, wide-leg culotte silhouette, adjustable drawstring waist. Wholesale price: ¥260.
+
+---
+
+**[View all Bottoms →](/categories/bottoms/)**

@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Women's Jeans Turkish Denim Cropped Straight Leg Ankle Length"
+title: "Wholesale Turkish Denim Cropped Straight Leg Jeans"
 date: 2026-04-21
 draft: false
 categories: ["Bottoms"]
 tags: ["jeans", "cropped", "straight-leg", "turkish-denim", "stretch"]
+keywords: ["jeans", "cropped", "straight-leg", "turkish-denim", "stretch"]
 image: "/images/products/cropped-jeans-1.webp"
 description: "Wholesale cropped straight leg jeans in soft Turkish denim with micro-stretch. Versatile ankle-length bottoms."
 summary: "九分直筒牛仔裤，土耳其进口牛仔布，柔软微弹。"
@@ -28,3 +29,7 @@ The perfect everyday jean. Made from premium, soft Turkish imported denim with a
 **Sizes:** 26, 27, 28, 29
 
 **Sourcing Note:** Turkish imported denim, soft with micro-stretch, cropped straight leg.
+
+---
+
+**[View all Bottoms →](/categories/bottoms/)**

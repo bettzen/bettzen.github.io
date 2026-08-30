@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Women's Knitwear 16-Gauge Linen Blend Striped Top Drawstring Hem"
+title: "Wholesale Linen Blend Striped Knit Top Drawstring Hem"
 date: 2026-05-03
 draft: false
 categories: ["Tops"]
 tags: ["striped", "linen-blend", "knit", "drawstring", "cover-up"]
+keywords: ["striped", "linen-blend", "knit", "drawstring", "cover-up"]
 image: "/images/products/striped-linen-knit-1.webp"
 description: "Wholesale 16-gauge linen blend striped knit top with drawstring hem. Breathable, stylish sun cover-up for boutiques. Wholesale price: ¥198."
 summary: "文淇同款条纹针织衫，16针亚麻混纺，下摆抽绳，批发价198元。"
@@ -28,3 +29,7 @@ A versatile layer for warm days. Knitted in a 16-gauge linen blend fabric that i
 **Sizes:** S, M
 
 **Sourcing Note:** 16-gauge linen blend knit, dry and breathable, drawstring hem, tri-color stripe design. Wholesale price: ¥198.
+
+---
+
+**[View all Tops →](/categories/tops/)**

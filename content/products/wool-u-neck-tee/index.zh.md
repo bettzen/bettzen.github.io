@@ -4,6 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["T-shirts"]
 tags: ["wool-blend", "u-neck", "fitted", "premium-basic", "drapey"]
+keywords: ["wool-blend", "u-neck", "fitted", "premium-basic", "drapey"]
 image: "/images/products/wool-u-neck-tee-1.webp"
 description: "采用精细的羊毛+棉混纺纱线，柔软垂顺不易皱，透气干爽。大U领偏V型设计，超级显瘦。版型修身，质感高级。"
 summary: "采用精细的羊毛+棉混纺纱线，柔软垂顺不易皱，透气干爽。大U领偏V型设计，超级显瘦。版型修身，质感高级。..."
@@ -29,3 +30,7 @@ summary: "采用精细的羊毛+棉混纺纱线，柔软垂顺不易皱，透气
 **尺码：** S, M, L
 
 **采购提示：** 精细羊毛棉混纺纱线，大U领设计，垂顺修身版型。
+
+---
+
+**[查看全部T-shirts →](/zh/categories/t-shirts/)**

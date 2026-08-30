@@ -1,9 +1,10 @@
 ---
-title: "浅蓝色针织开衫 巴素兰羊毛 细腻软糯 | 贴肤不扎 轻薄有型 可搭配吊带成套穿着"
+title: "浅蓝巴素兰羊毛针织开衫 细腻软糯 轻薄有型"
 date: 2026-08-28T01:08:31
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "cashmere", "cardigan", "wholesale", "light", "blue", "knitwear", "soft", "wool", "texture", "boutique", "sourcing", "womenswear", "layering", "piece"]
+keywords: ["fashion", "cashmere", "cardigan", "wholesale", "light", "blue", "knitwear", "soft", "wool", "texture", "boutique", "sourcing", "womenswear", "layering", "piece"]
 image: "/images/products/cashmere-blend-knit-cardigan-light-blue-1.webp"
 description: "本款开衫采用巴素兰羊毛纱线织造，触感细腻软糯，贴肤穿着无扎感。精致的编织纹理令衣身呈现干净利落的视觉效果，整体轻薄却不松垮，保形性良好。版型为修身直筒剪裁，适合内搭吊带或吊带裙，可自然组合成一套搭配。面料透气性佳，穿着轻盈舒适，适合换季或空调环境。"
 summary: "本款开衫采用巴素兰羊毛纱线织造，触感细腻软糯，贴肤穿着无扎感。精致的编织纹理令衣身呈现干净利落的视觉效果，整体轻薄却不松垮，保形性良好。版型为修身直筒剪裁，适合..."
@@ -41,3 +42,7 @@ L：衣长59cm，胸围102cm
 
 **标签**
 针织开衫 批发 浅蓝色 巴素兰羊毛 柔软亲肤 实穿百搭 boutique选品 叠穿单品
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

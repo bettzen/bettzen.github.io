@@ -4,6 +4,7 @@ date: 2026-08-28T12:10:30+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "raffia", "paper", "bag", "wholesale", "woven", "structured", "silhouette", "lightweight", "summer", "accessory", "boutique", "sourcing", "artisan", "texture"]
+keywords: ["fashion", "raffia", "paper", "bag", "wholesale", "woven", "structured", "silhouette", "lightweight", "summer", "accessory", "boutique", "sourcing", "artisan", "texture"]
 image: "/images/products/raffia-paper-woven-bag-structured-silhouette-1.webp"
 description: "本款编织包采用拉菲纸材质打造，自重极轻，同时保持了挺括有型的包身轮廓。扇形剪裁线条利落，具备建筑感，使用中不易变形。内里空间充裕，可容纳日常外出所需物品。面料不防水，建议在干燥环境下使用。包款上开口宽46厘米，底座宽29厘米，高27厘米，比例实用且具有视觉亮点。既可手拎，亦可腋下夹持，适配不同造型需"
 summary: "本款编织包采用拉菲纸材质打造，自重极轻，同时保持了挺括有型的包身轮廓。扇形剪裁线条利落，具备建筑感，使用中不易变形。内里空间充裕，可容纳日常外出所需物品。面料不..."
@@ -38,3 +39,7 @@ summary: "本款编织包采用拉菲纸材质打造，自重极轻，同时保�
 
 **标签**
 拉菲纸包 编织包 批发 挺括有型 轻便 夏季配饰 boutique选品 手工质感
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

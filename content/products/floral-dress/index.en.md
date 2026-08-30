@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Dresses Floral Print Puff Sleeve Dress Fit and Flare"
+title: "Wholesale Floral Print Puff Sleeve Fit Flare Dress"
 date: 2026-04-27
 draft: false
 categories: ["Skirts"]
 tags: ["floral-print", "puff-sleeve", "cotton-dress", "fit-and-flare", "vintage"]
+keywords: ["floral-print", "puff-sleeve", "cotton-dress", "fit-and-flare", "vintage"]
 image: "/images/products/floral-dress-1.webp"
 description: "Wholesale floral print puff sleeve dress in 100% cotton. Fit and flare silhouette, vintage-inspired, perfect for resort wear boutiques."
 summary: "碎花泡泡袖连衣裙，全棉活性印花，修身A字，复古田园风。"
@@ -28,3 +29,7 @@ A charming dress for sun-filled days. Made from super fine, soft 100% cotton wit
 **Sizes:** S, M, L
 
 **Sourcing Note:** 100% cotton with reactive print, puff sleeves, fit and flare silhouette.
+
+---
+
+**[View all Skirts →](/categories/skirts/)**

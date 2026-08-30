@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Silk Vest Old Money Style Cool Drape | Crackle Texture"
+title: "Wholesale Silk Vest Old Money Style Cool Drape Fabric"
 date: 2026-06-19
 draft: false
 categories: ["Tops"]
 tags: ["silk", "vest", "old", "money", "style", "women", "crackle", "texture", "wholesale"]
+keywords: ["silk", "vest", "old", "money", "style", "women", "crackle", "texture", "wholesale"]
 image: "/images/products/vintage-silk-vest-1.webp"
 description: "This exquisite sleeveless vest is crafted from premium silk gambiered Canton gauze, a traditional fabric celebrated for its unique crackle texture and"
 summary: "This exquisite sleeveless vest is crafted from premium silk gambiered Canton gau..."
@@ -31,3 +32,7 @@ Color: Black
 Sizes: S, M, L
 
 Sourcing Note: This style runs true to size with a relaxed fit. For a more tailored look, consider sizing down. Pair with our high-waisted linen trousers or silk slip skirts for a complete coordinated look. Refer to our silk care guide for fabric maintenance.
+
+---
+
+**[View all Tops →](/categories/tops/)**

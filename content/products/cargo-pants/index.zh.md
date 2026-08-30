@@ -4,6 +4,7 @@ date: 2026-03-26
 draft: false
 categories: ["Bottoms"]
 tags: ["drawstring", "streetwear"]
+keywords: ["drawstring", "streetwear"]
 image: "/images/products/cargo-pants-1.webp"
 summary: "功能性面料，挺括透气、显瘦不软塌。双侧拉链口袋 + 腰脚抽绳，可调节版型。修饰腿型、遮肉显瘦，街头休闲百搭，外贸批发爆款。..."
 description: "功能性面料，挺括透气、显瘦不软塌。双侧拉链口袋 + 腰脚抽绳，可调节版型。修饰腿型、遮肉显瘦，街头休闲百搭，外贸批发爆款。"
@@ -30,3 +31,7 @@ description: "功能性面料，挺括透气、显瘦不软塌。双侧拉链口
 **尺码：** S / M / L
 
 **采购提示：** 畅销基础色，支持小批量混批。
+
+---
+
+**[查看全部Bottoms →](/zh/categories/bottoms/)**

@@ -4,6 +4,7 @@ date: 2026-08-08
 draft: false
 categories: ["Tops"]
 tags: ["silk", "blouse", "wholesale", "crepe", "texture", "mulberry", "embossed", "fabric", "breathable", "summer", "top", "boutique", "sourcing", "minimalist", "womenswear"]
+keywords: ["silk", "blouse", "wholesale", "crepe", "texture", "mulberry", "embossed", "fabric", "breathable", "summer", "top", "boutique", "sourcing", "minimalist", "womenswear"]
 image: "/images/products/crepe-silk-textured-blouse-1.webp"
 description: "小禾鬼绉真丝肌理感上衣，面料质感超级棒！表面是浮雕效果，材质100%真丝，轻盈飘逸透气！夏天穿太凉快了"
 summary: "小禾鬼绉真丝肌理感上衣，面料质感超级棒！表面是浮雕效果，材质100%真丝，轻盈飘逸透气！夏天穿太凉快了"
@@ -27,3 +28,7 @@ summary: "小禾鬼绉真丝肌理感上衣，面料质感超级棒！表面是�
 
 **尺码**
 M L XL
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

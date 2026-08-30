@@ -4,6 +4,7 @@ date: 2026-04-08
 draft: false
 categories: ["Sets"]
 tags: ["embroidered"]
+keywords: ["embroidered"]
 image: "/images/products/embroidered-knit-set-1.webp"
 description: "采用高支全棉针织布，上身舒适亲肤。短款上衣搭配高腰宽腿直筒裤，裤脚抽绳可调节，视觉上显高显瘦。左胸字母刺绣点缀。粉色甜美，浅蓝清爽，藏青气质。"
 summary: "采用高支全棉针织布，上身舒适亲肤。短款上衣搭配高腰宽腿直筒裤，裤脚抽绳可调节，视觉上显高显瘦。左胸字母刺绣点缀。粉色甜美，浅蓝清爽，藏青气质。..."
@@ -28,3 +29,7 @@ summary: "采用高支全棉针织布，上身舒适亲肤。短款上衣搭配�
 **尺码：** S, M, L
 
 **采购提示：** 成套销售，附加值高。可接受小批量定制刺绣。
+
+---
+
+**[查看全部Sets →](/zh/categories/sets/)**

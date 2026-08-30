@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Silk Duster Jacket Textured Weave | Adjustable Drawstring Lightweight Layer"
+title: "Wholesale Silk Duster Jacket Textured Weave Drawstring"
 date: 2026-08-09
 draft: false
 categories: ["Jackets"]
 tags: ["silk", "duster", "jacket", "wholesale", "textured", "embossed", "print", "lightweight", "layer", "adjustable", "drawstring", "boutique", "womenswear", "spring", "summer"]
+keywords: ["silk", "duster", "jacket", "wholesale", "textured", "embossed", "print", "lightweight", "layer", "adjustable", "drawstring", "boutique", "womenswear", "spring", "summer"]
 image: "/images/products/silk-duster-jacket-textured-weave-1.webp"
 description: "This garment is crafted from a textured silk fabric featuring a dimensional, embossed surface effect. The subtle tonal print creates an understated, v"
 summary: "This garment is crafted from a textured silk fabric featuring a dimensional, emb..."
@@ -35,3 +36,7 @@ S (Length 52cm, Bust 116cm) / M (Length 53cm, Bust 120cm) / L (Length 54cm, Bust
 
 **Sourcing Note**
 This style runs with a generous, relaxed fit through the body; buyers may consider standard size runs for a layered look or size down for a closer fit. The embossed silk texture benefits from gentle hand washing or dry cleaning to preserve the dimensional surface. Consider merchandising this piece over simple knit tops or slip dresses to highlight its sheer, textured quality and drawstring detail.
+
+---
+
+**[View all Jackets →](/categories/jackets/)**

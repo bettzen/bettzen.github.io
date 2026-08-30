@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Woven Raffia Bag with Leather Trim Small Size | Custom Hardware Boutique Accessory"
+title: "Wholesale Woven Raffia Bag Leather Trim Small Size"
 date: 2026-08-29T00:55:13+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "woven", "raffia", "bag", "wholesale", "leather", "trim", "custom", "hardware", "small", "boutique", "accessory", "summer", "resort", "style"]
+keywords: ["fashion", "woven", "raffia", "bag", "wholesale", "leather", "trim", "custom", "hardware", "small", "boutique", "accessory", "summer", "resort", "style"]
 image: "/images/products/woven-raffia-bag-with-leather-trim-small-size-1.webp"
 description: "This woven bag combines genuine cowhide leather with water-resistant raffia, featuring a cross-grain printed pattern on the leather trim for a refined"
 summary: "This woven bag combines genuine cowhide leather with water-resistant raffia, fea..."
@@ -35,3 +36,7 @@ This small-sized bag is designed for visual impact; consider ordering a range of
 
 **Tags**
 woven raffia bag wholesale leather trim bag custom hardware small bag boutique accessory summer bag resort style water-resistant raffia womens accessory sourcing
+
+---
+
+**[View all Tops →](/categories/tops/)**

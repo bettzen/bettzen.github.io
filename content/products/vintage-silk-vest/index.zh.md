@@ -4,6 +4,7 @@ date: 2026-06-19
 draft: false
 categories: ["Tops"]
 tags: ["silk", "vest", "old", "money", "style", "women", "crackle", "texture", "wholesale"]
+keywords: ["silk", "vest", "old", "money", "style", "women", "crackle", "texture", "wholesale"]
 image: "/images/products/vintage-silk-vest-1.webp"
 description: "香云纱老钱风宽松马甲 | 龟裂质感"
 summary: "香云纱老钱风宽松马甲 | 龟裂质感..."
@@ -31,3 +32,7 @@ summary: "香云纱老钱风宽松马甲 | 龟裂质感..."
 采购提示： 版型宽松，可按正常尺码选购；如需修身效果可考虑选小一码。建议搭配高腰阔腿裤或真丝半裙，打造完整造型。更多面料保养指南请参考链接。
 
 标签： silk vest old money style women vest crackle texture wholesale
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

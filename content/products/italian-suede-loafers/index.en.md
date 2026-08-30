@@ -1,9 +1,10 @@
 ---
-title: "Premium Loafers Wholesale Italian Suede Driving Shoes Rubber Pebble Sole"
+title: "Wholesale Italian Suede Driving Loafers Pebble Sole"
 date: 2026-05-07
 draft: false
 categories: ["Shoes"]
 tags: ["loafers", "italian-suede", "driving-shoes", "rubber-sole", "handcrafted"]
+keywords: ["loafers", "italian-suede", "driving-shoes", "rubber-sole", "handcrafted"]
 image: "/images/products/italian-suede-loafers-1.webp"
 description: "Wholesale premium Italian suede driving loafers with rubber pebble sole. Handcrafted, breathable, and durable for high-end boutiques. Wholesale price: ¥395."
 summary: "意大利进口羊反绒渔夫鞋，豆豆橡胶底，手工质感，批发价395元。"
@@ -28,3 +29,7 @@ Experience Italian craftsmanship. Uppers are made from buttery-soft, imported It
 **Sizes:** 35-40
 
 **Sourcing Note:** Imported Italian sheep suede upper, calfskin lining, natural rubber pebble sole, original mold construction. Wholesale price: ¥395.
+
+---
+
+**[View all Shoes →](/categories/shoes/)**

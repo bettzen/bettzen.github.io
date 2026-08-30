@@ -1,9 +1,10 @@
 ---
-title: "Platform Sandals Wholesale Double Strap Velcro Sandals Nubuck Leather"
+title: "Wholesale Double Strap Platform Sandals Nubuck Leather"
 date: 2026-05-07
 draft: false
 categories: ["Shoes"]
 tags: ["platform-sandals", "velcro", "nubuck", "height-increasing", "summer"]
+keywords: ["platform-sandals", "velcro", "nubuck", "height-increasing", "summer"]
 image: "/images/products/double-strap-sandals-1.webp"
 description: "Wholesale 5CM platform double strap velcro sandals in imported nubuck leather. Adjustable fit, height-increasing, summer bestseller for boutiques. Wholesale price: ¥350."
 summary: "增高厚底凉拖，魔术贴双带设计，进口牛磨砂皮，批发价350元。"
@@ -28,3 +29,7 @@ Get the perfect lift with these 5CM platform sandals. The minimalist double-stra
 **Sizes:** 35-41 (Note: Sizes 40 & 41 are made-to-order, non-returnable)
 
 **Sourcing Note:** Imported nubuck upper, sheepskin lining, 5CM platform sole, velcro adjustable straps. Wholesale price: ¥350.
+
+---
+
+**[View all Shoes →](/categories/shoes/)**

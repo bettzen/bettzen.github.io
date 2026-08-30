@@ -1,9 +1,10 @@
 ---
-title: "棒球帽 冰川蓝 黄标 LOGO帽 | 全棉洗水斜纹布 定制五金"
+title: "棒球帽 冰川蓝 黄标LOGO帽 全棉洗水斜纹布"
 date: 2026-08-28T12:07:41+08:00
 draft: false
 categories: ["Tops"]
 tags: ["fashion", "baseball", "cap", "wholesale", "cotton", "twill", "washed", "ice", "blue", "structured", "hat", "custom", "hardware", "womenswear", "accessory"]
+keywords: ["fashion", "baseball", "cap", "wholesale", "cotton", "twill", "washed", "ice", "blue", "structured", "hat", "custom", "hardware", "womenswear", "accessory"]
 image: "/images/products/baseball-cap-ice-blue-contrast-logo-1.webp"
 description: "本款棒球帽采用冰川蓝色调，搭配对比鲜明的黄色标志，呈现简洁现代的外观。帽身选用全棉斜纹布，经洗水工艺处理，手感柔软同时保持挺括有型的轮廓。帽款采用定制开发的金属五金件，确保耐用性与精致细节。面料具备良好的透气性，适合长时间佩戴；预弯帽檐与可调节闭合设计，提供舒适的个性化佩戴体验。整体呈现以材质与工艺"
 summary: "本款棒球帽采用冰川蓝色调，搭配对比鲜明的黄色标志，呈现简洁现代的外观。帽身选用全棉斜纹布，经洗水工艺处理，手感柔软同时保持挺括有型的轮廓。帽款采用定制开发的金属..."
@@ -38,3 +39,7 @@ summary: "本款棒球帽采用冰川蓝色调，搭配对比鲜明的黄色标�
 
 **标签**
 棒球帽 批发 冰川蓝 全棉斜纹布 洗水工艺 定制五金 基础配饰 跑量款
+
+---
+
+**[查看全部Tops →](/zh/categories/tops/)**

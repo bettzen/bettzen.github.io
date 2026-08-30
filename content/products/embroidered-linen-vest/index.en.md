@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Women's Vests 3D Embroidered Linen Vest Boho Chic Topper"
+title: "Wholesale 3D Embroidered Linen Vest Boho Chic Topper"
 date: 2026-04-21
 draft: false
 categories: ["Tops"]
 tags: ["vest", "linen", "embroidered", "boho", "wooden-buttons"]
+keywords: ["vest", "linen", "embroidered", "boho", "wooden-buttons"]
 image: "/images/products/embroidered-linen-vest-1.webp"
 description: "Wholesale 3D embroidered linen blend vest with wooden bead buttons. Boho chic layering piece."
 summary: "立体盘花亚麻马甲，木质纽扣手工串珠，波西米亚风。"
@@ -28,3 +29,7 @@ A standout layering piece. Constructed from a textured linen blend fabric for st
 **Sizes:** S, M, L
 
 **Sourcing Note:** Linen blend fabric, 3D floral embroidery, wooden bead buttons.
+
+---
+
+**[View all Tops →](/categories/tops/)**

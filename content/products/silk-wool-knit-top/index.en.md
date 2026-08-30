@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Knitwear Silk Wool Blend Button-Down Top Fitted Base Layer"
+title: "Wholesale Silk Wool Blend Button-Down Knit Top Fitted"
 date: 2026-04-21
 draft: false
 categories: ["Tops"]
 tags: ["silk-wool", "knit", "button-down", "fitted", "luxury-basic"]
+keywords: ["silk-wool", "knit", "button-down", "fitted", "luxury-basic"]
 image: "/images/products/silk-wool-knit-top-1.webp"
 description: "Wholesale silk wool blend button-down knit top. Fitted base layer with stretch and luxury feel."
 summary: "丝毛混纺扣子针织衫，修身弹力，奢华基础款。"
@@ -28,3 +29,7 @@ Luxury meets versatility. This top is knitted from a supremely soft silk and woo
 **Sizes:** 36, 38, 40
 
 **Sourcing Note:** Silk-wool blend knit, soft with stretch, button-front detail.
+
+---
+
+**[View all Tops →](/categories/tops/)**

@@ -1,9 +1,10 @@
 ---
-title: "Wholesale Linen Shirt Embroidered Pony Short Sleeve | Natural Breathable Summer Top"
+title: "Wholesale Linen Shirt Embroidered Pony Short Sleeve"
 date: 2026-08-27
 draft: false
 categories: ["Tops"]
 tags: ["linen", "shirt", "wholesale", "embroidered", "pony", "top", "natural", "fabric", "summer", "boutique", "womenswear", "shell", "buttons", "breathable"]
+keywords: ["linen", "shirt", "wholesale", "embroidered", "pony", "top", "natural", "fabric", "summer", "boutique", "womenswear", "shell", "buttons", "breathable"]
 image: "/images/products/linen-shirt-embroidered-pony-short-sleeve-1.webp"
 description: "This garment features a relaxed short-sleeve silhouette crafted from 100% natural linen, offering superior breathability and moisture-wicking properti"
 summary: "This garment features a relaxed short-sleeve silhouette crafted from 100% natura..."
@@ -38,3 +39,7 @@ This style runs true to size with a relaxed fit; we recommend selecting the regu
 
 **Tags**
 linen shirt wholesale embroidered pony top natural fabric summer top boutique womenswear shell buttons breathable
+
+---
+
+**[View all Tops →](/categories/tops/)**

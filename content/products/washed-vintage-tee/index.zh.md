@@ -4,6 +4,7 @@ date: 2026-04-03
 draft: false
 categories: ["T-shirts"]
 tags: ["fashion"]
+keywords: ["fashion"]
 image: "/images/products/washed-vintage-tee-1.webp"
 description: "全棉针织面料，经成衣洗水，手感柔软亲肤、做旧质感强。宽松合身版型，简约印花百搭耐看，门店常备款。"
 summary: "全棉针织面料，经成衣洗水，手感柔软亲肤、做旧质感强。宽松合身版型，简约印花百搭耐看，门店常备款。..."
@@ -28,3 +29,7 @@ summary: "全棉针织面料，经成衣洗水，手感柔软亲肤、做旧质�
 **尺码：** S, M, L
 
 **采购提示：** 高品质基础款，复购率高，适合批量备货。
+
+---
+
+**[查看全部T-shirts →](/zh/categories/t-shirts/)**

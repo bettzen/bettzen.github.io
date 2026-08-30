@@ -4,6 +4,7 @@ date: 2026-04-21
 draft: false
 categories: ["Skirts"]
 tags: ["ramie", "ethnic-print", "drawstring", "boho", "resort-wear"]
+keywords: ["ramie", "ethnic-print", "drawstring", "boho", "resort-wear"]
 image: "/images/products/ramie-skirt-1.webp"
 description: "超美民族风印花苎麻面料，质感细腻飘逸，清爽透气。腰部内置松紧带+抽绳，穿着舒适。强烈推荐与马甲(26040803)成套搭配。"
 summary: "超美民族风印花苎麻面料，质感细腻飘逸，清爽透气。腰部内置松紧带+抽绳，穿着舒适。强烈推荐与马甲(26040803)成套搭配。..."
@@ -29,3 +30,7 @@ summary: "超美民族风印花苎麻面料，质感细腻飘逸，清爽透气�
 **尺码：** S, M, L
 
 **采购提示：** 轻薄印花苎麻，腰部抽绳设计，飘逸裙摆。
+
+---
+
+**[查看全部Skirts →](/zh/categories/skirts/)**
