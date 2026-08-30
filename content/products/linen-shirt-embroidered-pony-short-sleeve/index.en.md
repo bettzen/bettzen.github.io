@@ -13,10 +13,10 @@ summary: "This garment features a relaxed short-sleeve silhouette crafted from 1
 **Item No.: 26080604**
 
 <div class="product-images">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-1.webp">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-2.webp">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-3.webp">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-4.webp">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-1.webp" alt="Linen Shirt Embroidered Pony Short Sleeve Main">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-2.webp" alt="Linen Shirt Embroidered Pony Short Sleeve Detail 1">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-3.webp" alt="Linen Shirt Embroidered Pony Short Sleeve Detail 2">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-4.webp" alt="Linen Shirt Embroidered Pony Short Sleeve Detail 3">
 </div>
 
 Item No.: 26080604

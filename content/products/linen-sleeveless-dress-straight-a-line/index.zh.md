@@ -13,10 +13,10 @@ summary: "小禾无袖亚麻连衣裙，圆领无袖设计，半门襟暗扣，�
 产品编号：26072103
 
 <div class="product-images">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-1.webp">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-2.webp">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-3.webp">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-4.webp">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-1.webp" alt="小禾无袖亚麻连衣裙 主图">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-2.webp" alt="小禾无袖亚麻连衣裙 细节图1">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-3.webp" alt="小禾无袖亚麻连衣裙 细节图2">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-4.webp" alt="小禾无袖亚麻连衣裙 细节图3">
 </div>
 
 **描述**

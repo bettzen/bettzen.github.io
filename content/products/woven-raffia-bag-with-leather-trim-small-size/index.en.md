@@ -12,10 +12,10 @@ summary: "This woven bag combines genuine cowhide leather with water-resistant r
 **Item No.: 26071601**
 
 <div class="product-images">
-  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-1.webp">
-  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-2.jpg">
-  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-3.webp">
-  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-4.webp">
+  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-1.webp" alt="Woven Raffia Bag With Leather Trim Small Size Main">
+  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-2.jpg" alt="Woven Raffia Bag With Leather Trim Small Size Detail 1">
+  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-3.webp" alt="Woven Raffia Bag With Leather Trim Small Size Detail 2">
+  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-4.webp" alt="Woven Raffia Bag With Leather Trim Small Size Detail 3">
 </div>
 
 **Description**

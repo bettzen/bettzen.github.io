@@ -13,10 +13,10 @@ summary: "小禾鬼绉真丝肌理感上衣，面料质感超级棒！表面是�
 产品编号：26072101
 
 <div class="product-images">
-  <img src="/images/products/crepe-silk-textured-blouse-1.webp">
-  <img src="/images/products/crepe-silk-textured-blouse-2.webp">
-  <img src="/images/products/crepe-silk-textured-blouse-3.webp">
-  <img src="/images/products/crepe-silk-textured-blouse-4.webp">
+  <img src="/images/products/crepe-silk-textured-blouse-1.webp" alt="小禾鬼绉真丝肌理感上衣 主图">
+  <img src="/images/products/crepe-silk-textured-blouse-2.webp" alt="小禾鬼绉真丝肌理感上衣 细节图1">
+  <img src="/images/products/crepe-silk-textured-blouse-3.webp" alt="小禾鬼绉真丝肌理感上衣 细节图2">
+  <img src="/images/products/crepe-silk-textured-blouse-4.webp" alt="小禾鬼绉真丝肌理感上衣 细节图3">
 </div>
 
 **描述**

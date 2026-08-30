@@ -14,10 +14,10 @@ summary: "本款棒球帽采用冰川蓝色调，搭配对比鲜明的黄色标�
 
 
 <div class="product-images">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-1.webp">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-2.webp">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-3.webp">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-4.webp">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-1.webp" alt="棒球帽 冰川蓝 黄标 LOGO帽 主图">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-2.webp" alt="棒球帽 冰川蓝 黄标 LOGO帽 细节图1">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-3.webp" alt="棒球帽 冰川蓝 黄标 LOGO帽 细节图2">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-4.webp" alt="棒球帽 冰川蓝 黄标 LOGO帽 细节图3">
 </div>
 
 

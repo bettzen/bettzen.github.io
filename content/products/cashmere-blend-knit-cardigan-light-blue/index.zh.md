@@ -14,10 +14,10 @@ summary: "本款开衫采用巴素兰羊毛纱线织造，触感细腻软糯，�
 
 
 <div class="product-images">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-1.webp">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-2.webp">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-3.webp">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-4.webp">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-1.webp" alt="浅蓝色针织开衫 巴素兰羊毛 细腻软糯 主图">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-2.webp" alt="浅蓝色针织开衫 巴素兰羊毛 细腻软糯 细节图1">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-3.webp" alt="浅蓝色针织开衫 巴素兰羊毛 细腻软糯 细节图2">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-4.webp" alt="浅蓝色针织开衫 巴素兰羊毛 细腻软糯 细节图3">
 </div>
 
 

@@ -14,10 +14,10 @@ summary: "本款上衣采用天然苎麻面料，具备出色的透气性，质�
 
 
 <div class="product-images">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-1.webp">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-2.webp">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-3.webp">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-4.webp">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-1.webp" alt="刺绣麻上衣 民族风 主图">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-2.webp" alt="刺绣麻上衣 民族风 细节图1">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-3.webp" alt="刺绣麻上衣 民族风 细节图2">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-4.webp" alt="刺绣麻上衣 民族风 细节图3">
 </div>
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Wholesale Women‘s Cargo Pants | Dual-Zipper & Drawstring Slim Fit"
+description: "Cargo pants redefined with a contemporary, slimming fit. Made from a structured yet breathable functional fabric that holds its shape. Features"
 date: 2026-03-26
 draft: false
 categories: ["Bottoms"]

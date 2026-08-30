@@ -13,10 +13,10 @@ summary: "This lightweight knit cardigan is crafted from baselaine wool yarn, of
 **Item No.: 26080602**
 
 <div class="product-images">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-1.webp">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-2.webp">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-3.webp">
-  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-4.webp">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-1.webp" alt="Cashmere Blend Knit Cardigan Light Blue Main">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-2.webp" alt="Cashmere Blend Knit Cardigan Light Blue Detail 1">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-3.webp" alt="Cashmere Blend Knit Cardigan Light Blue Detail 2">
+  <img src="/images/products/cashmere-blend-knit-cardigan-light-blue-4.webp" alt="Cashmere Blend Knit Cardigan Light Blue Detail 3">
 </div>
 
 Item No.: 26080602

@@ -1,5 +1,6 @@
 ---
 title: "Wholesale Women‘s Linen Viscose Set | Waistcoat & Wide Leg Pants"
+description: "A versatile set that transitions seamlessly from office to casual wear. Made from a custom linen-viscose blend, garment-washed for a soft, drapey,"
 date: 2026-03-26
 draft: false
 categories: ["Tops"]

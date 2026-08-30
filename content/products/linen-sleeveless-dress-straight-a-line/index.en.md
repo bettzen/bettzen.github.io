@@ -13,10 +13,10 @@ summary: "This garment features a sleeveless, round-neck silhouette cut from 100
 **Item No.: 26072103**
 
 <div class="product-images">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-1.webp">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-2.webp">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-3.webp">
-  <img src="/images/products/linen-sleeveless-dress-straight-a-line-4.webp">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-1.webp" alt="Linen Sleeveless Dress Straight A Line Main">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-2.webp" alt="Linen Sleeveless Dress Straight A Line Detail 1">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-3.webp" alt="Linen Sleeveless Dress Straight A Line Detail 2">
+  <img src="/images/products/linen-sleeveless-dress-straight-a-line-4.webp" alt="Linen Sleeveless Dress Straight A Line Detail 3">
 </div>
 
 Item No.: 26072103

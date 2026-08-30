@@ -13,10 +13,10 @@ summary: "EP雅莹真丝薄外套，可以当防晒衣，面料是肌理感真�
 产品编号：26072106
 
 <div class="product-images">
-  <img src="/images/products/silk-duster-jacket-textured-weave-1.webp">
-  <img src="/images/products/silk-duster-jacket-textured-weave-2.webp">
-  <img src="/images/products/silk-duster-jacket-textured-weave-3.webp">
-  <img src="/images/products/silk-duster-jacket-textured-weave-4.webp">
+  <img src="/images/products/silk-duster-jacket-textured-weave-1.webp" alt="EP雅莹真丝薄外套 主图">
+  <img src="/images/products/silk-duster-jacket-textured-weave-2.webp" alt="EP雅莹真丝薄外套 细节图1">
+  <img src="/images/products/silk-duster-jacket-textured-weave-3.webp" alt="EP雅莹真丝薄外套 细节图2">
+  <img src="/images/products/silk-duster-jacket-textured-weave-4.webp" alt="EP雅莹真丝薄外套 细节图3">
 </div>
 
 **描述**

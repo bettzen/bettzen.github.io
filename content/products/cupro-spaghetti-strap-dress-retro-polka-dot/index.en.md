@@ -13,10 +13,10 @@ summary: "This garment features a cupro-blend fabric that delivers a smooth, sil
 **Item No.: 26080601**
 
 <div class="product-images">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-1.webp">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-2.webp">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-3.webp">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-4.webp">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-1.webp" alt="Cupro Spaghetti Strap Dress Retro Polka Dot Main">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-2.webp" alt="Cupro Spaghetti Strap Dress Retro Polka Dot Detail 1">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-3.webp" alt="Cupro Spaghetti Strap Dress Retro Polka Dot Detail 2">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-4.webp" alt="Cupro Spaghetti Strap Dress Retro Polka Dot Detail 3">
 </div>
 
 Item No.: 26080601

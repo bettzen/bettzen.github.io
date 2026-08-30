@@ -13,10 +13,10 @@ summary: "MAX*绑带亚麻连衣裙，简约显瘦的款式，搭配腰带更加
 产品编号：26072102
 
 <div class="product-images">
-  <img src="/images/products/linen-dress-adjustable-belt-1.webp">
-  <img src="/images/products/linen-dress-adjustable-belt-2.webp">
-  <img src="/images/products/linen-dress-adjustable-belt-3.webp">
-  <img src="/images/products/linen-dress-adjustable-belt-4.webp">
+  <img src="/images/products/linen-dress-adjustable-belt-1.webp" alt="MAX*绑带亚麻连衣裙 主图">
+  <img src="/images/products/linen-dress-adjustable-belt-2.webp" alt="MAX*绑带亚麻连衣裙 细节图1">
+  <img src="/images/products/linen-dress-adjustable-belt-3.webp" alt="MAX*绑带亚麻连衣裙 细节图2">
+  <img src="/images/products/linen-dress-adjustable-belt-4.webp" alt="MAX*绑带亚麻连衣裙 细节图3">
 </div>
 
 **描述**

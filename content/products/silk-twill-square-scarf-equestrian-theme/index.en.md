@@ -13,10 +13,10 @@ summary: "This garment features 100% double-sided mulberry silk twill, offering 
 **Item No.: 26061805**
 
 <div class="product-images">
-  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-1.webp">
-  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-2.webp">
-  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-3.webp">
-  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-4.webp">
+  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-1.webp" alt="Silk Twill Square Scarf Equestrian Theme Main">
+  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-2.webp" alt="Silk Twill Square Scarf Equestrian Theme Detail 1">
+  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-3.webp" alt="Silk Twill Square Scarf Equestrian Theme Detail 2">
+  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-4.webp" alt="Silk Twill Square Scarf Equestrian Theme Detail 3">
 </div>
 
 Item No.: 26061805

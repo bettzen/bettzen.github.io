@@ -13,10 +13,10 @@ summary: "This garment features a minimalist silhouette crafted from 100% natura
 **Item No.: 26072102**
 
 <div class="product-images">
-  <img src="/images/products/linen-dress-adjustable-belt-1.webp">
-  <img src="/images/products/linen-dress-adjustable-belt-2.webp">
-  <img src="/images/products/linen-dress-adjustable-belt-3.webp">
-  <img src="/images/products/linen-dress-adjustable-belt-4.webp">
+  <img src="/images/products/linen-dress-adjustable-belt-1.webp" alt="Linen Dress Adjustable Belt Main">
+  <img src="/images/products/linen-dress-adjustable-belt-2.webp" alt="Linen Dress Adjustable Belt Detail 1">
+  <img src="/images/products/linen-dress-adjustable-belt-3.webp" alt="Linen Dress Adjustable Belt Detail 2">
+  <img src="/images/products/linen-dress-adjustable-belt-4.webp" alt="Linen Dress Adjustable Belt Detail 3">
 </div>
 
 Item No.: 26072102

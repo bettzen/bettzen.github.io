@@ -14,10 +14,10 @@ summary: "本款背心针织衫采用巴素兰羊毛纱线，触感细腻软糯�
 
 
 <div class="product-images">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-1.webp">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-2.webp">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-3.webp">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-4.webp">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-1.webp" alt="巴素兰羊毛背心针织衫 主图">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-2.webp" alt="巴素兰羊毛背心针织衫 细节图1">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-3.webp" alt="巴素兰羊毛背心针织衫 细节图2">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-4.webp" alt="巴素兰羊毛背心针织衫 细节图3">
 </div>
 
 

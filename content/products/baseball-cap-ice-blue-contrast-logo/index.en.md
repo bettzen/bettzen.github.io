@@ -13,10 +13,10 @@ summary: "This baseball cap features a solid ice blue construction with a contra
 **Item No.: 26080301**
 
 <div class="product-images">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-1.webp">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-2.webp">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-3.webp">
-  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-4.webp">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-1.webp" alt="Baseball Cap Ice Blue Contrast Logo Main">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-2.webp" alt="Baseball Cap Ice Blue Contrast Logo Detail 1">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-3.webp" alt="Baseball Cap Ice Blue Contrast Logo Detail 2">
+  <img src="/images/products/baseball-cap-ice-blue-contrast-logo-4.webp" alt="Baseball Cap Ice Blue Contrast Logo Detail 3">
 </div>
 
 Item No.: 26080301

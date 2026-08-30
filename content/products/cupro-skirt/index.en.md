@@ -1,5 +1,6 @@
 ---
 title: "Wholesale Designer Skirt | 3D Embossed Cupro with Metallic Sheen"
+description: "A statement piece defined by luxury and craftsmanship. Crafted from premium cupro fabric that boasts a subtle metallic sheen and fluid drape. The"
 date: 2026-03-26
 draft: false
 categories: ["Skirts"]

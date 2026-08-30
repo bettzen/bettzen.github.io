@@ -13,10 +13,10 @@ summary: "This blouse is crafted from 100% mulberry silk with a crepe texture, f
 **Item No.: 26072101**
 
 <div class="product-images">
-  <img src="/images/products/crepe-silk-textured-blouse-1.webp">
-  <img src="/images/products/crepe-silk-textured-blouse-2.webp">
-  <img src="/images/products/crepe-silk-textured-blouse-3.webp">
-  <img src="/images/products/crepe-silk-textured-blouse-4.webp">
+  <img src="/images/products/crepe-silk-textured-blouse-1.webp" alt="Crepe Silk Textured Blouse Main">
+  <img src="/images/products/crepe-silk-textured-blouse-2.webp" alt="Crepe Silk Textured Blouse Detail 1">
+  <img src="/images/products/crepe-silk-textured-blouse-3.webp" alt="Crepe Silk Textured Blouse Detail 2">
+  <img src="/images/products/crepe-silk-textured-blouse-4.webp" alt="Crepe Silk Textured Blouse Detail 3">
 </div>
 
 Item No.: 26072101

@@ -14,10 +14,10 @@ summary: "本款编织包采用拉菲纸材质打造，自重极轻，同时保�
 
 
 <div class="product-images">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-1.webp">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-2.webp">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-3.webp">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-4.webp">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-1.webp" alt="拉菲纸编织包 挺括有型 主图">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-2.webp" alt="拉菲纸编织包 挺括有型 细节图1">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-3.webp" alt="拉菲纸编织包 挺括有型 细节图2">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-4.webp" alt="拉菲纸编织包 挺括有型 细节图3">
 </div>
 
 

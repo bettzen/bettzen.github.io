@@ -1,0 +1,7 @@
+{{- /* hreflang 多语言声明：互指对应语言版本 */ -}}
+{{- if .IsTranslated -}}
+  {{- range .Translations -}}
+    <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+  {{- end -}}
+  <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+{{- end -}}

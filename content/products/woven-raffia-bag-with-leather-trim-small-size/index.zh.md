@@ -12,10 +12,10 @@ summary: "本款包袋采用牛皮与防水拉菲草拼接，皮革部分运用�
 **产品编号：26071601**
 
 <div class="product-images">
-  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-1.webp">
-  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-2.jpg">
-  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-3.webp">
-  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-4.webp">
+  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-1.webp" alt="Wholesale Woven Raffia Bag with Leather Trim Small Size 主图">
+  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-2.jpg" alt="Wholesale Woven Raffia Bag with Leather Trim Small Size 细节图1">
+  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-3.webp" alt="Wholesale Woven Raffia Bag with Leather Trim Small Size 细节图2">
+  <img src="/images/products/woven-raffia-bag-with-leather-trim-small-size-4.webp" alt="Wholesale Woven Raffia Bag with Leather Trim Small Size 细节图3">
 </div>
 
 编织拉菲草拼皮小号包 | 定制五金 精致出片

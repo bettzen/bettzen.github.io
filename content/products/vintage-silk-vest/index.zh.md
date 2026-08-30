@@ -14,10 +14,10 @@ summary: "香云纱老钱风宽松马甲 | 龟裂质感..."
 
 
 <div class="product-images">
-  <img src="/images/products/vintage-silk-vest-1.webp">
-  <img src="/images/products/vintage-silk-vest-2.webp">
-  <img src="/images/products/vintage-silk-vest-3.webp">
-  <img src="/images/products/vintage-silk-vest-4.webp">
+  <img src="/images/products/vintage-silk-vest-1.webp" alt="香云纱老钱风宽松马甲 主图">
+  <img src="/images/products/vintage-silk-vest-2.webp" alt="香云纱老钱风宽松马甲 细节图1">
+  <img src="/images/products/vintage-silk-vest-3.webp" alt="香云纱老钱风宽松马甲 细节图2">
+  <img src="/images/products/vintage-silk-vest-4.webp" alt="香云纱老钱风宽松马甲 细节图3">
 </div>
 
 

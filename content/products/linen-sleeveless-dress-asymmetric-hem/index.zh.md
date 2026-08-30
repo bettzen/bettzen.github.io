@@ -14,10 +14,10 @@ summary: "本款连衣裙采用100%天然亚麻面料，质地轻薄透气，表
 
 
 <div class="product-images">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-1.webp">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-2.webp">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-3.webp">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-4.webp">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-1.webp" alt="亚麻无袖连衣裙 不规则下摆 主图">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-2.webp" alt="亚麻无袖连衣裙 不规则下摆 细节图1">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-3.webp" alt="亚麻无袖连衣裙 不规则下摆 细节图2">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-4.webp" alt="亚麻无袖连衣裙 不规则下摆 细节图3">
 </div>
 
 

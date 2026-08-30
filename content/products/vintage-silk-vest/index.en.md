@@ -13,10 +13,10 @@ summary: "This exquisite sleeveless vest is crafted from premium silk gambiered 
 **Item No.: 26061801**
 
 <div class="product-images">
-  <img src="/images/products/vintage-silk-vest-1.webp">
-  <img src="/images/products/vintage-silk-vest-2.webp">
-  <img src="/images/products/vintage-silk-vest-3.webp">
-  <img src="/images/products/vintage-silk-vest-4.webp">
+  <img src="/images/products/vintage-silk-vest-1.webp" alt="Vintage Silk Vest Main">
+  <img src="/images/products/vintage-silk-vest-2.webp" alt="Vintage Silk Vest Detail 1">
+  <img src="/images/products/vintage-silk-vest-3.webp" alt="Vintage Silk Vest Detail 2">
+  <img src="/images/products/vintage-silk-vest-4.webp" alt="Vintage Silk Vest Detail 3">
 </div>
 
 Item No.: 26061801

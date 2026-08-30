@@ -17,20 +17,6 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/</loc>
-    <lastmod>2026-08-29T00:55:13+08:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/"
-    />
-  </url>
-  <url>
     <loc>https://bettzen.com/zh/products/</loc>
     <lastmod>2026-08-29T00:55:13+08:00</lastmod>
     <xhtml:link
@@ -42,6 +28,20 @@
       rel="alternate"
       hreflang="zh"
       href="https://bettzen.com/zh/products/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/</loc>
+    <lastmod>2026-08-29T00:55:13+08:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/"
     />
   </url>
   <url>
@@ -185,17 +185,17 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/linen-sleeveless-dress-minimalist-beige/</loc>
+    <loc>https://bettzen.com/zh/products/linen-sleeveless-dress-asymmetric-hem/</loc>
     <lastmod>2026-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/products/linen-sleeveless-dress-minimalist-beige/"
+      href="https://bettzen.com/products/linen-sleeveless-dress-asymmetric-hem/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/products/linen-sleeveless-dress-minimalist-beige/"
+      href="https://bettzen.com/zh/products/linen-sleeveless-dress-asymmetric-hem/"
     />
   </url>
   <url>
@@ -213,17 +213,17 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/linen-sleeveless-dress-asymmetric-hem/</loc>
+    <loc>https://bettzen.com/zh/products/linen-sleeveless-dress-minimalist-beige/</loc>
     <lastmod>2026-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/products/linen-sleeveless-dress-asymmetric-hem/"
+      href="https://bettzen.com/products/linen-sleeveless-dress-minimalist-beige/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/products/linen-sleeveless-dress-asymmetric-hem/"
+      href="https://bettzen.com/zh/products/linen-sleeveless-dress-minimalist-beige/"
     />
   </url>
   <url>
@@ -269,34 +269,6 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/navy-tencel-skirt/</loc>
-    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/navy-tencel-skirt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/navy-tencel-skirt/"
-    />
-  </url>
-  <url>
-    <loc>https://bettzen.com/zh/products/floral-embroidered-shirt/</loc>
-    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/floral-embroidered-shirt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/floral-embroidered-shirt/"
-    />
-  </url>
-  <url>
     <loc>https://bettzen.com/zh/products/vintage-graphic-tee/</loc>
     <lastmod>2026-05-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -325,6 +297,34 @@
     />
   </url>
   <url>
+    <loc>https://bettzen.com/zh/products/floral-embroidered-shirt/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/floral-embroidered-shirt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/floral-embroidered-shirt/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/products/navy-tencel-skirt/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/navy-tencel-skirt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/navy-tencel-skirt/"
+    />
+  </url>
+  <url>
     <loc>https://bettzen.com/zh/products/arch-logo-slides/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -339,20 +339,6 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/italian-suede-loafers/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/italian-suede-loafers/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/italian-suede-loafers/"
-    />
-  </url>
-  <url>
     <loc>https://bettzen.com/zh/products/double-strap-sandals/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -364,6 +350,20 @@
       rel="alternate"
       hreflang="zh"
       href="https://bettzen.com/zh/products/double-strap-sandals/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/products/italian-suede-loafers/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/italian-suede-loafers/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/italian-suede-loafers/"
     />
   </url>
   <url>
@@ -479,17 +479,17 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/polo-knit-top/</loc>
+    <loc>https://bettzen.com/zh/products/linen-overshirt/</loc>
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/products/polo-knit-top/"
+      href="https://bettzen.com/products/linen-overshirt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/products/polo-knit-top/"
+      href="https://bettzen.com/zh/products/linen-overshirt/"
     />
   </url>
   <url>
@@ -521,17 +521,17 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/linen-overshirt/</loc>
+    <loc>https://bettzen.com/zh/products/polo-knit-top/</loc>
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/products/linen-overshirt/"
+      href="https://bettzen.com/products/polo-knit-top/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/products/linen-overshirt/"
+      href="https://bettzen.com/zh/products/polo-knit-top/"
     />
   </url>
   <url>
@@ -549,31 +549,17 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/ramie-skirt/</loc>
+    <loc>https://bettzen.com/zh/products/silk-wool-knit-top/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/products/ramie-skirt/"
+      href="https://bettzen.com/products/silk-wool-knit-top/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/products/ramie-skirt/"
-    />
-  </url>
-  <url>
-    <loc>https://bettzen.com/zh/products/striped-magic-tee/</loc>
-    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/striped-magic-tee/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/striped-magic-tee/"
+      href="https://bettzen.com/zh/products/silk-wool-knit-top/"
     />
   </url>
   <url>
@@ -591,6 +577,34 @@
     />
   </url>
   <url>
+    <loc>https://bettzen.com/zh/products/striped-magic-tee/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/striped-magic-tee/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/striped-magic-tee/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/products/ramie-skirt/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/ramie-skirt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/ramie-skirt/"
+    />
+  </url>
+  <url>
     <loc>https://bettzen.com/zh/products/embroidered-linen-vest/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -605,20 +619,6 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/silk-wool-knit-top/</loc>
-    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/silk-wool-knit-top/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/silk-wool-knit-top/"
-    />
-  </url>
-  <url>
     <loc>https://bettzen.com/zh/products/wool-u-neck-tee/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -630,20 +630,6 @@
       rel="alternate"
       hreflang="zh"
       href="https://bettzen.com/zh/products/wool-u-neck-tee/"
-    />
-  </url>
-  <url>
-    <loc>https://bettzen.com/zh/products/ramie-print-shirt/</loc>
-    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/ramie-print-shirt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/ramie-print-shirt/"
     />
   </url>
   <url>
@@ -689,17 +675,31 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/vintage-letter-tee/</loc>
-    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <loc>https://bettzen.com/zh/products/ramie-print-shirt/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/products/vintage-letter-tee/"
+      href="https://bettzen.com/products/ramie-print-shirt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/products/vintage-letter-tee/"
+      href="https://bettzen.com/zh/products/ramie-print-shirt/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/products/embroidered-knit-set/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/embroidered-knit-set/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/embroidered-knit-set/"
     />
   </url>
   <url>
@@ -731,31 +731,17 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/embroidered-knit-set/</loc>
+    <loc>https://bettzen.com/zh/products/vintage-letter-tee/</loc>
     <lastmod>2026-04-08T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/products/embroidered-knit-set/"
+      href="https://bettzen.com/products/vintage-letter-tee/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/products/embroidered-knit-set/"
-    />
-  </url>
-  <url>
-    <loc>https://bettzen.com/zh/products/bohemian-linen-top/</loc>
-    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/bohemian-linen-top/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/bohemian-linen-top/"
+      href="https://bettzen.com/zh/products/vintage-letter-tee/"
     />
   </url>
   <url>
@@ -787,6 +773,20 @@
     />
   </url>
   <url>
+    <loc>https://bettzen.com/zh/products/bohemian-linen-top/</loc>
+    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/bohemian-linen-top/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/bohemian-linen-top/"
+    />
+  </url>
+  <url>
     <loc>https://bettzen.com/zh/products/cupro-drawstring-pants/</loc>
     <lastmod>2026-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -798,48 +798,6 @@
       rel="alternate"
       hreflang="zh"
       href="https://bettzen.com/zh/products/cupro-drawstring-pants/"
-    />
-  </url>
-  <url>
-    <loc>https://bettzen.com/zh/products/vintage-print-oversized-tee/</loc>
-    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/vintage-print-oversized-tee/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/vintage-print-oversized-tee/"
-    />
-  </url>
-  <url>
-    <loc>https://bettzen.com/zh/products/saturn-embroidered-hooded-shirt/</loc>
-    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/saturn-embroidered-hooded-shirt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/saturn-embroidered-hooded-shirt/"
-    />
-  </url>
-  <url>
-    <loc>https://bettzen.com/zh/products/crochet-knit-top/</loc>
-    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/crochet-knit-top/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/crochet-knit-top/"
     />
   </url>
   <url>
@@ -857,45 +815,59 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/heart-crop-shirt/</loc>
-    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <loc>https://bettzen.com/zh/products/saturn-embroidered-hooded-shirt/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/products/heart-crop-shirt/"
+      href="https://bettzen.com/products/saturn-embroidered-hooded-shirt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/products/heart-crop-shirt/"
+      href="https://bettzen.com/zh/products/saturn-embroidered-hooded-shirt/"
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/duck-print-tee/</loc>
-    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <loc>https://bettzen.com/zh/products/vintage-print-oversized-tee/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/products/duck-print-tee/"
+      href="https://bettzen.com/products/vintage-print-oversized-tee/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/products/duck-print-tee/"
+      href="https://bettzen.com/zh/products/vintage-print-oversized-tee/"
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/product-list/</loc>
-    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <loc>https://bettzen.com/zh/products/crochet-knit-top/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/product-list/"
+      href="https://bettzen.com/products/crochet-knit-top/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/product-list/"
+      href="https://bettzen.com/zh/products/crochet-knit-top/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/products/label-print-tee/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/label-print-tee/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/label-print-tee/"
     />
   </url>
   <url>
@@ -913,17 +885,73 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/label-print-tee/</loc>
+    <loc>https://bettzen.com/zh/product-list/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://bettzen.com/products/label-print-tee/"
+      href="https://bettzen.com/product-list/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://bettzen.com/zh/products/label-print-tee/"
+      href="https://bettzen.com/zh/product-list/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/products/duck-print-tee/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/duck-print-tee/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/duck-print-tee/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/products/heart-crop-shirt/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/heart-crop-shirt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/heart-crop-shirt/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/products/cupro-skirt/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/cupro-skirt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/cupro-skirt/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/products/cargo-pants/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/products/cargo-pants/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/products/cargo-pants/"
     />
   </url>
   <url>
@@ -955,34 +983,6 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/products/cargo-pants/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/cargo-pants/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/cargo-pants/"
-    />
-  </url>
-  <url>
-    <loc>https://bettzen.com/zh/products/cupro-skirt/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/products/cupro-skirt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/products/cupro-skirt/"
-    />
-  </url>
-  <url>
     <loc>https://bettzen.com/zh/about/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -997,20 +997,6 @@
     />
   </url>
   <url>
-    <loc>https://bettzen.com/zh/contact/</loc>
-    <lastmod>2026-03-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://bettzen.com/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://bettzen.com/zh/contact/"
-    />
-  </url>
-  <url>
     <loc>https://bettzen.com/zh/posts/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1022,6 +1008,20 @@
       rel="alternate"
       hreflang="zh"
       href="https://bettzen.com/zh/posts/"
+    />
+  </url>
+  <url>
+    <loc>https://bettzen.com/zh/contact/</loc>
+    <lastmod>2026-03-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://bettzen.com/contact/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://bettzen.com/zh/contact/"
     />
   </url>
 </urlset>

@@ -13,10 +13,10 @@ summary: "This woven bag is crafted from raffia paper, a material that provides 
 **Item No.: 26073102**
 
 <div class="product-images">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-1.webp">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-2.webp">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-3.webp">
-  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-4.webp">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-1.webp" alt="Raffia Paper Woven Bag Structured Silhouette Main">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-2.webp" alt="Raffia Paper Woven Bag Structured Silhouette Detail 1">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-3.webp" alt="Raffia Paper Woven Bag Structured Silhouette Detail 2">
+  <img src="/images/products/raffia-paper-woven-bag-structured-silhouette-4.webp" alt="Raffia Paper Woven Bag Structured Silhouette Detail 3">
 </div>
 
 Item No.: 26073102

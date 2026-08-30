@@ -13,10 +13,10 @@ summary: "This garment features a natural ramie fabric construction, offering su
 **Item No.: 26072302**
 
 <div class="product-images">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-1.webp">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-2.webp">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-3.webp">
-  <img src="/images/products/embroidered-linen-blouse-ethnic-style-4.webp">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-1.webp" alt="Embroidered Linen Blouse Ethnic Style Main">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-2.webp" alt="Embroidered Linen Blouse Ethnic Style Detail 1">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-3.webp" alt="Embroidered Linen Blouse Ethnic Style Detail 2">
+  <img src="/images/products/embroidered-linen-blouse-ethnic-style-4.webp" alt="Embroidered Linen Blouse Ethnic Style Detail 3">
 </div>
 
 Item No.: 26072302

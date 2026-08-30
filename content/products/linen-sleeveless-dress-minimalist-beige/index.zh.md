@@ -13,10 +13,10 @@ summary: "小禾米色亚麻无袖连衣裙，超细纤维亚麻，质感柔软�
 产品编号：26072104
 
 <div class="product-images">
-  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-1.webp">
-  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-2.webp">
-  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-3.webp">
-  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-4.webp">
+  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-1.webp" alt="小禾米色亚麻无袖连衣裙 主图">
+  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-2.webp" alt="小禾米色亚麻无袖连衣裙 细节图1">
+  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-3.webp" alt="小禾米色亚麻无袖连衣裙 细节图2">
+  <img src="/images/products/linen-sleeveless-dress-minimalist-beige-4.webp" alt="小禾米色亚麻无袖连衣裙 细节图3">
 </div>
 
 **描述**

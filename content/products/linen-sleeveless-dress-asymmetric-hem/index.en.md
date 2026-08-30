@@ -13,10 +13,10 @@ summary: "This sleeveless dress is crafted from 100% natural linen, offering a b
 **Item No.: 26072105**
 
 <div class="product-images">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-1.webp">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-2.webp">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-3.webp">
-  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-4.webp">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-1.webp" alt="Linen Sleeveless Dress Asymmetric Hem Main">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-2.webp" alt="Linen Sleeveless Dress Asymmetric Hem Detail 1">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-3.webp" alt="Linen Sleeveless Dress Asymmetric Hem Detail 2">
+  <img src="/images/products/linen-sleeveless-dress-asymmetric-hem-4.webp" alt="Linen Sleeveless Dress Asymmetric Hem Detail 3">
 </div>
 
 Item No.: 26072105

@@ -14,10 +14,10 @@ summary: "本款衬衫采用100%天然亚麻面料，具备出色的透气性与
 
 
 <div class="product-images">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-1.webp">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-2.webp">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-3.webp">
-  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-4.webp">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-1.webp" alt="亚麻短袖衬衫 立体小马刺绣 主图">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-2.webp" alt="亚麻短袖衬衫 立体小马刺绣 细节图1">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-3.webp" alt="亚麻短袖衬衫 立体小马刺绣 细节图2">
+  <img src="/images/products/linen-shirt-embroidered-pony-short-sleeve-4.webp" alt="亚麻短袖衬衫 立体小马刺绣 细节图3">
 </div>
 
 

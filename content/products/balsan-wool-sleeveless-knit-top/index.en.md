@@ -13,10 +13,10 @@ summary: "This sleeveless knit top is crafted from Balsan wool yarn, offering a 
 **Item No.: 26080603**
 
 <div class="product-images">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-1.webp">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-2.webp">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-3.webp">
-  <img src="/images/products/balsan-wool-sleeveless-knit-top-4.webp">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-1.webp" alt="Balsan Wool Sleeveless Knit Top Main">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-2.webp" alt="Balsan Wool Sleeveless Knit Top Detail 1">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-3.webp" alt="Balsan Wool Sleeveless Knit Top Detail 2">
+  <img src="/images/products/balsan-wool-sleeveless-knit-top-4.webp" alt="Balsan Wool Sleeveless Knit Top Detail 3">
 </div>
 
 Item No.: 26080603

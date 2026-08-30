@@ -13,10 +13,10 @@ summary: "This garment features a multi-layer cake silhouette crafted from 100% 
 **Item No.: 26072301**
 
 <div class="product-images">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-1.webp">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-2.webp">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-3.webp">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-4.webp">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-1.webp" alt="Layered Silk Top Flowy Cake Design Main">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-2.webp" alt="Layered Silk Top Flowy Cake Design Detail 1">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-3.webp" alt="Layered Silk Top Flowy Cake Design Detail 2">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-4.webp" alt="Layered Silk Top Flowy Cake Design Detail 3">
 </div>
 
 Item No.: 26072301

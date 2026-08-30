@@ -14,10 +14,10 @@ summary: "本款上衣采用100%桑蚕丝顺羽面料，质地轻盈，垂坠感
 
 
 <div class="product-images">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-1.webp">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-2.webp">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-3.webp">
-  <img src="/images/products/layered-silk-top-flowy-cake-design-4.webp">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-1.webp" alt="真丝蛋糕款上衣 多层设计 度假风 主图">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-2.webp" alt="真丝蛋糕款上衣 多层设计 度假风 细节图1">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-3.webp" alt="真丝蛋糕款上衣 多层设计 度假风 细节图2">
+  <img src="/images/products/layered-silk-top-flowy-cake-design-4.webp" alt="真丝蛋糕款上衣 多层设计 度假风 细节图3">
 </div>
 
 

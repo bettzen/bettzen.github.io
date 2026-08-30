@@ -14,10 +14,10 @@ summary: "本款连衣裙采用铜氨丝混纺面料，触感丝滑，垂坠性�
 
 
 <div class="product-images">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-1.webp">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-2.webp">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-3.webp">
-  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-4.webp">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-1.webp" alt="铜氨丝吊带连衣裙 复古波点 主图">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-2.webp" alt="铜氨丝吊带连衣裙 复古波点 细节图1">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-3.webp" alt="铜氨丝吊带连衣裙 复古波点 细节图2">
+  <img src="/images/products/cupro-spaghetti-strap-dress-retro-polka-dot-4.webp" alt="铜氨丝吊带连衣裙 复古波点 细节图3">
 </div>
 
 

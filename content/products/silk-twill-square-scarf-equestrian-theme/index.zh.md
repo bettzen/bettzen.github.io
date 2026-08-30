@@ -14,10 +14,10 @@ summary: "本款方巾采用100%双面真丝斜纹绸面料，触感丝滑柔顺
 
 
 <div class="product-images">
-  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-1.webp">
-  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-2.webp">
-  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-3.webp">
-  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-4.webp">
+  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-1.webp" alt="真丝大方巾 批发 马术学院主题 100%双面真丝斜纹绸 手工卷边 90cm方巾 boutique选品 主图">
+  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-2.webp" alt="真丝大方巾 批发 马术学院主题 100%双面真丝斜纹绸 手工卷边 90cm方巾 boutique选品 细节图1">
+  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-3.webp" alt="真丝大方巾 批发 马术学院主题 100%双面真丝斜纹绸 手工卷边 90cm方巾 boutique选品 细节图2">
+  <img src="/images/products/silk-twill-square-scarf-equestrian-theme-4.webp" alt="真丝大方巾 批发 马术学院主题 100%双面真丝斜纹绸 手工卷边 90cm方巾 boutique选品 细节图3">
 </div>
 
 

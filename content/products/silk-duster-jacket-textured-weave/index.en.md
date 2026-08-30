@@ -13,10 +13,10 @@ summary: "This garment is crafted from a textured silk fabric featuring a dimens
 **Item No.: 26072106**
 
 <div class="product-images">
-  <img src="/images/products/silk-duster-jacket-textured-weave-1.webp">
-  <img src="/images/products/silk-duster-jacket-textured-weave-2.webp">
-  <img src="/images/products/silk-duster-jacket-textured-weave-3.webp">
-  <img src="/images/products/silk-duster-jacket-textured-weave-4.webp">
+  <img src="/images/products/silk-duster-jacket-textured-weave-1.webp" alt="Silk Duster Jacket Textured Weave Main">
+  <img src="/images/products/silk-duster-jacket-textured-weave-2.webp" alt="Silk Duster Jacket Textured Weave Detail 1">
+  <img src="/images/products/silk-duster-jacket-textured-weave-3.webp" alt="Silk Duster Jacket Textured Weave Detail 2">
+  <img src="/images/products/silk-duster-jacket-textured-weave-4.webp" alt="Silk Duster Jacket Textured Weave Detail 3">
 </div>
 
 Item No.: 26072106
