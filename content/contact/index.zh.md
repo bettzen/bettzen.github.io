@@ -15,7 +15,7 @@ description: "深圳百陈服装有限公司——您值得信赖的深圳女装
 
 - **邮箱**：`sales@bettzen.com`
 
-- **WhatsApp**：`+86 138-xxxx-xxxx`
+- **WhatsApp**：`@bettzenclothing`
 
 - **微信**：`bcfz89`
 

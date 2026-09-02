@@ -14,7 +14,7 @@ draft: false
 
 - **Email**: `sales@bettzen.com`
 
-- **WhatsApp**: `+86 138-xxxx-xxxx`
+- **WhatsApp**: `@bettzenclothing`
 
 - **WeChat**: `bcfz89`
 
