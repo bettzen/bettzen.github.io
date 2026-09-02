@@ -12,8 +12,10 @@ draft: false
 
 - **Address**: Longgang Central City, Shenzhen, China
 
-- **WeChat**: `bcfz89`
-
 - **Email**: `sales@bettzen.com`
+
+- **WhatsApp**: `+86 138-xxxx-xxxx`
+
+- **WeChat**: `bcfz89`
 
 Feel free to contact us for more product details and cooperation opportunities!
