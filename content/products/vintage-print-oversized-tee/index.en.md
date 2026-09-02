@@ -1,4 +1,6 @@
 ---
+min_price: 23.61
+moq: 50
 title: "Wholesale Washed Cotton T-Shirt Vintage Print Oversized"
 date: 2026-03-31
 draft: false

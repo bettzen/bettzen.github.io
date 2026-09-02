@@ -1,4 +1,6 @@
 ---
+min_price: 31.67
+moq: 50
 title: "Wholesale Linen Lyocell Peplum Lace Cardigan Cover-Up"
 date: 2026-05-03
 draft: false

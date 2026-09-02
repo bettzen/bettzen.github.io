@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Woven Raffia Bag Leather Trim Small Size"
 date: 2026-08-29T00:55:13+08:00
 draft: false

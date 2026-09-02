@@ -1,4 +1,6 @@
 ---
+min_price: 22.22
+moq: 50
 title: "车菊蓝字母T恤"
 date: 2026-04-08
 draft: false

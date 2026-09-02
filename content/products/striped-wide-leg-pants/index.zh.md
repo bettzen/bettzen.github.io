@@ -1,4 +1,6 @@
 ---
+min_price: 35.42
+moq: 50
 title: "小马刺绣条纹直筒裤"
 date: 2026-03-29
 draft: false

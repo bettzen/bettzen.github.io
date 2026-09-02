@@ -1,4 +1,6 @@
 ---
+min_price: 34.03
+moq: 50
 title: "Wholesale Linen Shirts Lightweight Overshirt Multi-Color"
 date: 2026-04-27
 draft: false

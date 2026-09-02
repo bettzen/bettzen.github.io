@@ -1,4 +1,6 @@
 ---
+min_price: 30.56
+moq: 50
 title: "SE刺绣紫粉色针织开衫"
 date: 2026-05-03
 draft: false

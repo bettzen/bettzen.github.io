@@ -52,8 +52,12 @@
   {{ end }}
 
   {{/* Social */}}
-  {{ template "_internal/opengraph.html" . }}
-  {{ template "_internal/twitter_cards.html" . }}
+  {{/* 产品页（含有效锚点价）跳过内置 article OG，避免与下方 Rich Pins 的 product OG 冲突 */}}
+  {{ $skipArticleOG := and .IsPage (eq .Section "products") (gt (float (.Params.min_price | default 0)) 0) }}
+  {{ if not $skipArticleOG }}
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+  {{ end }}
   {{/* Use defaultSocialImage if feature image does not exist */}}
   {{ $featureImage := "" }}
   {{ $pageImages := .Resources.ByType "image" }}

@@ -1,4 +1,6 @@
 ---
+min_price: 31.25
+moq: 50
 title: "藏青色天丝半裙"
 date: 2026-05-09
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Layered Silk Top Flowy Cake Design Mulberry"
 date: 2026-08-27
 draft: false

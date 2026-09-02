@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Cupro Spaghetti Strap Dress Retro Polka Dot"
 date: 2026-08-28T14:57:24+08:00
 draft: false

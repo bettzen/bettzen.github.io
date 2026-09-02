@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "真丝大方巾 马术学院主题 手工卷边"
 date: 2026-08-28T21:17:22+08:00
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 36.11
+moq: 50
 title: "灯芯绒领工装外套"
 date: 2026-03-26
 draft: false

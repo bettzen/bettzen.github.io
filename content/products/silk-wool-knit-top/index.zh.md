@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "丝毛混纺扣子打底衫"
 date: 2026-04-21
 draft: false

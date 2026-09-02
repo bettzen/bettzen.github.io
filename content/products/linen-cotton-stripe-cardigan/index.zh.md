@@ -1,4 +1,6 @@
 ---
+min_price: 33.33
+moq: 50
 title: "亚麻混纺条纹针织开衫"
 date: 2026-03-31
 draft: false

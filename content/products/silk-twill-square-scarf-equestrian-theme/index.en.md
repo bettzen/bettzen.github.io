@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Silk Twill Square Scarf Equestrian Theme Silk"
 date: 2026-08-28T21:17:22+08:00
 draft: false

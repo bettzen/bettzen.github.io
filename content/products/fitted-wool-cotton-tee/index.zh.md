@@ -1,4 +1,6 @@
 ---
+min_price: 19.44
+moq: 50
 title: "小香圆领修身T恤"
 date: 2026-04-08
 draft: false

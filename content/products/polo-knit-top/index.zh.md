@@ -1,4 +1,6 @@
 ---
+min_price: 25.69
+moq: 50
 title: "翻领POLO针织衫"
 date: 2026-04-27
 draft: false

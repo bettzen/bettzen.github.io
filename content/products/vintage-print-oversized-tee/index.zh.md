@@ -1,4 +1,6 @@
 ---
+min_price: 23.61
+moq: 50
 title: "复古印花宽松T恤"
 date: 2026-03-31
 draft: false

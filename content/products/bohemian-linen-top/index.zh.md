@@ -1,4 +1,6 @@
 ---
+min_price: 38.89
+moq: 50
 title: "波西米亚印花亚麻上衣"
 date: 2026-04-03
 draft: false

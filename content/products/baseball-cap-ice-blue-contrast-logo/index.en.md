@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Ice Blue Baseball Cap Contrast Logo Cotton"
 date: 2026-08-28T12:07:41+08:00
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 38.19
+moq: 50
 title: "Printed Ramie Shirt"
 date: 2026-04-17
 draft: false

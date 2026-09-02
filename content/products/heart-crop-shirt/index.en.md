@@ -1,4 +1,6 @@
 ---
+min_price: 37.50
+moq: 50
 title: "Wholesale Oxford Cotton Crop Shirt | 3D Heart Embroidery"
 date: 2026-03-29
 draft: false

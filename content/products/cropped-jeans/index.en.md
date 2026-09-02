@@ -1,4 +1,6 @@
 ---
+min_price: 37.50
+moq: 50
 title: "Wholesale Turkish Denim Cropped Straight Leg Jeans"
 date: 2026-04-21
 draft: false

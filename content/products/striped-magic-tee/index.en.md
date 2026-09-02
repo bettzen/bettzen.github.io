@@ -1,4 +1,6 @@
 ---
+min_price: 20.14
+moq: 50
 title: "Wholesale Silk Wool Acetate Striped Tee Slimming Magic"
 date: 2026-04-21
 draft: false

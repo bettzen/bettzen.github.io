@@ -1,4 +1,6 @@
 ---
+min_price: 22.22
+moq: 50
 title: "Wholesale Washed Cotton T-Shirt Vintage Letter Print"
 date: 2026-04-08
 draft: false

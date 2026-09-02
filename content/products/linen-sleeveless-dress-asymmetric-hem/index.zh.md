@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "亚麻无袖连衣裙 不规则下摆 | 天然面料 侧插袋设计"
 date: 2026-08-09
 draft: false

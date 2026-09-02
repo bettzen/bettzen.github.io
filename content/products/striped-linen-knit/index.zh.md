@@ -1,4 +1,6 @@
 ---
+min_price: 27.50
+moq: 50
 title: "文淇同款条纹针织衫"
 date: 2026-05-03
 draft: false

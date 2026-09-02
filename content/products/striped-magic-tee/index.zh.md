@@ -1,4 +1,6 @@
 ---
+min_price: 20.14
+moq: 50
 title: "弹力条纹修身T恤"
 date: 2026-04-21
 draft: false

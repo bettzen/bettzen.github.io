@@ -1,4 +1,6 @@
 ---
+min_price: 20.14
+moq: 50
 title: "三角标短款小版T恤"
 date: 2026-04-17
 draft: false

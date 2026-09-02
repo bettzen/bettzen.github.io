@@ -1,4 +1,6 @@
 ---
+min_price: 38.89
+moq: 50
 title: "Wholesale Linen Blouse | Bohemian Printed Deep V-Neck Top"
 date: 2026-04-03
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 31.25
+moq: 50
 title: "Wholesale Premium Tencel Skirt Navy A-Line Slimming"
 date: 2026-05-09
 draft: false

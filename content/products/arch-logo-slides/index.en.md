@@ -1,4 +1,6 @@
 ---
+min_price: 37.50
+moq: 50
 title: "Wholesale Embossed Arch Logo Slides Imported Leather"
 date: 2026-05-07
 draft: false

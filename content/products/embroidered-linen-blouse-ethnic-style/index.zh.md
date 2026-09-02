@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "刺绣麻上衣 民族风 | 立体盘花工艺"
 date: 2026-08-28T13:36:45+08:00
 draft: false

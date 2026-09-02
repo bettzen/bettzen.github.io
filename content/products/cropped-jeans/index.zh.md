@@ -1,4 +1,6 @@
 ---
+min_price: 37.50
+moq: 50
 title: "九分直筒牛仔裤"
 date: 2026-04-21
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 20.14
+moq: 50
 title: "印花标签极简T恤"
 date: 2026-03-29
 draft: false

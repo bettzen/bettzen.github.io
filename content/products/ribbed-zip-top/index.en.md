@@ -1,4 +1,6 @@
 ---
+min_price: 27.08
+moq: 50
 title: "Wholesale Ribbed Knit Top | Zipper Neck Fitted Long Sleeve"
 date: 2026-04-03
 draft: false

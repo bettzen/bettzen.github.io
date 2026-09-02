@@ -1,4 +1,6 @@
 ---
+min_price: 31.67
+moq: 50
 title: "MD荷叶边镂空开衫"
 date: 2026-05-03
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 33.33
+moq: 50
 title: "Wholesale Linen Cotton Cardigan Striped Oversized Knit"
 date: 2026-03-31
 draft: false

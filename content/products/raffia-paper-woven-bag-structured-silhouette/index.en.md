@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Raffia Paper Woven Bag Structured Silhouette"
 date: 2026-08-28T12:10:30+08:00
 draft: false

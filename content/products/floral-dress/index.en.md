@@ -1,4 +1,6 @@
 ---
+min_price: 31.94
+moq: 50
 title: "Wholesale Floral Print Puff Sleeve Fit Flare Dress"
 date: 2026-04-27
 draft: false

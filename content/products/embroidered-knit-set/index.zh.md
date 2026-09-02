@@ -1,4 +1,6 @@
 ---
+min_price: 34.03
+moq: 50
 title: "字母刺绣针织套装"
 date: 2026-04-08
 draft: false

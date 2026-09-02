@@ -1,4 +1,6 @@
 ---
+min_price: 36.11
+moq: 50
 title: "Wholesale Drawstring Culottes Linen Blend Summer Pants"
 date: 2026-05-07
 draft: false

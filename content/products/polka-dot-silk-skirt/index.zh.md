@@ -1,4 +1,6 @@
 ---
+min_price: 36.11
+moq: 50
 title: "小鱼尾波点真丝半裙"
 date: 2026-05-09
 draft: false

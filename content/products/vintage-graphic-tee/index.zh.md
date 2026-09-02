@@ -1,4 +1,6 @@
 ---
+min_price: 15.97
+moq: 50
 title: "复古印花T恤"
 date: 2026-05-09
 draft: false

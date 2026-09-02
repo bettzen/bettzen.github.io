@@ -1,4 +1,6 @@
 ---
+min_price: 41.39
+moq: 50
 title: "双拉链抽绳工装裤"
 date: 2026-03-26
 draft: false

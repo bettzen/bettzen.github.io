@@ -1,4 +1,6 @@
 ---
+min_price: 30.56
+moq: 50
 title: "Wholesale 3D Embroidered Lambswool Blend Cardigan"
 date: 2026-05-03
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Silk Wool Blend Button-Down Knit Top Fitted"
 date: 2026-04-21
 draft: false

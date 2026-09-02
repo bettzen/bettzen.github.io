@@ -1,4 +1,6 @@
 ---
+min_price: 25.69
+moq: 50
 title: "Striped Twist-Detail Long Sleeve Top"
 date: 2026-04-17
 draft: false

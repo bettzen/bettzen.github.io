@@ -1,4 +1,6 @@
 ---
+min_price: 38.19
+moq: 50
 title: "绿色印花苎麻衬衫"
 date: 2026-04-17
 draft: false

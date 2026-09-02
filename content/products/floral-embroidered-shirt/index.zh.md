@@ -1,4 +1,6 @@
 ---
+min_price: 43.75
+moq: 50
 title: "法式小碎花刺绣衬衫"
 date: 2026-05-09
 draft: false

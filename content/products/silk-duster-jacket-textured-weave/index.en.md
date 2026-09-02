@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Silk Duster Jacket Textured Weave Drawstring"
 date: 2026-08-09
 draft: false

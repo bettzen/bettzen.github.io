@@ -1,4 +1,6 @@
 ---
+min_price: 21.53
+moq: 50
 title: "卡通小汽车T恤"
 date: 2026-04-27
 draft: false

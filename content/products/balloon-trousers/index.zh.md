@@ -1,4 +1,6 @@
 ---
+min_price: 29.86
+moq: 50
 title: "8分阔腿气球裤"
 date: 2026-04-27
 draft: false

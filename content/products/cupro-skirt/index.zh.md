@@ -1,4 +1,6 @@
 ---
+min_price: 41.39
+moq: 50
 title: "下摆立体剪花半裙"
 date: 2026-03-26
 draft: false

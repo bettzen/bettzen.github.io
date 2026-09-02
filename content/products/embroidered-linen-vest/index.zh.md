@@ -1,4 +1,6 @@
 ---
+min_price: 45.83
+moq: 50
 title: "立体盘花亚麻马甲"
 date: 2026-04-21
 draft: false

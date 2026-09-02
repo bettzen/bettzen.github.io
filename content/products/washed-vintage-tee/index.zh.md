@@ -1,4 +1,6 @@
 ---
+min_price: 20.14
+moq: 50
 title: "水洗做旧印花T恤"
 date: 2026-04-03
 draft: false

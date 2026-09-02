@@ -1,4 +1,6 @@
 ---
+min_price: 23.61
+moq: 50
 title: "Wholesale Wool Cotton Blend U-Neck Tee Drapey Fitted"
 date: 2026-04-21
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 48.61
+moq: 50
 title: "Wholesale Double Strap Platform Sandals Nubuck Leather"
 date: 2026-05-07
 draft: false

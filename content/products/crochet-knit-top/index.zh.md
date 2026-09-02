@@ -1,4 +1,6 @@
 ---
+min_price: 33.33
+moq: 50
 title: "无袖钩花针织上衣"
 date: 2026-03-31
 draft: false

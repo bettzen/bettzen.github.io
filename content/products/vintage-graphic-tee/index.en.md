@@ -1,4 +1,6 @@
 ---
+min_price: 15.97
+moq: 50
 title: "Wholesale Vintage Graphic Tee Retro Poster Print Cotton"
 date: 2026-05-09
 draft: false

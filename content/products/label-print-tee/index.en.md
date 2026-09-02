@@ -1,4 +1,6 @@
 ---
+min_price: 20.14
+moq: 50
 title: "Wholesale Premium Cotton Tee Minimalist Label Print"
 date: 2026-03-29
 draft: false

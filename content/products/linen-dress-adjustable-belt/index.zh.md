@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "MAX*绑带亚麻连衣裙"
 date: 2026-08-02
 draft: false

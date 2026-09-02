@@ -1,4 +1,6 @@
 ---
+min_price: 25.69
+moq: 50
 title: "Wholesale Collared Polo Knit Top Wool Lyocell Blend"
 date: 2026-04-27
 draft: false

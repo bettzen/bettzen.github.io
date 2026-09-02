@@ -1,4 +1,6 @@
 ---
+min_price: 29.86
+moq: 50
 title: "Wholesale Cotton Wide Leg Balloon Trousers Women's"
 date: 2026-04-27
 draft: false

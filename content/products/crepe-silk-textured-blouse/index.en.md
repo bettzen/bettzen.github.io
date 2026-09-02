@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Crepe Silk Textured Blouse 100% Mulberry Silk"
 date: 2026-08-08
 draft: false

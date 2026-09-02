@@ -1,4 +1,6 @@
 ---
+min_price: 27.50
+moq: 50
 title: "Wholesale Linen Blend Striped Knit Top Drawstring Hem"
 date: 2026-05-03
 draft: false

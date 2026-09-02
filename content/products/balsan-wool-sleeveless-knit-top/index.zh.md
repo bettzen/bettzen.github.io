@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "巴素兰羊毛背心针织衫 | 细腻软糯 轻薄有型"
 date: 2026-08-28T01:18:10
 draft: false

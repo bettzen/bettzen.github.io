@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Embroidered Linen Blouse Ethnic 3D Floral"
 date: 2026-08-28T13:36:45+08:00
 draft: false

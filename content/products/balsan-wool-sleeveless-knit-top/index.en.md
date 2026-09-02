@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Balsan Wool Sleeveless Knit Top Soft Texture"
 date: 2026-08-28T01:18:10
 draft: false

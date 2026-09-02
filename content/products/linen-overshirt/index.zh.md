@@ -1,4 +1,6 @@
 ---
+min_price: 34.03
+moq: 50
 title: "亚麻衬衫"
 date: 2026-04-27
 draft: false

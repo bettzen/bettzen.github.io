@@ -1,4 +1,6 @@
 ---
+min_price: 40.28
+moq: 50
 title: "土星刺绣带帽衬衫"
 date: 2026-03-31
 draft: false

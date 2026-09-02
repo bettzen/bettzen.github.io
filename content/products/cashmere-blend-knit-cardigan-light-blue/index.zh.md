@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "浅蓝巴素兰羊毛针织开衫 细腻软糯 轻薄有型"
 date: 2026-08-28T01:08:31
 draft: false

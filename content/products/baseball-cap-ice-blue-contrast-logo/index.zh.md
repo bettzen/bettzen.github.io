@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "棒球帽 冰川蓝 黄标LOGO帽 全棉洗水斜纹布"
 date: 2026-08-28T12:07:41+08:00
 draft: false

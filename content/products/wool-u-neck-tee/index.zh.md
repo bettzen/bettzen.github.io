@@ -1,4 +1,6 @@
 ---
+min_price: 23.61
+moq: 50
 title: "羊毛混纺U领T恤"
 date: 2026-04-21
 draft: false

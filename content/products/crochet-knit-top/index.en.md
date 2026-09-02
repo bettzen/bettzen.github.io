@@ -1,4 +1,6 @@
 ---
+min_price: 33.33
+moq: 50
 title: "Wholesale Crochet Knit Top Sleeveless Rhinestone Wool"
 date: 2026-03-31
 draft: false

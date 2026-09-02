@@ -1,4 +1,6 @@
 ---
+min_price: 41.39
+moq: 50
 title: "Wholesale 3D Embossed Cupro Skirt Metallic Sheen"
 description: "A statement piece defined by luxury and craftsmanship. Crafted from premium cupro fabric that boasts a subtle metallic sheen and fluid drape. The"
 date: 2026-03-26

@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "EP雅莹真丝薄外套"
 date: 2026-08-09
 draft: false

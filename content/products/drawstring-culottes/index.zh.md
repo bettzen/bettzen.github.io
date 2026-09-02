@@ -1,4 +1,6 @@
 ---
+min_price: 36.11
+moq: 50
 title: "系带阔腿裙裤"
 date: 2026-05-07
 draft: false

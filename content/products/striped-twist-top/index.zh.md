@@ -1,4 +1,6 @@
 ---
+min_price: 25.69
+moq: 50
 title: "条纹扭绳宽松长袖T恤"
 date: 2026-04-17
 draft: false

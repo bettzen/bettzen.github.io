@@ -1,4 +1,6 @@
 ---
+min_price: 54.86
+moq: 50
 title: "Wholesale Italian Suede Driving Loafers Pebble Sole"
 date: 2026-05-07
 draft: false

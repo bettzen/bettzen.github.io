@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Linen Dress Adjustable Belt Natural Fabric"
 date: 2026-08-02
 draft: false

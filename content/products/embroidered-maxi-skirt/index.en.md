@@ -1,4 +1,6 @@
 ---
+min_price: 36.11
+moq: 50
 title: "Wholesale Embroidered High Cotton A-Line Maxi Skirt"
 date: 2026-05-03
 draft: false

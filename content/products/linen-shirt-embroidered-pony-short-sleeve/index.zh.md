@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "亚麻短袖衬衫 立体小马刺绣 | 天然透气夏季单品"
 date: 2026-08-27
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "小禾鬼绉真丝肌理感上衣"
 date: 2026-08-08
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "香云纱老钱风宽松马甲 | 龟裂质感"
 date: 2026-06-19
 draft: false

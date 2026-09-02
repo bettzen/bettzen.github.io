@@ -1,4 +1,6 @@
 ---
+min_price: 36.11
+moq: 50
 title: "Wholesale Utility Jacket Corduroy Collar Cotton Twill"
 description: "A timeless utility jacket updated with a vintage touch. Constructed from durable cotton twill, it features a distinctive contrasting corduroy"
 date: 2026-03-26

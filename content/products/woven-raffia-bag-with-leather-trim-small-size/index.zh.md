@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "拉菲草编织包 真皮包边 小号"
 date: 2026-08-29T00:55:13+08:00
 draft: false

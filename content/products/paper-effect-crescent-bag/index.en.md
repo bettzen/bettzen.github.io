@@ -1,4 +1,6 @@
 ---
+min_price: 62.50
+moq: 50
 title: "Wholesale Leather Bags | Textured Crescent Crossbody Bag"
 date: 2026-04-08
 draft: false

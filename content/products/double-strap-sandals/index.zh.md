@@ -1,4 +1,6 @@
 ---
+min_price: 48.61
+moq: 50
 title: "双带厚底凉拖"
 date: 2026-05-07
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 45.83
+moq: 50
 title: "Wholesale 3D Embroidered Linen Vest Boho Chic Topper"
 date: 2026-04-21
 draft: false

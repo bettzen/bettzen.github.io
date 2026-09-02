@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Cashmere-Blend Knit Cardigan Light Blue Soft"
 date: 2026-08-28T01:08:31
 draft: false

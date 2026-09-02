@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "小禾米色亚麻无袖连衣裙"
 date: 2026-08-09
 draft: false

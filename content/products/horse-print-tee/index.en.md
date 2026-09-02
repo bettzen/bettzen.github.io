@@ -1,4 +1,6 @@
 ---
+min_price: 20.14
+moq: 50
 title: "Hand-Drawn Horse Print T-Shirt"
 date: 2026-04-17
 draft: false

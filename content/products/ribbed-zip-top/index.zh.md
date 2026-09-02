@@ -1,4 +1,6 @@
 ---
+min_price: 27.08
+moq: 50
 title: "坑条拉链针织上衣"
 date: 2026-04-03
 draft: false

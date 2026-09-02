@@ -1,4 +1,6 @@
 ---
+min_price: 20.14
+moq: 50
 title: "Logo Cropped Fitted Tee"
 date: 2026-04-17
 draft: false

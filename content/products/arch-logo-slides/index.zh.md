@@ -1,4 +1,6 @@
 ---
+min_price: 37.50
+moq: 50
 title: "凯旋门压印拖鞋"
 date: 2026-05-07
 draft: false

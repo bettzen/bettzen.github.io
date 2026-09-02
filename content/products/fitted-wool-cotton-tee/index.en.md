@@ -1,4 +1,6 @@
 ---
+min_price: 19.44
+moq: 50
 title: "Wholesale Fitted Tee Cotton Wool Blend Knit Premium"
 date: 2026-04-08
 draft: false

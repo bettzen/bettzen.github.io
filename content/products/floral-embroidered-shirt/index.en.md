@@ -1,4 +1,6 @@
 ---
+min_price: 43.75
+moq: 50
 title: "Wholesale Floral Embroidered Shirt Cotton Voile 80s"
 date: 2026-05-09
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 40.28
+moq: 50
 title: "抽绳腰苎麻半裙"
 date: 2026-04-21
 draft: false

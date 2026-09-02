@@ -1,4 +1,6 @@
 ---
+min_price: 37.50
+moq: 50
 title: "爱心短款衬衫"
 date: 2026-03-29
 draft: false

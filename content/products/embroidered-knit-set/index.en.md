@@ -1,4 +1,6 @@
 ---
+min_price: 34.03
+moq: 50
 title: "Wholesale Embroidered Knit Set Crop Top Wide Leg Pants"
 date: 2026-04-08
 draft: false

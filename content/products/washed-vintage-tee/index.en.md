@@ -1,4 +1,6 @@
 ---
+min_price: 20.14
+moq: 50
 title: "Wholesale Washed Cotton Tee | Vintage Print Premium Basic"
 date: 2026-04-03
 draft: false

@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "真丝蛋糕款上衣 多层设计 轻盈飘逸"
 date: 2026-08-27
 draft: false

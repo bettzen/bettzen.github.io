@@ -1,4 +1,6 @@
 ---
+min_price: 19.99
+moq: 50
 title: "Wholesale Silk Vest Old Money Style Cool Drape Fabric"
 date: 2026-06-19
 draft: false

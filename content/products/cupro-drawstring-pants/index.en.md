@@ -1,4 +1,6 @@
 ---
+min_price: 26.39
+moq: 50
 title: "Wholesale Cupro Trousers | Drapey Drawstring Wide Leg Pants"
 date: 2026-04-03
 draft: false

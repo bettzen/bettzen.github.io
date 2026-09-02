@@ -1,4 +1,6 @@
 ---
+min_price: 26.39
+moq: 50
 title: "铜氨丝抽绳直筒裤"
 date: 2026-04-03
 draft: false

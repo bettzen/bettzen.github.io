@@ -1,4 +1,6 @@
 ---
+min_price: 62.50
+moq: 50
 title: "纸质效果月牙包"
 date: 2026-04-08
 draft: false

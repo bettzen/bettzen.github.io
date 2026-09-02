@@ -1,4 +1,6 @@
 ---
+min_price: 31.94
+moq: 50
 title: "碎花泡泡袖连衣裙"
 date: 2026-04-27
 draft: false

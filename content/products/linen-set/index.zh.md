@@ -1,4 +1,6 @@
 ---
+min_price: 54.17
+moq: 50
 title: "马甲长裤丝麻套装"
 date: 2026-03-26
 draft: false

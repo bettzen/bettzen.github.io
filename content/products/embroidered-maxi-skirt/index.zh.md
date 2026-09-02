@@ -1,4 +1,6 @@
 ---
+min_price: 36.11
+moq: 50
 title: "拉夫小马刺绣长半裙"
 date: 2026-05-03
 draft: false

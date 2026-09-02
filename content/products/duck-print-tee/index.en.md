@@ -1,4 +1,6 @@
 ---
+min_price: 18.75
+moq: 50
 title: "Wholesale Hemp Cotton T-Shirt Duck Graphic Print"
 date: 2026-03-29
 draft: false

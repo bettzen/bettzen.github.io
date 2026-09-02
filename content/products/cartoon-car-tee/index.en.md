@@ -1,4 +1,6 @@
 ---
+min_price: 21.53
+moq: 50
 title: "Wholesale Cartoon Print T-Shirt Cotton Lyocell Relaxed"
 date: 2026-04-27
 draft: false

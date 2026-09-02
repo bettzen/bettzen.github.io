@@ -1,4 +1,6 @@
 ---
+min_price: 36.11
+moq: 50
 title: "Wholesale Silk Blend Polka Dot Fishtail Skirt Flowy"
 date: 2026-05-09
 draft: false
