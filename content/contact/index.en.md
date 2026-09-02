@@ -14,6 +14,6 @@ draft: false
 
 - **WeChat**: `bcfz89`
 
-- **Email**: `bettzen@qq.com`
+- **Email**: `sales@bettzen.com`
 
 Feel free to contact us for more product details and cooperation opportunities!
