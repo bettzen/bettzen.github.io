@@ -17,6 +17,16 @@
   <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
 {{- end -}}
 
+{{- /* ===== 全站默认 og:image：社交分享 / VK 链接卡片 ===== */ -}}
+{{- $isProductPage := and .IsPage (eq .Section "products") -}}
+{{- if not $isProductPage -}}
+<meta property="og:image" content="https://bettzen.com/images/og-cover.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:image" content="https://bettzen.com/images/og-cover.jpg" />
+{{- end -}}
+
 {{- /* ===== Open Graph for Rich Pins (B2B Wholesale) — 仅产品页输出 ===== */ -}}
 {{- if and .IsPage (eq .Section "products") -}}
   {{- with .Params.min_price -}}
